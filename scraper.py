@@ -113,7 +113,7 @@ def scrapeData(inputFile):
         while i < len(rawData) and rawData[i].rstrip() != endOfHighlight:
             quote += rawData[i].rstrip() + '\n' 
             i+=1
-        quote.rstrip()
+        quote = quote.rstrip()
         if quote == '': 
             continue
         book = bookExist(bookName)        

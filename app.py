@@ -21,12 +21,6 @@ def fileSubmitted():
 
     bookData = []
     bookData = scrapeData('Uploads/MyClippings.txt')
-    for a in bookData:
-        print(a.getAuthor())
-        print(a.getTitle())
-        print(a.getQuotes())
-        print()
-        print()
     for book in bookData:
         title = book.getTitle()
         with open('tempFile.md','w') as md:
