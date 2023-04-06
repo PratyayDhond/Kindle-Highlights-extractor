@@ -6,26 +6,26 @@ Title  : Barbara Pease, Allan Pease - The Definitive Book of Body Language-Banta
 quote -> found that the total impact of a message is about 7 percent verbal (words only) and 38 percent vocal (including tone of voice, inflection, and other sounds) and 55 percent nonverbal. It's how you
 timestamp -> Saturday, January 21, 2023 6:23:31 AM
 location -> 390-391
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> found that the total impact of a message is about 7 percent verbal (words only) and 38 percent vocal (including tone of voice, inflection, and other sounds) and 55 percent nonverbal
 timestamp -> Saturday, January 21, 2023 6:23:34 AM
 location -> 390-391
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It's how you looked when you said it, not what you actually
 timestamp -> Saturday, January 21, 2023 6:23:37 AM
 location -> 391-392
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It's how you looked when you said
 timestamp -> Saturday, January 21, 2023 6:23:40 AM
 location -> 391-391
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It's how you looked when you said it, not what you actually said.
 timestamp -> Saturday, January 21, 2023 6:23:46 AM
 location -> 391-392
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 ------------------------------------------------------------------------------------------------------------------

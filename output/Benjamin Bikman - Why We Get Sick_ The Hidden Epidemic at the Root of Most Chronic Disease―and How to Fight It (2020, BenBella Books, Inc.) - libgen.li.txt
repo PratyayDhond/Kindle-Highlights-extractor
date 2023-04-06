@@ -6,126 +6,126 @@ Title  : Benjamin Bikman - Why We Get Sick_ The Hidden Epidemic at the Root of M
 quote -> œplague of prosperityâ
 timestamp -> Saturday, December 31, 2022 6:16:50 AM
 location -> 265-265
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> insulinâ€”its heavy hand touches every cell.
 timestamp -> Saturday, December 31, 2022 6:18:53 AM
 location -> 285-285
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> when insulin binds to a liver cell, the liver cell makes fat
 timestamp -> Saturday, December 31, 2022 6:19:00 AM
 location -> 286-286
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> when insulin binds to a muscle cell, the muscle cell makes new proteins
 timestamp -> Saturday, December 31, 2022 6:19:06 AM
 location -> 286-287
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> From the brain to the toes, insulin regulates how a cell uses energy,
 timestamp -> Saturday, December 31, 2022 6:19:16 AM
 location -> 287-287
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> From the brain to the toes, insulin regulates how a cell uses energy, changes its size, influences production of other hormones,
 timestamp -> Saturday, December 31, 2022 6:19:21 AM
 location -> 287-288
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> From the brain to the toes, insulin regulates how a cell uses energy, changes its size, influences production of other hormones, and even determines whether cells live or die.
 timestamp -> Saturday, December 31, 2022 6:19:28 AM
 location -> 287-288
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When a cell stops responding to insulin, which can be caused by various conditions (covered later), it becomes insulin resistant.
 timestamp -> Saturday, December 31, 2022 6:20:22 AM
 location -> 294-295
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The more accurate term is glucose, the invariable final form of the carbohydrates we consume once they are digested.
 timestamp -> Saturday, December 31, 2022 6:21:09 AM
 location -> 302-303
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> glucose is the typical blood marker we use to diagnose and monitor diabetes, but we should really be paying attention to insulin levels first.
 timestamp -> Saturday, December 31, 2022 6:22:33 AM
 location -> 313-314
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> with insulin resistance, insulin levels are higher than expected relative to glucose
 timestamp -> Saturday, December 31, 2022 6:22:58 AM
 location -> 311-312
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> type 1 diabetes is caused by having too little insulin (or none), type 2 is caused by having too much.
 timestamp -> Saturday, December 31, 2022 6:24:57 AM
 location -> 332-332
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> type 2 diabetes is insulin resistance that has progressed to the point where the body is unable to keep blood glucose levels below the clinically relevant 126 mg/dL.
 timestamp -> Saturday, December 31, 2022 6:29:57 AM
 location -> 381-382
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> ”insulin resistance and cardiovascular disorders are almost inseparable
 timestamp -> Saturday, December 31, 2022 6:32:18 AM
 location -> 404-404
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> disease and cardiovascular disorders are umbrella terms
 timestamp -> Saturday, December 31, 2022 6:32:48 AM
 location -> 409-409
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> disease and cardiovascular disorders are umbrella terms
 timestamp -> Saturday, December 31, 2022 6:32:49 AM
 location -> 409-409
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> heart disease and cardiovascular disorders are umbrella terms for various conditions that affect our heart and blood vessels.
 timestamp -> Saturday, December 31, 2022 6:32:58 AM
 location -> 409-409
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> insulin resistance and high insulin levels directly cause high blood pressure.
 timestamp -> Saturday, December 31, 2022 6:33:47 AM
 location -> 418-419
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Aldosterone is released from the adrenal glands, which are located above the kidneys, and helps to regulate the balance of salt and water in your body. Sodium and chloride, the two parts of salt, are both
 timestamp -> Saturday, December 31, 2022 7:02:25 AM
 location -> 430-431
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Aldosterone is released from the adrenal glands, which are located above the kidneys, and helps to regulate the balance of salt and water in your body. Sodium and chloride, the two parts of salt, are both
 timestamp -> Saturday, December 31, 2022 7:02:34 AM
 location -> 430-431
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Aldosterone is released from the adrenal glands, which are located above the kidneys, and helps to regulate the balance of salt and water in your body.
 timestamp -> Saturday, December 31, 2022 7:02:42 AM
 location -> 430-431
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> what does all this have to do with insulin resistance? Insulin selectively drives the production of LDL pattern B from the liver
 timestamp -> Saturday, December 31, 2022 8:33:23 AM
 location -> 511-512
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Insulin selectively drives the production of LDL pattern B from the liver
 timestamp -> Saturday, December 31, 2022 8:33:25 AM
 location -> 511-512
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> atherosclerosis, a process wherein the blood vessels become hardened and narrowed
 timestamp -> Saturday, December 31, 2022 5:24:37 PM
 location -> 530-531
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The switch is flipped when the fats and/or cholesterol are oxidized,
 timestamp -> Saturday, December 31, 2022 5:26:05 PM
 location -> 536-537
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 ------------------------------------------------------------------------------------------------------------------

@@ -6,246 +6,246 @@ Title  : Exactly What to Say: The Magic Words for Influence and Impact
 quote -> The worst time to think about the thing you are going to say is in the moment you are saying it. This
 timestamp -> Sunday, October 9, 2022 3:52:55 PM
 location -> 72-73
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The worst time to think about the thing you are going to say is in the moment you are saying it.
 timestamp -> Sunday, October 9, 2022 3:52:57 PM
 location -> 72-73
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Magic Words are sets of words that talk straight to the subconscious brain
 timestamp -> Sunday, October 9, 2022 3:54:35 PM
 location -> 118-118
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> set of Magic Words you can use to introduce something to just about anybody,
 timestamp -> Sunday, October 9, 2022 4:05:11 PM
 location -> 144-145
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> set of Magic Words you can use to introduce something to just about anybody, at just about any point in time, that is completely rejection-free.
 timestamp -> Sunday, October 9, 2022 4:05:18 PM
 location -> 144-145
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you say to somebody, “I’m not sure if it’s for you, but.. .,” the little voice inside your listener’s head hears, “You might want to look at this
 timestamp -> Sunday, October 9, 2022 4:07:10 PM
 location -> 156-157
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The word “but” negates everything that was said prior, so when you say to somebody, “I’m not sure if it’s for you, but..
 timestamp -> Sunday, October 9, 2022 4:07:31 PM
 location -> 154-155
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> .” The
 timestamp -> Sunday, October 9, 2022 4:07:39 PM
 location -> 154-154
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The word “but” negates everything that was said prior, so when you say to somebody, “I’m not sure if it’s for you, but..
 timestamp -> Sunday, October 9, 2022 4:07:45 PM
 location -> 154-155
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The word “but” negates everything that was said prior, so when you say to somebody, “I’m not sure if it’s for you, but..
 timestamp -> Sunday, October 9, 2022 4:07:46 PM
 location -> 154-155
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The word “but” negates everything that was said prior,
 timestamp -> Sunday, October 9, 2022 4:07:54 PM
 location -> 154-154
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> This rejection-free approach creates a simple outcome. One of two things happens: your listener leans in and asks for more information because they are personally interested, or, in the very, very worst-case scenario, they say they will give it some thought.
 timestamp -> Sunday, October 9, 2022 4:08:30 PM
 location -> 164-166
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Opening a statement with the words, “I’m not sure if it’s for you,” causes the listener’s subconscious brain to hear, “There’s no pressure here.” By suggesting that they may not be interested, you naturally increase their intrigue.
 timestamp -> Sunday, October 9, 2022 4:08:46 PM
 location -> 147-148
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Everybody wants to be open-minded.
 timestamp -> Sunday, October 9, 2022 4:09:48 PM
 location -> 176-176
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When introducing a new idea, start with, “How open-minded are you?” This will naturally attract people toward the very thing that you’d like them to support. Everybody wants to be open-minded.
 timestamp -> Sunday, October 9, 2022 4:10:23 PM
 location -> 185-187
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The best way to overcome the “I know best” mentality of many people is to question the knowledge on which the other person’s opinion was founded.
 timestamp -> Sunday, October 9, 2022 4:12:18 PM
 location -> 198-199
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> What do you know about...?
 timestamp -> Sunday, October 9, 2022 4:13:39 PM
 location -> 204-204
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> motivation is “a reason to move” or “a reason to do
 timestamp -> Sunday, October 9, 2022 4:14:34 PM
 location -> 226-226
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> People are motivated by one of two things: either avoiding a loss or acquiring a potential gain.
 timestamp -> Sunday, October 9, 2022 4:14:53 PM
 location -> 229-230
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The real world tells us that people will work far harder to avoid a potential loss than they will to achieve a potential gain.
 timestamp -> Sunday, October 9, 2022 4:15:28 PM
 location -> 236-237
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> By introducing a future scenario with the words, “How would you feel if...?” you allow the other person to time travel to that moment and
 timestamp -> Sunday, October 9, 2022 4:16:33 PM
 location -> 242-243
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> By introducing a future scenario with the words, “How would you feel if...?” you allow the other person to time travel to that moment and imagine the emotions that would be triggered at that point.
 timestamp -> Sunday, October 9, 2022 4:16:35 PM
 location -> 242-243
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Allowing the power attached to the other person’s creative mind to build your case for you will always save you guessing and can create a more vivid reality than anything you could possibly describe
 timestamp -> Sunday, October 9, 2022 4:19:21 PM
 location -> 275-277
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Creating pictures in the minds of others is done by telling stories. When you hear “Just imagine,” the brain pictures the very scenario you are creating.
 timestamp -> Sunday, October 9, 2022 4:19:58 PM
 location -> 281-283
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> One of the biggest reasons your ideas fail to get heard is that others tell you
 timestamp -> Sunday, October 9, 2022 4:20:45 PM
 location -> 288-288
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> One of the biggest reasons your ideas fail to get heard is that others tell you that they just don’t have the time to consider them.
 timestamp -> Sunday, October 9, 2022 4:20:47 PM
 location -> 288-289
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> By using the preface, “When would be a good time to...?” you prompt the other person to subconsciously assume that there will be a good time and that no is not an
 timestamp -> Sunday, October 9, 2022 4:20:58 PM
 location -> 289-290
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> By using the preface, “When would be a good time to...?” you prompt the other person to subconsciously assume that there will be a good time and that no is not an option.
 timestamp -> Sunday, October 9, 2022 4:21:00 PM
 location -> 289-290
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you do get around to following up or speaking again at the agreed time, please do not ask them what they thought about what you asked them to look at. This makes it easy for them to talk bad news or bring up their concerns. Instead, swap that question with, “So, what do you like about it?” and watch them list the good-news reasons instead.
 timestamp -> Sunday, October 9, 2022 4:21:42 PM
 location -> 299-301
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Open the conversation by allowing the other person to save face, but also by preventing them from using any of the excuses you think they might use. This
 timestamp -> Sunday, October 9, 2022 4:23:31 PM
 location -> 311-312
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Open the conversation by allowing the other person to save face, but also by preventing them from using any of the excuses you think they might use.
 timestamp -> Sunday, October 9, 2022 4:23:34 PM
 location -> 311-312
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> By pushing for the negative scenario, you get people to rise to the positive or to tell you how they are going to fix the thing they said they were going to do.
 timestamp -> Sunday, October 9, 2022 4:24:05 PM
 location -> 324-325
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> A simple change of wording puts you in control. Swap the phrase, “Do you have any questions?” with the improved, “What questions do you have for me?
 timestamp -> Sunday, October 9, 2022 4:27:05 PM
 location -> 340-341
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you ask somebody, “Can I have your...?” it creates a permission-based resistance in the other person, which makes it harder to get what you hoped for, since a “yes” or “no” response is required. It can be seen as an invasion of privacy. Instead,
 timestamp -> Sunday, October 9, 2022 4:28:47 PM
 location -> 351-352
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you ask somebody, “Can I have your...?” it creates a permission-based resistance in the other person, which makes it harder to get what you hoped for, since a “yes” or “no” response is required. It can be seen as an invasion of privacy. Instead, asking the alternative question, “What’s the best number to contact you at?” results in people
 timestamp -> Sunday, October 9, 2022 4:28:52 PM
 location -> 351-353
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you ask somebody, “Can I have your...?” it creates a permission-based resistance in the other person, which makes it harder to get what you hoped for, since a “yes” or “no” response is required. It can be seen as an invasion of privacy. Instead, asking the alternative question, “What’s the best number to contact you at?” results in people effortlessly giving you the information you requested.
 timestamp -> Sunday, October 9, 2022 4:28:58 PM
 location -> 351-353
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Changing a couple of words can make all the difference in the results you get from your conversations.
 timestamp -> Sunday, October 9, 2022 4:29:41 PM
 location -> 355-356
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> “Of those three options, what’s going to be easier for you?” Finishing with another set of Magic Words means they have to pick one of those options.
 timestamp -> Sunday, October 9, 2022 4:31:26 PM
 location -> 376-377
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> suck it up. Or third, you could give this a try, work
 timestamp -> Sunday, October 9, 2022 4:31:33 PM
 location -> 375-375
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The rhythm of three makes for
 timestamp -> Sunday, October 9, 2022 4:31:37 PM
 location -> 364-364
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The rhythm of three makes for
 timestamp -> Sunday, October 9, 2022 4:31:41 PM
 location -> 364-364
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When someone needs help deciding, using these words can help narrow their gaze, reduce their choices and make it easier for them to pick.
 timestamp -> Sunday, October 9, 2022 4:31:57 PM
 location -> 360-361
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The rhythm of three makes for easy listening for the other person, and by leaving your preferred choice until the end, you easily build the value of that option and load the choices so your preferred outcome stands out as a clear favorite
 timestamp -> Sunday, October 9, 2022 4:32:09 PM
 location -> 364-365
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Your goal is to create a statement that presents choice and then to allow the other person to pick.
 timestamp -> Sunday, October 9, 2022 4:35:17 PM
 location -> 391-391
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The second someone hears, “There are two types of people in this world,” the little voice in their head immediately wonders which one they are, and they wait with bated breath to hear the choices.
 timestamp -> Sunday, October 9, 2022 4:35:30 PM
 location -> 392-394
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Something for you to think about as a reader is that there are two types of people in this world: those who read books like this and do nothing and those who put what they read into practice and enjoy immediate results.
 timestamp -> Sunday, October 9, 2022 4:36:29 PM
 location -> 403-405
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> You should be able to see the pattern in the examples and understand how
 timestamp -> Sunday, October 9, 2022 4:36:37 PM
 location -> 402-402
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When you are talking to a stranger, the conversation needs to move easily, which means it typically follows the path of least resistance
 timestamp -> Sunday, October 9, 2022 4:37:58 PM
 location -> 410-411
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The Magic Words “I bet you’re a bit like me” often result in the other person comfortably agreeing with you.
 timestamp -> Sunday, October 9, 2022 4:40:55 PM
 location -> 427-428
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 ------------------------------------------------------------------------------------------------------------------

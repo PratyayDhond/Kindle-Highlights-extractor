@@ -6,26 +6,26 @@ Title  : No More Mr. Nice Guy
 quote -> Nice Guys are concerned about looking good and doing it "right.
 timestamp -> Tuesday, November 15, 2022 4:06:50 PM
 location -> 45-45
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The Nice Guy Syndrome represents a belief that if Nice Guys are "good," they will be loved, get their needs met, and live a problem-free life.
 timestamp -> Tuesday, November 15, 2022 4:07:44 PM
 location -> 52-53
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> sense:Because it does not feel safe or acceptable for a boy or man to be just who he is.
 timestamp -> Tuesday, November 15, 2022 4:09:00 PM
 location -> 370-370
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Whenever a child experiences any kind of abandonment he will always believe that he is the cause of what has happened to him.
 timestamp -> Tuesday, November 15, 2022 4:09:33 PM
 location -> 386-387
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The progression from perfect little boy to Nice Guy basically occurs in three stages:Abandonment, internalization of toxic shame, and the creation of survival mechanisms.
 timestamp -> Wednesday, November 16, 2022 4:19:09 AM
 location -> 486-488
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 ------------------------------------------------------------------------------------------------------------------

@@ -6,486 +6,486 @@ Title  : ASURA: Tale Of The Vanquished
 quote -> Big, dark, hairy rats. They conquer the battlefields after foolish men have finished
 timestamp -> Thursday, October 20, 2022 4:06:44 PM
 location -> 110-111
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Big, dark, hairy rats. They conquer the battlefields after foolish men have finished their business of killing each other.
 timestamp -> Thursday, October 20, 2022 4:06:48 PM
 location -> 110-111
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> My capital, Trikota, was the greatest city in the world. That was before the monkey-man came and set it on fire. Trikota burned for days. Shops, homes, palaces, men, women, and babies, everything burned.
 timestamp -> Thursday, October 20, 2022 4:38:16 PM
 location -> 118-119
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Father wasn’t a bad man, really. He was like any other member of his caste; gloriously self-centered
 timestamp -> Thursday, October 20, 2022 4:49:50 PM
 location -> 198-198
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> But I was a dreamer. And I did not want to just get along in this world. I wanted to own
 timestamp -> Thursday, October 20, 2022 4:59:13 PM
 location -> 238-239
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> But I was a dreamer. And I did not want to just get along in this world. I wanted to own it
 timestamp -> Thursday, October 20, 2022 4:59:16 PM
 location -> 238-239
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The moment I started asking why, I was branded a hothead.
 timestamp -> Thursday, October 20, 2022 5:00:45 PM
 location -> 242-243
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> for me, God is a very personal thing and prayer needs to be spoken silently in my heart.
 timestamp -> Thursday, October 20, 2022 5:05:28 PM
 location -> 269-270
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> “Anger is the lowest emotion.
 timestamp -> Friday, October 21, 2022 12:46:05 PM
 location -> 480-481
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The next base emotion is Pride. Arrogance stems from pride and kills clear thinking and vision
 timestamp -> Friday, October 21, 2022 12:46:10 PM
 location -> 482-483
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Love is a chain that ties you to the millstone of make-belief.
 timestamp -> Friday, October 21, 2022 12:48:12 PM
 location -> 494-495
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> A warrior should focus on victory and victory alone. That should be your only Dharma
 timestamp -> Friday, October 21, 2022 12:48:27 PM
 location -> 495-495
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The education you received is the ultimate sacrifice, your tapsya.
 timestamp -> Friday, October 21, 2022 12:50:44 PM
 location -> 510-510
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> control your ambition.
 timestamp -> Friday, October 21, 2022 12:51:02 PM
 location -> 497-498
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The only thing worth preserving is your mind.
 timestamp -> Friday, October 21, 2022 12:51:07 PM
 location -> 500-500
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The only thing worth preserving is your
 timestamp -> Friday, October 21, 2022 12:51:10 PM
 location -> 500-500
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> before you act. The
 timestamp -> Friday, October 21, 2022 12:51:13 PM
 location -> 499-500
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The only thing worth preserving is your mind.
 timestamp -> Friday, October 21, 2022 12:51:19 PM
 location -> 500-500
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Happiness and sadness are just two eternal truths like day and night. A man of superior intellect is never affected by these emotions.
 timestamp -> Friday, October 21, 2022 12:52:01 PM
 location -> 485-486
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Equanimity is not only desirable in a warrior, but a must.
 timestamp -> Friday, October 21, 2022 12:52:10 PM
 location -> 487-487
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Fear is not an emotion, it is a disease
 timestamp -> Friday, October 21, 2022 12:52:13 PM
 location -> 488-488
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Nothing is more condemnable than selfishness
 timestamp -> Friday, October 21, 2022 12:52:22 PM
 location -> 491-491
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> whichever way one looks at it, the word you is prominent
 timestamp -> Friday, October 21, 2022 12:59:39 PM
 location -> 550-551
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I am willing to risk being known as the most selfish man in the world, rather than dying unknown as a selfless non-entity.”
 timestamp -> Friday, October 21, 2022 12:59:48 PM
 location -> 552-552
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Without love, without the king of emotions, nothing exists
 timestamp -> Friday, October 21, 2022 1:01:24 PM
 location -> 554-555
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I shall always love the things I have told you about. But yes, I shall love myself above them
 timestamp -> Friday, October 21, 2022 1:03:15 PM
 location -> 560-561
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I shall always love the things I have told you about. But yes, I shall love myself above them all
 timestamp -> Friday, October 21, 2022 1:03:18 PM
 location -> 560-561
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Without me, nothing which is lovable has any meaning to me
 timestamp -> Friday, October 21, 2022 1:03:22 PM
 location -> 561-561
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Ambition is the horse that pulls our lives forward.
 timestamp -> Friday, October 21, 2022 1:04:18 PM
 location -> 564-564
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> history teaches us that without any of the other emotions, it is just an empty skeleton.
 timestamp -> Friday, October 21, 2022 1:05:36 PM
 location -> 572-573
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> it was not the maharishis or sages who built civilizations but extraordinary men, who never controlled their emotions, but let them flow in the direction which nature intended.
 timestamp -> Friday, October 21, 2022 1:05:54 PM
 location -> 573-574
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I do not believe in a heaven where you will be given all that you purposefully denied yourself in this world. I do not believe in rebirth, when I will be born as a Brahmin if I do good deeds in this life – good in the way the Brahmins describe.
 timestamp -> Friday, October 21, 2022 1:06:48 PM
 location -> 579-581
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> If being born a Brahmin is the ultimate reward, then I may even refuse to die for fear of being reborn
 timestamp -> Friday, October 21, 2022 1:06:56 PM
 location -> 581-582
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> But I will live my life to its full and die as a man should. So borrowing from your words, I shall be a man with ten faces – I am Dasamukha.”
 timestamp -> Friday, October 21, 2022 1:07:27 PM
 location -> 584-585
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> My life begins with me and ends with me. But I will live my life to its full and die as a man should. So borrowing from your words, I shall be a man with ten faces – I am Dasamukha.” A thick silence followed. Brahma stood staring at his bare
 timestamp -> Friday, October 21, 2022 1:07:32 PM
 location -> 583-586
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> My life begins with me and ends with me. But I will live my life to its full and die as a man should. So borrowing from your words, I shall be a man with ten faces – I am Dasamukha.”
 timestamp -> Friday, October 21, 2022 1:07:36 PM
 location -> 583-585
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> but Brahma, the original possessor of knowledge, was hailed as the Creator; Vishnu as the Preserver of the system; and ironically Shiva, who built an empire, and not Indra, who destroyed, was hailed as the Destroyer. They were the three Gods of India – the Trimurti
 timestamp -> Friday, October 21, 2022 1:44:58 PM
 location -> 853-855
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> His popularity among the middle classes was always great. The rich did not care who ruled, as long as they were allowed to be rich. The poor could not afford to care and nobody asked their opinion in any case. Only the middle class mattered and any half-witted ruler knows how to pamper them
 timestamp -> Saturday, October 22, 2022 5:10:03 AM
 location -> 1050-1051
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Wars are inevitable, so is cruelty.
 timestamp -> Saturday, October 22, 2022 7:33:33 AM
 location -> 1146-1146
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Vibhishana was someone who constantly researched the right way to live, so much so, that he had forgotten how to live
 timestamp -> Sunday, October 23, 2022 4:25:55 AM
 location -> 1202-1203
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> She gave me love and I gave her hatred instead.
 timestamp -> Sunday, October 23, 2022 5:11:54 AM
 location -> 1571-1571
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It was flawless but lacked soul. It
 timestamp -> Sunday, October 23, 2022 5:36:20 AM
 location -> 1771-1772
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It was too perfect to have soul
 timestamp -> Sunday, October 23, 2022 5:36:25 AM
 location -> 1772-1772
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> skills. It was a clear winter morning when I was surprised from my
 timestamp -> Sunday, October 23, 2022 10:03:12 PM
 location -> 1954-1954
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Perhaps the power that kingship brings, is just that, the ability to wreck other people’s lives.
 timestamp -> Monday, October 24, 2022 6:05:04 AM
 location -> 2094-2094
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Perhaps Prahastha might have had a theory to explain my new-found fondness for darkness – perhaps the reflection of a dark soul
 timestamp -> Monday, October 24, 2022 6:19:26 AM
 location -> 2211-2212
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> no one learns from history.
 timestamp -> Monday, October 24, 2022 6:59:47 AM
 location -> 2458-2458
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> no one who I really respected, to tie me down with the ropes of tradition.
 timestamp -> Monday, October 24, 2022 7:22:46 AM
 location -> 2604-2604
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> peer pressure is something which even great men find hard to resist
 timestamp -> Tuesday, October 25, 2022 5:27:24 AM
 location -> 2999-2999
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> long after I was dead. Like most rulers in their middle age, I was
 timestamp -> Tuesday, October 25, 2022 8:38:46 AM
 location -> 3844-3844
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I ignored the hate. I ignored the stench. Life was too short for such things
 timestamp -> Tuesday, October 25, 2022 8:59:34 AM
 location -> 3886-3887
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> One can get used to anything, even
 timestamp -> Tuesday, October 25, 2022 9:04:46 AM
 location -> 3920-3920
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> embarrassment. One
 timestamp -> Tuesday, October 25, 2022 9:05:02 AM
 location -> 3919-3920
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> it was the size of the dream and the willingness to act on it
 timestamp -> Tuesday, October 25, 2022 3:24:23 PM
 location -> 4075-4075
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Man was not supposed to fly, otherwise Shiva would have given him wings. So a flying machine was a challenge to God.
 timestamp -> Wednesday, October 26, 2022 7:27:42 AM
 location -> 4210-4211
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Men cheat, betray, love, strive, struggle, fail, fall, get up, and repeat the process to die and vanish forever or be reborn
 timestamp -> Wednesday, October 26, 2022 7:34:40 AM
 location -> 4251-4252
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> But I had always believed a society could be called civilized only when it treated its woman and downtrodden people, well
 timestamp -> Wednesday, October 26, 2022 7:36:53 AM
 location -> 4268-4269
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> the recurring theme was hunger
 timestamp -> Thursday, October 27, 2022 10:22:16 PM
 location -> 4652-4652
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I did not want to die. I wanted to live forever.
 timestamp -> Thursday, October 27, 2022 10:25:11 PM
 location -> 4664-4664
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> towering
 timestamp -> Thursday, October 27, 2022 10:29:32 PM
 location -> 4706-4706
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> felt the charisma I had lost somewhere in the labyrinths of power, return to me
 timestamp -> Saturday, October 29, 2022 6:27:29 AM
 location -> 5177-5178
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Violence alone ruled the world.
 timestamp -> Saturday, October 29, 2022 6:38:25 AM
 location -> 5269-5269
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> ‘That is a good piece of propaganda, I must admit. Claim that God is with you, or better, you are God, then anything you do, any adharma you commit, becomes divine play.
 timestamp -> Saturday, October 29, 2022 8:32:24 PM
 location -> 5422-5424
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> when the body count increased, death lost its novelty and heroism became cheap and commonplace.
 timestamp -> Sunday, October 30, 2022 6:49:36 AM
 location -> 5512-5513
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> If women saw the battlefields where foolish men slaughtered each other, there would have been no wars in this world.
 timestamp -> Sunday, October 30, 2022 3:02:13 PM
 location -> 5692-5693
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> when the darkness is so thick that you feel it sticking to your skin
 timestamp -> Sunday, October 30, 2022 3:14:55 PM
 location -> 5732-5733
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Darkness
 timestamp -> Sunday, October 30, 2022 3:15:04 PM
 location -> 5733
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> If someone wanted one reason for the downfall of the mighty Asuras, it could be summed up in the word,
 timestamp -> Sunday, October 30, 2022 3:34:40 PM
 location -> 5761-5762
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> If someone wanted one reason for the downfall of the mighty Asuras, it could be summed up in the word, liquor. It
 timestamp -> Sunday, October 30, 2022 3:34:42 PM
 location -> 5761-5762
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> If someone wanted one reason for the downfall of the mighty Asuras, it could be summed up in the word, liquor
 timestamp -> Sunday, October 30, 2022 3:34:50 PM
 location -> 5761-5762
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> circumstance that were much less serious, that I understood why Ravana would never be deified. He was too humane to be a God.
 timestamp -> Sunday, October 30, 2022 10:57:55 PM
 location -> 5801-5802
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I understood why Ravana would never be deified. He was too humane to be a God.
 timestamp -> Sunday, October 30, 2022 10:58:00 PM
 location -> 5802-5802
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I had not known this side of the man I had once hated and feared
 timestamp -> Tuesday, November 1, 2022 5:00:03 AM
 location -> 5876-5876
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> haven. It was not poverty he had chosen, but rich simplicity. I had not known this side of the man I had once hated and feared
 timestamp -> Tuesday, November 1, 2022 5:00:06 AM
 location -> 5875-5876
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I hoped his sacrifice would not be wasted, but then, which sacrifice had not been a waste?
 timestamp -> Tuesday, November 1, 2022 5:04:55 AM
 location -> 5909-5909
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Yet the fire did not make any distinction. It had an equal appetite for my son and the King’s son.
 timestamp -> Thursday, November 3, 2022 3:38:52 PM
 location -> 6275-6275
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I thought my empire was built on steel, but when the shove came, I found out it had been built on nothing but straw
 timestamp -> Thursday, November 3, 2022 3:42:25 PM
 location -> 6301-6301
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> I knew I might fail, but I owed my people one last, grand failure.
 timestamp -> Thursday, November 3, 2022 3:43:01 PM
 location -> 6305-6305
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> for whosoever wins, would be called the truth.
 timestamp -> Thursday, November 3, 2022 4:19:18 PM
 location -> 6356-6356
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> life. But as is the nature of the world, the good deeds of the victor
 timestamp -> Thursday, November 3, 2022 4:19:26 PM
 location -> 6357-6358
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Broken bones were nothing compared to vanished dreams
 timestamp -> Thursday, November 3, 2022 5:10:59 PM
 location -> 6677-6677
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It was the cry of a race facing the
 timestamp -> Thursday, November 3, 2022 5:11:16 PM
 location -> 6679-6679
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It was the cry of a race facing the deep abyss of extinction. It was the death cry of a culture.
 timestamp -> Thursday, November 3, 2022 5:11:20 PM
 location -> 6679-6680
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> We made the mistake of seeing every human being as equal.
 timestamp -> Thursday, November 3, 2022 5:23:01 PM
 location -> 6784-6784
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> but the God, like other Gods, looked away when he was most needed
 timestamp -> Thursday, November 3, 2022 5:42:13 PM
 location -> 6856-6857
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> It is always when everything appears dream-like and life seems to possess a never-ending charm, that foolish thoughts and dangerous aspirations take birth in the minds of humans.
 timestamp -> Friday, November 4, 2022 5:47:45 AM
 location -> 7041-7043
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> When would people learn the simple things – that death was the end and if you died, your body rotted and dissolved in the soil
 timestamp -> Friday, November 4, 2022 5:59:50 AM
 location -> 7150-7151
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> has been assassinated, but then I ruefully remembered that such things as natural justice exist only in the wistful imaginations of idealists.
 timestamp -> Friday, November 4, 2022 6:01:45 AM
 location -> 7168-7169
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> such things as natural justice exist only in the wistful imaginations of idealists.
 timestamp -> Friday, November 4, 2022 6:01:49 AM
 location -> 7168-7169
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> the family fell apart as families do when their shared dreams wither away
 timestamp -> Friday, November 4, 2022 8:43:57 AM
 location -> 7218-7219
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Ravana was a man who lived life on his own terms, doing what he thought was right and caring nothing for what was written by holy
 timestamp -> Friday, November 4, 2022 8:55:40 AM
 location -> 7342-7343
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Ravana was a man who lived life on his own terms, doing what he thought was right and caring nothing for what was written by holy men
 timestamp -> Friday, November 4, 2022 8:55:43 AM
 location -> 7342-7343
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The Ravanas of the world are dangerous to those who wish to use the scriptures for their own purposes and lord over others, exploiting everyone.
 timestamp -> Friday, November 4, 2022 8:57:36 AM
 location -> 7346-7347
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> The earth is bountiful in my land and it does not discriminate between skin colours.
 timestamp -> Friday, November 4, 2022 9:00:49 AM
 location -> 7369-7369
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> Maybe I am just a fool, since my colour is black.
 timestamp -> Friday, November 4, 2022 9:01:31 AM
 location -> 7376-7376
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> . Every death is a temporary pause in the symphony called
 timestamp -> Friday, November 4, 2022 9:02:21 AM
 location -> 7384-7384
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 quote -> . Every death is a temporary pause in the symphony called life
 timestamp -> Friday, November 4, 2022 9:02:24 AM
 location -> 7384-7384
-locationPrefix -> Location 
+locationPrefix -> loc 
 ---------
 ------------------------------------------------------------------------------------------------------------------

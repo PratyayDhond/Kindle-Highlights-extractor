@@ -1,4 +1,6 @@
-endOfHighlight = '=========='
+import os
+
+#endOfHighlight = '=========='
 
 class Book:
     def __init__(self,author,bookName):
@@ -24,7 +26,7 @@ class Book:
         }
         self.quotes.append(quote)
         return
-
+# Stores the quotes for all the books
 books = []
 
 def bookExist(book):
@@ -35,9 +37,11 @@ def bookExist(book):
         return -1
     
 def outputToTxt():
+    if os.path.exists('output') == False:
+        os.system('mkdir output')
     for a in books:
         with open(f'output/{a.getTitle()}.txt','w') as highlights:
-            print(a.getTitle()) 
+            #print(a.getTitle()) 
             highlights.write(f'Author : {a.getAuthor()}\n')
             highlights.write(f'Title  : {a.getTitle()}\n')
             highlights.write('\n\n')
@@ -74,7 +78,7 @@ def scrapeData(inputFile):
         contains = rawData[i-3].find('page')
         locationPrefix = ''
         if contains == -1:
-            locationPrefix = 'Location '
+            locationPrefix = 'loc '
         else:
             locationPrefix = 'Page No. '
 
@@ -91,7 +95,7 @@ def scrapeData(inputFile):
         ## Getting Quote from the data
         
         quote = rawData[i-1].rstrip()
-        if quote == '':
+        if quote == '': 
             continue
         book = bookExist(bookName)
         if book == -1:
@@ -101,7 +105,8 @@ def scrapeData(inputFile):
         else:
             book.addQuote(quote,timestamp,location,locationPrefix)
     
-    outputToTxt()    
+    outputToTxt()
+    return books    
 # Remove the extra carriage returns from the timestamp and from the quote if ther are any
 # Put the data in the object for Books, and yes create the list of objects
 def readData(rawFile):
@@ -111,3 +116,10 @@ def readData(rawFile):
 
 
 op = scrapeData('My Clippings.txt')
+#for o in op:                
+#    print(o.getTitle())
+#    print(o.getAuthor())
+#    for a in o.quotes:
+#        for k in a.keys():
+#            print(a[k])
+#        print()
