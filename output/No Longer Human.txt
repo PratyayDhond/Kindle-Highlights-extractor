@@ -1,0 +1,106 @@
+Author : Dazai, Osamu
+Title  : No Longer Human
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> this revelation of human dullness stirred dark depression in me.
+timestamp -> Monday, November 7, 2022 5:07:15 AM
+location -> 132-133
+locationPrefix -> Location 
+---------
+quote -> those who called me lucky were incomparably more fortunate than I. I have sometimes thought
+timestamp -> Monday, November 7, 2022 5:13:01 AM
+location -> 158-159
+locationPrefix -> Location 
+---------
+quote -> those who called me lucky were incomparably more fortunate than I.
+timestamp -> Monday, November 7, 2022 5:13:04 AM
+location -> 158-159
+locationPrefix -> Location 
+---------
+quote -> The more I think of it, the less I understand.
+timestamp -> Monday, November 7, 2022 5:13:22 AM
+location -> 170-170
+locationPrefix -> Location 
+---------
+quote -> I managed to maintain on the surface a smile which never deserted my lips; this was the accommodation I offered to others, a most precarious achievement performed by me only at the cost of excruciating efforts within.
+timestamp -> Monday, November 7, 2022 5:14:28 AM
+location -> 174-176
+locationPrefix -> Location 
+---------
+quote -> When I hated something, I could not pronounce the words, “I don’t like it.”
+timestamp -> Monday, November 7, 2022 5:18:34 AM
+location -> 211-211
+locationPrefix -> Location 
+---------
+quote -> is only too obvious that favoritism inevitably exists
+timestamp -> Tuesday, November 8, 2022 4:13:56 PM
+location -> 268-268
+locationPrefix -> Location 
+---------
+quote -> which the world approved. It is only too obvious that favoritism inevitably exists
+timestamp -> Tuesday, November 8, 2022 4:13:59 PM
+location -> 267-268
+locationPrefix -> Location 
+---------
+quote -> It is only too obvious that favoritism inevitably exists
+timestamp -> Tuesday, November 8, 2022 4:14:04 PM
+location -> 268-268
+locationPrefix -> Location 
+---------
+quote -> human life is filled with many pure, happy, serene examples of insincerity, truly splendid of their kind—of people deceiving one another without (strangely enough) any wounds being inflicted,
+timestamp -> Friday, November 11, 2022 10:29:43 AM
+location -> 282-284
+locationPrefix -> Location 
+---------
+quote -> I thought that in killing a dreaded adversary I might actually be bringing him happiness.
+timestamp -> Friday, November 11, 2022 10:35:37 AM
+location -> 336-336
+locationPrefix -> Location 
+---------
+quote -> To fall for,” “to be fallen for”—I feel in these words something unspeakably vulgar, farcical, and at the same time extraordinarily complacent.
+timestamp -> Friday, November 11, 2022 10:37:31 AM
+location -> 357-358
+locationPrefix -> Location 
+---------
+quote -> to speak in those terms of the atmosphere engendered by so vulgar an expression as “to fall for” is to betray a precocity of sentiment not even worthy of the dialogue of the romantic lead in a musical comedy;
+timestamp -> Friday, November 11, 2022 10:38:52 AM
+location -> 363-364
+locationPrefix -> Location 
+---------
+quote -> “to have a faint inkling.
+timestamp -> Friday, November 11, 2022 10:39:00 AM
+location -> 365-365
+locationPrefix -> Location 
+---------
+quote -> “to have a faint inkling.
+timestamp -> Friday, November 11, 2022 10:39:11 AM
+location -> 365-365
+locationPrefix -> Location 
+---------
+quote -> one can say that women stuff themselves with far more pleasures than men.
+timestamp -> Friday, November 11, 2022 10:41:05 AM
+location -> 381-382
+locationPrefix -> Location 
+---------
+quote -> Long personal experience had taught me that when a woman suddenly bursts into hysterics, the way to restore her spirits is to give her something sweet
+timestamp -> Friday, November 11, 2022 10:43:08 AM
+location -> 406-407
+locationPrefix -> Location 
+---------
+quote -> The classrooms and the dormitory seemed like the dumping grounds of distorted sexual desires,
+timestamp -> Saturday, November 12, 2022 7:13:58 AM
+location -> 464-464
+locationPrefix -> Location 
+---------
+quote -> What frightened me was the logic of the world; in it lay the foretaste of something incalculably powerful.
+timestamp -> Saturday, November 19, 2022 12:12:24 AM
+location -> 562-563
+locationPrefix -> Location 
+---------
+quote -> Though outside lay the sea of irrationality, it was far more agreeable to swim in its waters until presently I drowned.
+timestamp -> Saturday, November 19, 2022 5:04:31 AM
+location -> 564-565
+locationPrefix -> Location 
+---------
+------------------------------------------------------------------------------------------------------------------

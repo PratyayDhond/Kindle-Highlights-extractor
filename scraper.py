@@ -1,20 +1,53 @@
 endOfHighlight = '=========='
 
 class Book:
-    
     def __init__(self,author,bookName):
         self.author = author
         self.bookName = bookName
-        self.quotes = [] # A list of Dictionaries -> Quote, Quote Time, Quote Location
+        self.quotes = [] # A list of Dictionaries -> Quote, Quote Time, Quote Location, location prefix
     
-    def getAuthorName(self):
+    def getAuthor(self):
         return self.author
     
-    def getBooKName(self):
+    def getTitle(self):
         return self.bookName
     
     def getQuotes(self):
         return self.quotes
+    
+    def addQuote(self,quote,timestamp,location, locationPrefix):
+        quote = {
+            'quote': quote,
+            'timestamp': timestamp,
+            'location': location,
+            'locationPrefix': locationPrefix
+        }
+        self.quotes.append(quote)
+        return
+
+books = []
+
+def bookExist(book):
+    for a in books:
+        if book == a.getTitle():
+            return a
+    else:
+        return -1
+    
+def outputToTxt():
+    for a in books:
+        with open(f'output/{a.getTitle()}.txt','w') as highlights:
+            print(a.getTitle()) 
+            highlights.write(f'Author : {a.getAuthor()}\n')
+            highlights.write(f'Title  : {a.getTitle()}\n')
+            highlights.write('\n\n')
+            highlights.write('------------------------------------------------------------------------------------------------------------------\n');
+            for q in a.getQuotes():
+                for k in q.keys():
+                    highlights.write(k + ' -> ' + q[k] + '\n')
+                highlights.write('---------\n');  
+            highlights.write('------------------------------------------------------------------------------------------------------------------');
+
 
 def scrapeData(inputFile):
     rawData = readData(inputFile)
@@ -34,8 +67,8 @@ def scrapeData(inputFile):
             while BookNameAndAuthor[j] != '(':
                 j-=1
             endIndex = len(BookNameAndAuthor)-2
-            author = BookNameAndAuthor[j+1:endIndex]
-        bookName = BookNameAndAuthor[:j]
+            author = BookNameAndAuthor[j+1:endIndex].rstrip()
+        bookName = BookNameAndAuthor[:j].rstrip()
 
         ## Getting timestamp and location of quote from data
         contains = rawData[i-3].find('page')
@@ -52,19 +85,25 @@ def scrapeData(inputFile):
         locationStartIndex+=1
         timestampStartIndex = rawData[i-3].index('| Added on') + 9
 
-        location = rawData[i-3][locationStartIndex:locationEndIndex]
-        timestamp = rawData[i-3][timestampStartIndex+2:]
+        location = rawData[i-3][locationStartIndex:locationEndIndex].rstrip()
+        timestamp = rawData[i-3][timestampStartIndex+2:].rstrip()
 
         ## Getting Quote from the data
         
-        quote = rawData[i-1]
-        print(bookName)
-        print(author)
-        print(locationPrefix + location)
-        print(timestamp)
-        print(quote)
-
-
+        quote = rawData[i-1].rstrip()
+        if quote == '':
+            continue
+        book = bookExist(bookName)
+        if book == -1:
+            tempBook = Book(author,bookName)
+            tempBook.addQuote(quote,timestamp,location,locationPrefix)
+            books.append(tempBook)
+        else:
+            book.addQuote(quote,timestamp,location,locationPrefix)
+    
+    outputToTxt()    
+# Remove the extra carriage returns from the timestamp and from the quote if ther are any
+# Put the data in the object for Books, and yes create the list of objects
 def readData(rawFile):
     with open(rawFile,'r') as input:
         inputList = input.readlines()

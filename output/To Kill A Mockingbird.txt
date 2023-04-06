@@ -1,0 +1,81 @@
+Author : Lee, Harper
+Title  : To Kill A Mockingbird
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> You never really understand a person until you consider things from his point of view
+timestamp -> Sunday, August 21, 2022 4:58:59 PM
+location -> 553-554
+locationPrefix -> Location 
+---------
+quote -> I liked to smell him; he was like a bottle of alcohol and something pleasantly sweet.
+timestamp -> Wednesday, August 24, 2022 6:32:49 AM
+location -> 1539-1539
+locationPrefix -> Location 
+---------
+quote -> ‘People in their right minds never take pride in their talents,’
+timestamp -> Wednesday, August 24, 2022 6:59:55 AM
+location -> 1940-1941
+locationPrefix -> Location 
+---------
+quote -> it’s not fair for you and Jem, I know that, but sometimes we have to make the best of things, and the way we conduct ourselves when the chips are down
+timestamp -> Wednesday, August 24, 2022 7:12:43 AM
+location -> 2057-2058
+locationPrefix -> Location 
+---------
+quote -> You rarely win, but sometimes you do
+timestamp -> Wednesday, August 24, 2022 7:24:39 AM
+location -> 2211-2211
+locationPrefix -> Location 
+---------
+quote -> summer was the swiftness with which Dill would reach up and kiss me when Jem was not looking, the longings we sometimes felt each other feel.
+timestamp -> Thursday, August 25, 2022 6:37:41 AM
+location -> 2236-2237
+locationPrefix -> Location 
+---------
+quote -> It was customary for field Negroes with tiny children to deposit them in whatever shade there was while their parents worked – usually the babies sat in the shade between two rows of cotton. Those unable to sit were strapped papoose-style on their mother’s backs, or resided in extra cotton bags.
+timestamp -> Thursday, August 25, 2022 6:48:16 AM
+location -> 2376-2378
+locationPrefix -> Location 
+---------
+quote -> folks don’t like to have somebody around knowin’ more than they do. It aggravates ’em
+timestamp -> Thursday, August 25, 2022 6:52:02 AM
+location -> 2439-2440
+locationPrefix -> Location 
+---------
+quote -> but one must lie under certain circumstances and at all times when one can’t do anything about them.
+timestamp -> Thursday, August 25, 2022 6:54:41 AM
+location -> 2482-2483
+locationPrefix -> Location 
+---------
+quote -> affluent chased their food with drugstore Coca-Cola in bulb-shaped
+timestamp -> Monday, September 5, 2022 10:00:45 AM
+location -> 3106-3107
+locationPrefix -> Location 
+---------
+quote -> dining on sardines, crackers, and the more vivid flavours of Nehi
+timestamp -> Monday, September 5, 2022 10:01:15 AM
+location -> 3109-3109
+locationPrefix -> Location 
+---------
+quote -> how do you know we ain’t Negroes?’
+timestamp -> Monday, September 5, 2022 10:26:21 AM
+location -> 3139-3140
+locationPrefix -> Location 
+---------
+quote -> Clowns are sad, it’s folks that laugh at them.’
+timestamp -> Saturday, September 10, 2022 6:04:06 PM
+location -> 4240-4241
+locationPrefix -> Location 
+---------
+quote -> I think there’s just one kind of folks. Folks.’
+timestamp -> Saturday, September 10, 2022 6:28:59 PM
+location -> 4458-4458
+locationPrefix -> Location 
+---------
+quote -> I think I’m beginning to understand why Boo Radley’s stayed shut up in the house all this time … it’s because he wants to stay inside.’
+timestamp -> Saturday, September 10, 2022 6:29:26 PM
+location -> 4462-4464
+locationPrefix -> Location 
+---------
+------------------------------------------------------------------------------------------------------------------

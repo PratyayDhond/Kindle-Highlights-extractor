@@ -1,0 +1,16 @@
+Author : Brown, Peter C.
+Title  : Make It Stick
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> While practicing is vital to learning and memory, studies have shown that practice is far more effective when it’s broken into separate periods of training that are spaced out.
+timestamp -> Friday, March 3, 2023 10:05:03 AM
+location -> 682-683
+locationPrefix -> Location 
+---------
+quote -> Practice that’s spaced out, interleaved with other learning, and varied produces better mastery, longer retention, and more versatility.
+timestamp -> Friday, March 3, 2023 10:05:18 AM
+location -> 684-685
+locationPrefix -> Location 
+---------
+------------------------------------------------------------------------------------------------------------------
