@@ -4,261 +4,157 @@ Title  : The Art of Public Speaking
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> The higher we go in the scale of life, the greater is the capacity for suffering.
+
 timestamp -> Tuesday, August 23, 2022 11:42:41 PM
 location -> 9
 locationPrefix -> Page No. 
 ---------
 quote -> If you feel deeply about your subject you will be able to think of little else.
+
 timestamp -> Sunday, September 18, 2022 6:29:59 PM
 location -> 9
 locationPrefix -> Page No. 
 ---------
 quote -> Concentration is a process of distraction from less important matters.
+
 timestamp -> Sunday, September 18, 2022 6:30:05 PM
 location -> 9
 locationPrefix -> Page No. 
 ---------
 quote -> It is sheer egotism to fill your mind with thoughts of self when a greater thing is there—TRUTH.
+
 timestamp -> Tuesday, September 20, 2022 4:36:34 AM
 location -> 10
 locationPrefix -> Page No. 
 ---------
 quote -> “There, I told you I would fail, and I did.” If you
+
 timestamp -> Tuesday, September 20, 2022 10:35:25 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> If you believe you will fail, there is no hope for you.
+
 timestamp -> Tuesday, September 20, 2022 10:35:28 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> You are a god, with infinite capabilities. “All things are ready if the mind be so.”
+
 timestamp -> Tuesday, September 20, 2022 10:35:54 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> Do not make haste to begin—haste shows lack of control.
+
 timestamp -> Tuesday, September 20, 2022 10:38:11 AM
 location -> 12
 locationPrefix -> Page No. 
 ---------
 quote -> Do not apologize. It ought not to be necessary; and if it is, it will not help. Go straight ahead.
+
 timestamp -> Tuesday, September 20, 2022 10:38:18 AM
 location -> 12
 locationPrefix -> Page No. 
 ---------
 quote -> Face your audience pluckily—if your knees quake, MAKE them stop.
+
 timestamp -> Tuesday, September 20, 2022 10:39:46 AM
 location -> 13
 locationPrefix -> Page No. 
 ---------
 quote -> The world owes its progress to the men who have dared, and you must dare to speak the effective word that is in your heart to speak—for often it requires courage to utter a single sentence.
+
 timestamp -> Tuesday, September 20, 2022 10:40:12 AM
 location -> 13
 locationPrefix -> Page No. 
 ---------
 quote -> Banish the fear-attitude; acquire the confident attitude. And remember that the only way to acquire it is—to acquire
+
 timestamp -> Tuesday, September 20, 2022 10:40:59 AM
 location -> 13
 locationPrefix -> Page No. 
 ---------
 quote -> Banish the fear-attitude; acquire the confident attitude. And remember that the only way to acquire it is—to acquire it.
+
 timestamp -> Tuesday, September 20, 2022 10:41:02 AM
 location -> 13
 locationPrefix -> Page No. 
 ---------
 quote -> monotonous. From “having but one tone,” it has come to mean more broadly, “lack of variation.”
+
 timestamp -> Tuesday, September 20, 2022 10:46:41 AM
 location -> 14
 locationPrefix -> Page No. 
 ---------
 quote -> Nature in her wealth gives us endless variety; man with his limitations is often monotonous.
+
 timestamp -> Tuesday, September 20, 2022 10:48:59 AM
 location -> 16
 locationPrefix -> Page No. 
 ---------
 quote -> Be natural—but improve your natural gifts until you have approached the ideal,
+
 timestamp -> Tuesday, September 20, 2022 5:13:38 PM
 location -> 18
 locationPrefix -> Page No. 
 ---------
 quote -> the principle of emphasis . . . . is followed best, not by remembering particular rules, but by being full of a particular feeling.—C.
+
 timestamp -> Wednesday, September 21, 2022 5:55:24 AM
 location -> 18
 locationPrefix -> Page No. 
 ---------
 quote -> In almost every sentence there are a few MOUNTAIN PEAK WORDS that represent the big, important
+
 timestamp -> Wednesday, September 21, 2022 5:58:57 AM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> In almost every sentence there are a few MOUNTAIN PEAK WORDS that represent the big, important ideas.
+
 timestamp -> Wednesday, September 21, 2022 5:59:01 AM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> EMPHASIS is a matter of CONTRAST and COMPARISON.
+
 timestamp -> Wednesday, September 21, 2022 6:02:53 AM
 location -> 21
 locationPrefix -> Page No. 
 ---------
 quote -> To make a word emphatic, deliver it differently from the manner in which the words surrounding it are delivered.
+
 timestamp -> Wednesday, September 21, 2022 6:04:08 AM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> If you have been talking loudly, utter the emphatic word in a concentrated whisper—and you have intense emphasis.
+
 timestamp -> Wednesday, September 21, 2022 6:04:14 AM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> If you have been going fast, go very slow on the emphatic word.
+
 timestamp -> Wednesday, September 21, 2022 6:04:23 AM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> If you have been going fast, go very slow on the emphatic word.
+
 timestamp -> Wednesday, September 21, 2022 6:04:29 AM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> If you have been talking on a low pitch, jump to a high one on the emphatic word.
+
 timestamp -> Wednesday, September 21, 2022 6:04:32 AM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> If you have been talking on a high pitch, take a low one on your emphatic ideas.
-timestamp -> Wednesday, September 21, 2022 6:04:39 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> The higher we go in the scale of life, the greater is the capacity for suffering.
-timestamp -> Tuesday, August 23, 2022 11:42:41 PM
-location -> 9
-locationPrefix -> Page No. 
----------
-quote -> If you feel deeply about your subject you will be able to think of little else.
-timestamp -> Sunday, September 18, 2022 6:29:59 PM
-location -> 9
-locationPrefix -> Page No. 
----------
-quote -> Concentration is a process of distraction from less important matters.
-timestamp -> Sunday, September 18, 2022 6:30:05 PM
-location -> 9
-locationPrefix -> Page No. 
----------
-quote -> It is sheer egotism to fill your mind with thoughts of self when a greater thing is there—TRUTH.
-timestamp -> Tuesday, September 20, 2022 4:36:34 AM
-location -> 10
-locationPrefix -> Page No. 
----------
-quote -> “There, I told you I would fail, and I did.” If you
-timestamp -> Tuesday, September 20, 2022 10:35:25 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> If you believe you will fail, there is no hope for you.
-timestamp -> Tuesday, September 20, 2022 10:35:28 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> You are a god, with infinite capabilities. “All things are ready if the mind be so.”
-timestamp -> Tuesday, September 20, 2022 10:35:54 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> Do not make haste to begin—haste shows lack of control.
-timestamp -> Tuesday, September 20, 2022 10:38:11 AM
-location -> 12
-locationPrefix -> Page No. 
----------
-quote -> Do not apologize. It ought not to be necessary; and if it is, it will not help. Go straight ahead.
-timestamp -> Tuesday, September 20, 2022 10:38:18 AM
-location -> 12
-locationPrefix -> Page No. 
----------
-quote -> Face your audience pluckily—if your knees quake, MAKE them stop.
-timestamp -> Tuesday, September 20, 2022 10:39:46 AM
-location -> 13
-locationPrefix -> Page No. 
----------
-quote -> The world owes its progress to the men who have dared, and you must dare to speak the effective word that is in your heart to speak—for often it requires courage to utter a single sentence.
-timestamp -> Tuesday, September 20, 2022 10:40:12 AM
-location -> 13
-locationPrefix -> Page No. 
----------
-quote -> Banish the fear-attitude; acquire the confident attitude. And remember that the only way to acquire it is—to acquire
-timestamp -> Tuesday, September 20, 2022 10:40:59 AM
-location -> 13
-locationPrefix -> Page No. 
----------
-quote -> Banish the fear-attitude; acquire the confident attitude. And remember that the only way to acquire it is—to acquire it.
-timestamp -> Tuesday, September 20, 2022 10:41:02 AM
-location -> 13
-locationPrefix -> Page No. 
----------
-quote -> monotonous. From “having but one tone,” it has come to mean more broadly, “lack of variation.”
-timestamp -> Tuesday, September 20, 2022 10:46:41 AM
-location -> 14
-locationPrefix -> Page No. 
----------
-quote -> Nature in her wealth gives us endless variety; man with his limitations is often monotonous.
-timestamp -> Tuesday, September 20, 2022 10:48:59 AM
-location -> 16
-locationPrefix -> Page No. 
----------
-quote -> Be natural—but improve your natural gifts until you have approached the ideal,
-timestamp -> Tuesday, September 20, 2022 5:13:38 PM
-location -> 18
-locationPrefix -> Page No. 
----------
-quote -> the principle of emphasis . . . . is followed best, not by remembering particular rules, but by being full of a particular feeling.—C.
-timestamp -> Wednesday, September 21, 2022 5:55:24 AM
-location -> 18
-locationPrefix -> Page No. 
----------
-quote -> In almost every sentence there are a few MOUNTAIN PEAK WORDS that represent the big, important
-timestamp -> Wednesday, September 21, 2022 5:58:57 AM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> In almost every sentence there are a few MOUNTAIN PEAK WORDS that represent the big, important ideas.
-timestamp -> Wednesday, September 21, 2022 5:59:01 AM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> EMPHASIS is a matter of CONTRAST and COMPARISON.
-timestamp -> Wednesday, September 21, 2022 6:02:53 AM
-location -> 21
-locationPrefix -> Page No. 
----------
-quote -> To make a word emphatic, deliver it differently from the manner in which the words surrounding it are delivered.
-timestamp -> Wednesday, September 21, 2022 6:04:08 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> If you have been talking loudly, utter the emphatic word in a concentrated whisper—and you have intense emphasis.
-timestamp -> Wednesday, September 21, 2022 6:04:14 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> If you have been going fast, go very slow on the emphatic word.
-timestamp -> Wednesday, September 21, 2022 6:04:23 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> If you have been going fast, go very slow on the emphatic word.
-timestamp -> Wednesday, September 21, 2022 6:04:29 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> If you have been talking on a low pitch, jump to a high one on the emphatic word.
-timestamp -> Wednesday, September 21, 2022 6:04:32 AM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> If you have been talking on a high pitch, take a low one on your emphatic ideas.
+
 timestamp -> Wednesday, September 21, 2022 6:04:39 AM
 location -> 22
 locationPrefix -> Page No. 

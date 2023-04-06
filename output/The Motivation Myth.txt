@@ -4,1723 +4,1047 @@ Title  : The Motivation Myth
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> Motivation is the fire that starts burning after you manually, painfully, coax it into existence, and it feeds on the satisfaction of seeing yourself make progress.
+
 timestamp -> Monday, August 29, 2022 4:27:45 PM
 location -> 6
 locationPrefix -> Page No. 
 ---------
 quote -> There is only one recipe for gaining motivation: success.
+
 timestamp -> Monday, August 29, 2022 4:28:54 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> Success is a process. Success is repeatable and predictable. Success has less to do with hoping and praying and strategizing than with diligently doing (after a little strategizing, sure): doing the right things, the right way, over and over and over.
+
 timestamp -> Monday, August 29, 2022 4:37:49 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> Success is a process.
+
 timestamp -> Monday, August 29, 2022 4:37:53 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> Success is repeatable and predictable.
+
 timestamp -> Monday, August 29, 2022 4:37:59 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> Success has less to do with hoping and praying and strategizing than with diligently doing
+
 timestamp -> Monday, August 29, 2022 4:38:05 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> When you consistently do the right things, success is predictable. Success is inevitable.
+
 timestamp -> Monday, August 29, 2022 4:38:33 PM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> motivation isn’t something you have. Motivation is something you get, from yourself, automatically, from feeling good about achieving small successes.
+
 timestamp -> Monday, August 29, 2022 4:39:07 PM
 location -> 7
 locationPrefix -> Page No. 
 ---------
 quote -> we are all left with, no matter what we have accomplished and no
+
 timestamp -> Tuesday, August 30, 2022 7:26:42 AM
 location -> 9
 locationPrefix -> Page No. 
 ---------
 quote -> no matter how much praise or recognition we have received from others. The accomplishment, no matter how amazing, is just the cherry on top of the fulfillment cake.
+
 timestamp -> Tuesday, August 30, 2022 7:26:48 AM
 location -> 10
 locationPrefix -> Page No. 
 ---------
 quote -> A slice of satisfaction, fulfillment, and happiness can be found in the achievement . . . but the real source of consistent, lasting happiness lies in the process.
+
 timestamp -> Tuesday, August 30, 2022 7:28:39 AM
 location -> 10
 locationPrefix -> Page No. 
 ---------
 quote -> Accomplishing something, no matter how small the task, makes us feel better about ourselves. That’s why to-do lists are so popular.
+
 timestamp -> Tuesday, August 30, 2022 7:29:08 AM
 location -> 10
 locationPrefix -> Page No. 
 ---------
 quote -> When you savor the small victories, you get to feel good about yourself every day, because you no longer feel compelled to compare the distance between here and there.
+
 timestamp -> Tuesday, August 30, 2022 7:37:14 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> Success—lasting, fulfilling, meaningful success—never is.
+
 timestamp -> Tuesday, August 30, 2022 7:38:14 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way. Yet there are plenty of ways to make the process
+
 timestamp -> Tuesday, August 30, 2022 7:38:43 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way.
+
 timestamp -> Tuesday, August 30, 2022 7:38:48 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way.
+
 timestamp -> Tuesday, August 30, 2022 7:38:55 AM
 location -> 11
 locationPrefix -> Page No. 
 ---------
 quote -> what you do have—however little it may seem—is more than enough.
+
 timestamp -> Tuesday, August 30, 2022 7:40:09 AM
 location -> 12
 locationPrefix -> Page No. 
 ---------
 quote -> motivation is a result. Motivation is the pride you take in work you have already done—which fuels your willingness to do even more.
+
 timestamp -> Tuesday, August 30, 2022 7:41:37 AM
 location -> 13
 locationPrefix -> Page No. 
 ---------
 quote -> Real motivation comes after you start. Motivation isn’t the result of hearing a speech or watching a movie or crisping your soles. Motivation isn’t passive; motivation is active.
+
 timestamp -> Tuesday, August 30, 2022 7:42:57 AM
 location -> 14
 locationPrefix -> Page No. 
 ---------
 quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that rush I know I’ll feel when I’m actually doing what I planned to do.” The key is to enjoy the feeling of success that comes from
+
 timestamp -> Tuesday, August 30, 2022 7:46:47 AM
 location -> 15
 locationPrefix -> Page No. 
 ---------
 quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that
+
 timestamp -> Tuesday, August 30, 2022 7:46:51 AM
 location -> 15
 locationPrefix -> Page No. 
 ---------
 quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that rush I know I’ll feel when I’m actually doing what I planned to do.”
+
 timestamp -> Tuesday, August 30, 2022 7:46:58 AM
 location -> 15
 locationPrefix -> Page No. 
 ---------
 quote -> You don’t need motivation to break a sweat. Break a sweat and you’ll feel motivated.
+
 timestamp -> Tuesday, August 30, 2022 7:48:14 AM
 location -> 16
 locationPrefix -> Page No. 
 ---------
 quote -> Starting is hard because “motivation” doesn’t make it easy to start. Starting provides the motivation to finish. Fire walks don’t provide lasting motivation.
+
 timestamp -> Tuesday, August 30, 2022 7:48:50 AM
 location -> 16
 locationPrefix -> Page No. 
 ---------
 quote -> Starting is hard because “motivation” doesn’t
+
 timestamp -> Tuesday, August 30, 2022 7:48:54 AM
 location -> 16
 locationPrefix -> Page No. 
 ---------
 quote -> Starting is hard because “motivation” doesn’t make it easy to start. Starting provides the motivation to finish.
+
 timestamp -> Tuesday, August 30, 2022 7:49:05 AM
 location -> 16
 locationPrefix -> Page No. 
 ---------
 quote -> When you accept your weak points, when you accept your flaws, when you accept your imperfections . . . that’s when you can motivate yourself to make changes and improve.
+
 timestamp -> Tuesday, August 30, 2022 7:49:18 AM
 location -> 17
 locationPrefix -> Page No. 
 ---------
 quote -> Where feeling confident and self-assured is concerned, on
+
 timestamp -> Wednesday, August 31, 2022 3:51:29 PM
 location -> 18
 locationPrefix -> Page No. 
 ---------
 quote -> Confidence comes from preparation.
+
 timestamp -> Wednesday, August 31, 2022 3:51:37 PM
 location -> 19
 locationPrefix -> Page No. 
 ---------
 quote -> Hesitation, anxiety, fear . . . Those feelings don’t come from some deep, dark, irrational place inside you. The anxiety you feel—the lack of confidence you feel—comes from feeling unprepared.
+
 timestamp -> Wednesday, August 31, 2022 3:51:47 PM
 location -> 19
 locationPrefix -> Page No. 
 ---------
 quote -> Feeling overprepared lets me feel confident and natural.”
+
 timestamp -> Wednesday, August 31, 2022 3:53:32 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Confidence is a feeling, but ultimately confidence is the result of knowing that you’re not only willing to do the work, but that you actually will do the work.
+
 timestamp -> Wednesday, August 31, 2022 3:53:50 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Hacking is great when you need to perform a simple task. Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
+
 timestamp -> Wednesday, August 31, 2022 3:53:58 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Hacking is great when you need to perform a simple task. Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
+
 timestamp -> Wednesday, August 31, 2022 3:54:00 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Hacking is great when you need to perform a simple task.
+
 timestamp -> Wednesday, August 31, 2022 3:54:10 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
+
 timestamp -> Wednesday, August 31, 2022 3:54:13 PM
 location -> 20
 locationPrefix -> Page No. 
 ---------
 quote -> Process gets a bad rap. Hard work, consistent effort, long hours . . . That’s what stupid people with no talent do, right? Um, nope.
+
 timestamp -> Wednesday, August 31, 2022 3:58:49 PM
 location -> 22
 locationPrefix -> Page No. 
 ---------
 quote -> Have you done that before? I have. Other people can’t motivate us, not really, and definitely not for long.
+
 timestamp -> Thursday, September 1, 2022 5:41:58 AM
 location -> 26
 locationPrefix -> Page No. 
 ---------
 quote -> Other people can’t motivate us, not really, and definitely not for long.
+
 timestamp -> Thursday, September 1, 2022 5:42:02 AM
 location -> 26
 locationPrefix -> Page No. 
 ---------
 quote -> what really drives success is not “genius” but a combination of passion and long-term perseverance.
+
 timestamp -> Thursday, September 1, 2022 5:43:34 AM
 location -> 27
 locationPrefix -> Page No. 
 ---------
 quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to
+
 timestamp -> Thursday, September 1, 2022 11:07:31 AM
 location -> 27
 locationPrefix -> Page No. 
 ---------
 quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to do. (Of
+
 timestamp -> Thursday, September 1, 2022 11:07:34 AM
 location -> 27
 locationPrefix -> Page No. 
 ---------
 quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to do.
+
 timestamp -> Thursday, September 1, 2022 11:07:46 AM
 location -> 27
 locationPrefix -> Page No. 
 ---------
 quote -> Success is never assured. It looks inevitable only after it is achieved. Sure, other people
+
 timestamp -> Thursday, September 1, 2022 11:10:35 AM
 location -> 28
 locationPrefix -> Page No. 
 ---------
 quote -> Success
+
 timestamp -> Thursday, September 1, 2022 11:10:39 AM
 location -> 28
 locationPrefix -> Page No. 
 ---------
 quote -> Success
+
 timestamp -> Thursday, September 1, 2022 11:10:45 AM
 location -> 28
 locationPrefix -> Page No. 
 ---------
 quote -> Success
+
 timestamp -> Thursday, September 1, 2022 11:10:50 AM
 location -> 28
 locationPrefix -> Page No. 
 ---------
 quote -> Success is never assured. It looks inevitable only after it is achieved.
+
 timestamp -> Thursday, September 1, 2022 11:11:04 AM
 location -> 28
 locationPrefix -> Page No. 
 ---------
 quote -> Success → Motivation → More Success → More Motivation → More Success = Becoming
+
 timestamp -> Friday, September 2, 2022 11:56:28 AM
 location -> 30
 locationPrefix -> Page No. 
 ---------
 quote -> Earned success is the best motivational tool of
+
 timestamp -> Friday, September 2, 2022 11:57:19 AM
 location -> 30
 locationPrefix -> Page No. 
 ---------
 quote -> Earned success is the best motivational tool of all.
+
 timestamp -> Friday, September 2, 2022 11:57:22 AM
 location -> 30
 locationPrefix -> Page No. 
 ---------
 quote -> Choices present a huge obstacle to meeting our objectives. They deplete our willpower to pick long-term gratification over
+
 timestamp -> Saturday, September 3, 2022 4:16:47 AM
 location -> 32
 locationPrefix -> Page No. 
 ---------
 quote -> Choices
+
 timestamp -> Saturday, September 3, 2022 4:16:52 AM
 location -> 32
 locationPrefix -> Page No. 
 ---------
 quote -> Choices present a huge obstacle to meeting our objectives.
+
 timestamp -> Saturday, September 3, 2022 4:17:03 AM
 location -> 32
 locationPrefix -> Page No. 
 ---------
 quote -> * Choices are a problem, because choices force you to decide what you want to do.
+
 timestamp -> Saturday, September 3, 2022 4:17:53 AM
 location -> 32
 locationPrefix -> Page No. 
 ---------
 quote -> Punctuality is nonnegotiable. Getting to work on time is not a goal; it’s a task.
+
 timestamp -> Saturday, September 3, 2022 4:20:09 AM
 location -> 33
 locationPrefix -> Page No. 
 ---------
 quote -> The distance between your dream and the stark reality of your present is incredibly demoralizing—no wonder you give up on that goal.
+
 timestamp -> Saturday, September 3, 2022 4:22:49 AM
 location -> 34
 locationPrefix -> Page No. 
 ---------
 quote -> The key is to set a goal, use it as a target that helps you create a plan for achieving it . . . and then do your best to forget all about that goal.
+
 timestamp -> Saturday, September 3, 2022 4:24:11 AM
 location -> 35
 locationPrefix -> Page No. 
 ---------
 quote -> Everyone has goals. The people who actually achieve their goals create routines. They build systems.
+
 timestamp -> Saturday, September 3, 2022 4:24:55 AM
 location -> 36
 locationPrefix -> Page No. 
 ---------
 quote -> No goal can be made meaningful. A goal either has meaning or it doesn’t.
+
 timestamp -> Saturday, September 3, 2022 5:55:06 AM
 location -> 36
 locationPrefix -> Page No. 
 ---------
 quote -> The more you work to find or contrive or manufacture some sense of meaning, the less likely you are to achieve the goal.
+
 timestamp -> Saturday, September 3, 2022 5:55:12 AM
 location -> 36
 locationPrefix -> Page No. 
 ---------
 quote -> Make this your mantra where goals are concerned: “I will set it . . . and then I will forget it.”
+
 timestamp -> Saturday, September 3, 2022 5:57:59 AM
 location -> 38
 locationPrefix -> Page No. 
 ---------
 quote -> Dream big. Set a huge goal. Commit to your huge goal. Create a process that ensures you can reach your goal. Then forget about your huge goal and work your process instead.
+
 timestamp -> Saturday, September 3, 2022 5:58:02 AM
 location -> 38
 locationPrefix -> Page No. 
 ---------
 quote -> for now you must forget them, because you will never be able to give yourself positive feedback when you constantly compare yourself with your end goal. You will always be your worst critic because
+
 timestamp -> Saturday, September 3, 2022 6:01:12 AM
 location -> 40
 locationPrefix -> Page No. 
 ---------
 quote -> for now you must forget them, because you will never be able to give yourself positive feedback when you constantly compare yourself with your end goal.
+
 timestamp -> Saturday, September 3, 2022 6:01:16 AM
 location -> 40
 locationPrefix -> Page No. 
 ---------
 quote -> Waiting accomplishes nothing.
+
 timestamp -> Saturday, September 3, 2022 7:50:09 AM
 location -> 48
 locationPrefix -> Page No. 
 ---------
 quote -> get a large wall calendar, one that shows the entire year. You hang it in a place you can’t miss it. And every day, once you’ve accomplished your task—remember, your task isn’t to become a great comedian, your task is to write new material—you put a red X over that date. “After a few days,” Seinfeld told Brad Isaac, “you’ll have a chain. Just keep at it and the chain will grow longer every day. You’ll like seeing that chain, especially when you get a few weeks under your belt. Your only job is to not break the chain.”* Your only job is to not break the chain.
+
 timestamp -> Saturday, September 3, 2022 7:50:51 AM
 location -> 48
 locationPrefix -> Page No. 
 ---------
 quote -> Your Goal Must Always Choose Your Process
+
 timestamp -> Saturday, September 3, 2022 7:54:28 AM
 location -> 49
 locationPrefix -> Page No. 
 ---------
 quote -> we are not what we think or wish or dream—we are what we do.
+
 timestamp -> Sunday, October 16, 2022 10:38:22 PM
 location -> 70
 locationPrefix -> Page No. 
 ---------
 quote -> you don’t need to be world-class. Get to the 90 or 95 percent level in any pursuit and you will be extremely successful and will feel incredibly good about yourself.
+
 timestamp -> Monday, October 17, 2022 5:56:37 PM
 location -> 72
 locationPrefix -> Page No. 
 ---------
 quote -> us—we’re too good to specialize.
+
 timestamp -> Monday, October 17, 2022 6:02:48 PM
 location -> 76
 locationPrefix -> Page No. 
 ---------
 quote -> professional “specialization” indicates accomplishment and success, when in fact the opposite is true.
+
 timestamp -> Monday, October 17, 2022 6:02:55 PM
 location -> 76
 locationPrefix -> Page No. 
 ---------
 quote -> None of us should be just one thing. We all possess, or can possess, a variety of skills—including skills we aren’t using.
+
 timestamp -> Monday, October 17, 2022 6:03:07 PM
 location -> 76
 locationPrefix -> Page No. 
 ---------
 quote -> want—and you don’t need to wait for someone else to help you.
+
 timestamp -> Monday, October 17, 2022 6:08:09 PM
 location -> 78
 locationPrefix -> Page No. 
 ---------
 quote -> want—and you don’t need to wait for someone else to help you.
+
 timestamp -> Monday, October 17, 2022 6:08:12 PM
 location -> 78
 locationPrefix -> Page No. 
 ---------
 quote -> you don’t need to wait for someone else to help you.
+
 timestamp -> Monday, October 17, 2022 6:08:21 PM
 location -> 78
 locationPrefix -> Page No. 
 ---------
 quote -> The only thing holding you back is you—and your willingness to try.
+
 timestamp -> Monday, October 17, 2022 6:25:25 PM
 location -> 78
 locationPrefix -> Page No. 
 ---------
 quote -> some of the worst words you can say are “If I had only . . .” Think about something you dreamed of doing five or ten years ago
+
 timestamp -> Monday, October 17, 2022 6:27:09 PM
 location -> 79
 locationPrefix -> Page No. 
 ---------
 quote -> some of the worst words you can say are “If I had only . . .”
+
 timestamp -> Monday, October 17, 2022 6:27:14 PM
 location -> 79
 locationPrefix -> Page No. 
 ---------
 quote -> When you’re sitting in that rocking chair, you’ll think about the things you wanted to become.
+
 timestamp -> Monday, October 17, 2022 6:28:13 PM
 location -> 80
 locationPrefix -> Page No. 
 ---------
 quote -> developers—the skills you gain will stay in your tool kit. While over time you will naturally lose some degree of proficiency, you will always retain the core skill and
+
 timestamp -> Monday, October 17, 2022 6:29:28 PM
 location -> 81
 locationPrefix -> Page No. 
 ---------
 quote -> developers—the skills you gain will stay in your tool kit. While over time you will naturally lose some degree of proficiency, you will always retain the core skill and will be able to quickly tune yourself up again if necessary.
+
 timestamp -> Monday, October 17, 2022 6:29:32 PM
 location -> 81
 locationPrefix -> Page No. 
 ---------
 quote -> Strength is hard to build the first time, but regaining strength lost is much easier.
+
 timestamp -> Monday, October 17, 2022 6:30:52 PM
 location -> 81
 locationPrefix -> Page No. 
 ---------
 quote -> putting more focus on one area automatically reduces the focus on another.
+
 timestamp -> Tuesday, October 18, 2022 10:34:57 AM
 location -> 82
 locationPrefix -> Page No. 
 ---------
 quote -> The more money you want to make, the less happy you may need to be. The happier you want to be, the less money you may be able to make.
+
 timestamp -> Tuesday, October 18, 2022 10:35:10 AM
 location -> 82
 locationPrefix -> Page No. 
 ---------
 quote -> You can’t have it all . . . but you can have
+
 timestamp -> Tuesday, October 18, 2022 10:35:39 AM
 location -> 83
 locationPrefix -> Page No. 
 ---------
 quote -> You
+
 timestamp -> Tuesday, October 18, 2022 10:35:42 AM
 location -> 83
 locationPrefix -> Page No. 
 ---------
 quote -> You can’t have it all . . . but you can have a lot.
+
 timestamp -> Tuesday, October 18, 2022 10:35:46 AM
 location -> 83
 locationPrefix -> Page No. 
 ---------
 quote -> If you’re not happy, rethink your definition of success. The one you have is not working for you.
+
 timestamp -> Tuesday, October 18, 2022 10:37:18 AM
 location -> 84
 locationPrefix -> Page No. 
 ---------
 quote -> you can have a lot more than you currently do, whether what you
+
 timestamp -> Tuesday, October 18, 2022 10:37:36 AM
 location -> 84
 locationPrefix -> Page No. 
 ---------
 quote -> Goals everyone else thinks are crazy—pursuits no one else but you may see as worthwhile—are great.
+
 timestamp -> Tuesday, October 18, 2022 10:39:05 AM
 location -> 85
 locationPrefix -> Page No. 
 ---------
 quote -> We are all different, and so are our goals.
+
 timestamp -> Tuesday, October 18, 2022 10:39:13 AM
 location -> 85
 locationPrefix -> Page No. 
 ---------
 quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow because the “trophy” on the mantel came at too high a cost. Happiness requires evenly balancing
+
 timestamp -> Tuesday, October 18, 2022 10:41:43 AM
 location -> 86
 locationPrefix -> Page No. 
 ---------
 quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow
+
 timestamp -> Tuesday, October 18, 2022 10:41:46 AM
 location -> 86
 locationPrefix -> Page No. 
 ---------
 quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow because the “trophy” on the mantel came at too high a cost.
+
 timestamp -> Tuesday, October 18, 2022 10:41:50 AM
 location -> 86
 locationPrefix -> Page No. 
 ---------
 quote -> Happiness requires evenly balancing your multiple nonnegotiable goals, blending in a negotiable goal where appropriate . . . and never, ever forgetting to self-evaluate along the way to ensure the balance never gets out of whack.
+
 timestamp -> Tuesday, October 18, 2022 10:42:03 AM
 location -> 86
 locationPrefix -> Page No. 
 ---------
 quote -> If you’re constantly worried about or thinking about money, your first goal must be to generate more income, because money clearly matters a lot to you.
+
 timestamp -> Tuesday, October 18, 2022 10:43:01 AM
 location -> 87
 locationPrefix -> Page No. 
 ---------
 quote -> Every goal should support multiple aspects of your life.
+
 timestamp -> Tuesday, October 18, 2022 10:45:00 AM
 location -> 88
 locationPrefix -> Page No. 
 ---------
 quote -> Your goal must be unquestionably measurable.
+
 timestamp -> Tuesday, October 18, 2022 10:50:30 AM
 location -> 90
 locationPrefix -> Page No. 
 ---------
 quote -> The best goals are binary:
+
 timestamp -> Tuesday, October 18, 2022 10:50:53 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> They’re so specific you can’t help but know whether you have achieved them or not. They’re
+
 timestamp -> Tuesday, October 18, 2022 10:50:57 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> They’re so specific you can’t help but know whether you have achieved them or not.
+
 timestamp -> Tuesday, October 18, 2022 10:51:02 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> Fuzzy goals are meaningless.
+
 timestamp -> Tuesday, October 18, 2022 10:51:20 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> Fuzzy goals are meaningless. The best goals are goals you can see and taste and visualize in great detail, because they’re based on a real accomplishment and not a vague statement of intent.
+
 timestamp -> Tuesday, October 18, 2022 10:51:32 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> your goal must help you overcome that challenge.
+
 timestamp -> Tuesday, October 18, 2022 10:52:53 AM
 location -> 91
 locationPrefix -> Page No. 
 ---------
 quote -> “idea” should really be a verb, because an idea does not actually exist until you turn your inspiration into action.
+
 timestamp -> Tuesday, October 18, 2022 10:54:16 AM
 location -> 92
 locationPrefix -> Page No. 
 ---------
 quote -> Instead of acting, though, I let “idea” stay a noun. I didn’t make “idea” a verb.
+
 timestamp -> Tuesday, October 18, 2022 10:56:18 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> ideas without action aren’t ideas.
+
 timestamp -> Tuesday, October 18, 2022 10:56:30 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> ideas without action aren’t ideas. They’re regrets.
+
 timestamp -> Tuesday, October 18, 2022 10:56:34 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> Quote
+
 timestamp -> Tuesday, October 18, 2022 10:56:59 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> you absolutely must trust your analysis, your judgment, and even your instincts—and act on that trust.
+
 timestamp -> Tuesday, October 18, 2022 10:57:52 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> You certainly won’t get it right all the time, but if you let “idea” stay a noun, you will always get it wrong.
+
 timestamp -> Tuesday, October 18, 2022 10:57:58 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> If your goal is to become extremely wealthy, get started on your entrepreneurial journey.
+
 timestamp -> Tuesday, October 18, 2022 10:58:44 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> If your goal is to advance your career, determine what matters most to your organization
+
 timestamp -> Tuesday, October 18, 2022 10:58:48 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> If your goal is to advance your career, determine what matters most to your organization and start finding ways to make a quantitative difference in that aspect of the business.
+
 timestamp -> Tuesday, October 18, 2022 10:58:53 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> You will never achieve your goals if your approach is to wait.
+
 timestamp -> Tuesday, October 18, 2022 10:59:00 AM
 location -> 93
 locationPrefix -> Page No. 
 ---------
 quote -> Set a goal. Then look at what is required to achieve that goal.
+
 timestamp -> Tuesday, October 18, 2022 10:59:11 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> Be “unrealistic” when you set a goal, and then be realistic about how you will achieve that goal.
+
 timestamp -> Tuesday, October 18, 2022 10:59:24 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> To Gain Incredible Willpower . . . Need Less Willpower
+
 timestamp -> Tuesday, October 18, 2022 10:59:36 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> Success → Motivation → More Success → More Motivation creates
+
 timestamp -> Tuesday, October 18, 2022 10:59:45 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> Success → Motivation → More Success → More Motivation
+
 timestamp -> Tuesday, October 18, 2022 10:59:49 AM
 location -> 94
 locationPrefix -> Page No. 
 ---------
 quote -> Step 1: Let everyone know you won’t be available.
+
 timestamp -> Tuesday, October 18, 2022 11:01:12 AM
 location -> 95
 locationPrefix -> Page No. 
 ---------
 quote -> Interruptions are productivity killers, so letting people know you’re doing something special and will be out of reach for a day is an absolute must.
+
 timestamp -> Tuesday, October 18, 2022 11:01:17 AM
 location -> 95
 locationPrefix -> Page No. 
 ---------
 quote -> PEER PRESSURE DOESN’T HAVE TO BE PRESSURE
+
 timestamp -> Tuesday, October 18, 2022 11:01:59 AM
 location -> 96
 locationPrefix -> Page No. 
 ---------
 quote -> When you know you’re in for a long haul, your mind automatically adapts.
+
 timestamp -> Tuesday, October 18, 2022 11:03:40 AM
 location -> 97
 locationPrefix -> Page No. 
 ---------
 quote -> The opposite happens when a deadline seems too aggressive:
+
 timestamp -> Tuesday, October 18, 2022 11:04:00 AM
 location -> 97
 locationPrefix -> Page No. 
 ---------
 quote -> Don’t just set a deadline. Totally commit to hitting that deadline.
+
 timestamp -> Tuesday, October 18, 2022 11:04:14 AM
 location -> 97
 locationPrefix -> Page No. 
 ---------
 quote -> feel free to play any mental games that help. Make a bet with someone else, or make a bet with yourself (where “losing” means you have to do something you really don’t want to do).
+
 timestamp -> Tuesday, October 18, 2022 11:04:25 AM
 location -> 97
 locationPrefix -> Page No. 
 ---------
 quote -> Start your EPD at an unusual time.
+
 timestamp -> Tuesday, October 18, 2022 11:04:32 AM
 location -> 97
 locationPrefix -> Page No. 
 ---------
 quote -> An EPD is not a normal day. Set the stage for atypical by breaking free of your usual routine.
+
 timestamp -> Tuesday, October 18, 2022 11:04:53 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> EPD Estimated Productive Day
+
 timestamp -> Tuesday, October 18, 2022 11:05:15 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Have you ever taken a long car trip and left at 3:00 or 4:00 a.m.? The first few hours always fly by, because you stepped outside your norm.
+
 timestamp -> Tuesday, October 18, 2022 11:05:23 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Delay and space out your rewards.
+
 timestamp -> Tuesday, October 18, 2022 11:05:35 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Say you like to listen to music when you work. On an EPD, keep the music turned off for the first few hours.
+
 timestamp -> Tuesday, October 18, 2022 11:05:38 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> That way, when your motivation starts to flag, a little music will provide a great boost to your morale.
+
 timestamp -> Tuesday, October 18, 2022 11:05:52 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Whatever ways you typically tend to “treat” yourself, think of those treats as personal productivity bullets.
+
 timestamp -> Tuesday, October 18, 2022 11:05:58 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> If you use all your ammunition too early, you’ll have nothing left when you really need it.
+
 timestamp -> Tuesday, October 18, 2022 11:06:02 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Delayed gratification is always better gratification—and better motivation.
+
 timestamp -> Tuesday, October 18, 2022 11:06:06 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Refuel before you think you need to refuel.
+
 timestamp -> Tuesday, October 18, 2022 11:06:10 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Plan to eat or snack a little earlier than normal.
+
 timestamp -> Tuesday, October 18, 2022 11:06:18 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> plan meals wisely. Don’t take an hour-long lunch break.
+
 timestamp -> Tuesday, October 18, 2022 11:06:41 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> key is to refuel, recharge . . . and keep rolling.
+
 timestamp -> Tuesday, October 18, 2022 11:06:46 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> A productive body in motion tends to stay in productive motion.
+
 timestamp -> Tuesday, October 18, 2022 11:06:52 AM
 location -> 98
 locationPrefix -> Page No. 
 ---------
 quote -> Take productive breaks, not relaxation breaks.
+
 timestamp -> Tuesday, October 18, 2022 11:06:57 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Momentum is everything on an EPD (and
+
 timestamp -> Tuesday, October 18, 2022 11:07:00 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Momentum is everything on an EPD
+
 timestamp -> Tuesday, October 18, 2022 11:07:04 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Momentum is everything on an EPD (and on every other day). Don’t take a walk
+
 timestamp -> Tuesday, October 18, 2022 11:07:19 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> breaks should reinforce your sense of activity and accomplishment.
+
 timestamp -> Tuesday, October 18, 2022 11:07:26 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Pick a few productive tasks you like to perform—and gain a sense of accomplishment from—and use those for your breaks.
+
 timestamp -> Tuesday, October 18, 2022 11:07:30 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Spending even a few minutes in the land of inactivity weakens your resolve.
+
 timestamp -> Tuesday, October 18, 2022 11:07:35 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Take your breaks at a counterintuitive moment.
+
 timestamp -> Tuesday, October 18, 2022 11:07:49 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> When you take a break, don’t stop when you complete a particular task. Stop in the middle.
+
 timestamp -> Tuesday, October 18, 2022 11:07:53 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Stopping in the middle of doing something awesome—or stopping right before you’ll start doing something awesome—ensures you’ll avoid the temptation of procrastination.
+
 timestamp -> Tuesday, October 18, 2022 11:08:12 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> Stopping short allows you to instantly focus and concentrate when you resume whatever you were doing.
+
 timestamp -> Tuesday, October 18, 2022 11:08:26 AM
 location -> 99
 locationPrefix -> Page No. 
 ---------
 quote -> If you stop after you’ve just finished something significant or major—if you stop when you feel you’ve crossed a finish line and are nearly spent—it can feel extremely difficult to move on to whatever is next,
+
 timestamp -> Tuesday, October 18, 2022 11:09:40 AM
 location -> 100
 locationPrefix -> Page No. 
 ---------
 quote -> Quitting is a habit.
+
 timestamp -> Tuesday, October 18, 2022 11:10:02 AM
 location -> 100
 locationPrefix -> Page No. 
 ---------
 quote -> Don’t stop until you’re done—even if finishing takes longer than expected.
+
 timestamp -> Tuesday, October 18, 2022 11:10:06 AM
 location -> 100
 locationPrefix -> Page No. 
 ---------
 quote -> Stopping short is an easy habit to form.
+
 timestamp -> Tuesday, October 18, 2022 11:10:10 AM
 location -> 100
 locationPrefix -> Page No. 
 ---------
 quote -> “Winning is a mind-set. Refusing to give up is a mind-set.
+
 timestamp -> Tuesday, October 18, 2022 11:11:16 AM
 location -> 101
 locationPrefix -> Page No. 
 ---------
 quote -> Success is a mental game.
+
 timestamp -> Tuesday, October 18, 2022 11:11:31 AM
 location -> 101
 locationPrefix -> Page No. 
 ---------
 quote -> Step 1: Every Sunday, map out your
+
 timestamp -> Tuesday, October 18, 2022 11:12:18 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> Step 1: Every Sunday, map out your week.
+
 timestamp -> Tuesday, October 18, 2022 11:12:20 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
+
 timestamp -> Tuesday, October 18, 2022 11:12:36 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> and if you aren’t careful, the important can easily be pushed aside by the urgent.
+
 timestamp -> Tuesday, October 18, 2022 11:12:40 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
+
 timestamp -> Tuesday, October 18, 2022 11:12:50 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
+
 timestamp -> Tuesday, October 18, 2022 11:12:54 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> if you aren’t careful, the important can easily be pushed aside by the urgent.
+
 timestamp -> Tuesday, October 18, 2022 11:12:56 AM
 location -> 102
 locationPrefix -> Page No. 
 ---------
 quote -> You already schedule meetings and appointments. Go a step further and block out time to complete specific tasks.
+
 timestamp -> Thursday, October 20, 2022 3:20:11 PM
 location -> 103
 locationPrefix -> Page No. 
 ---------
 quote -> Success is based on getting important things done.
+
 timestamp -> Thursday, October 20, 2022 3:20:38 PM
 location -> 103
 locationPrefix -> Page No. 
 ---------
 quote -> success isn’t based on getting things done. Success is based on getting important things done.
+
 timestamp -> Thursday, October 20, 2022 3:20:42 PM
 location -> 103
 locationPrefix -> Page No. 
 ---------
-quote -> sometimes subtraction is the best addition.
-timestamp -> Thursday, October 20, 2022 3:22:49 PM
-location -> 106
-locationPrefix -> Page No. 
----------
-quote -> Motivation is the fire that starts burning after you manually, painfully, coax it into existence, and it feeds on the satisfaction of seeing yourself make progress.
-timestamp -> Monday, August 29, 2022 4:27:45 PM
-location -> 6
-locationPrefix -> Page No. 
----------
-quote -> There is only one recipe for gaining motivation: success.
-timestamp -> Monday, August 29, 2022 4:28:54 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> Success is a process. Success is repeatable and predictable. Success has less to do with hoping and praying and strategizing than with diligently doing (after a little strategizing, sure): doing the right things, the right way, over and over and over.
-timestamp -> Monday, August 29, 2022 4:37:49 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> Success is a process.
-timestamp -> Monday, August 29, 2022 4:37:53 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> Success is repeatable and predictable.
-timestamp -> Monday, August 29, 2022 4:37:59 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> Success has less to do with hoping and praying and strategizing than with diligently doing
-timestamp -> Monday, August 29, 2022 4:38:05 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> When you consistently do the right things, success is predictable. Success is inevitable.
-timestamp -> Monday, August 29, 2022 4:38:33 PM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> motivation isn’t something you have. Motivation is something you get, from yourself, automatically, from feeling good about achieving small successes.
-timestamp -> Monday, August 29, 2022 4:39:07 PM
-location -> 7
-locationPrefix -> Page No. 
----------
-quote -> we are all left with, no matter what we have accomplished and no
-timestamp -> Tuesday, August 30, 2022 7:26:42 AM
-location -> 9
-locationPrefix -> Page No. 
----------
-quote -> no matter how much praise or recognition we have received from others. The accomplishment, no matter how amazing, is just the cherry on top of the fulfillment cake.
-timestamp -> Tuesday, August 30, 2022 7:26:48 AM
-location -> 10
-locationPrefix -> Page No. 
----------
-quote -> A slice of satisfaction, fulfillment, and happiness can be found in the achievement . . . but the real source of consistent, lasting happiness lies in the process.
-timestamp -> Tuesday, August 30, 2022 7:28:39 AM
-location -> 10
-locationPrefix -> Page No. 
----------
-quote -> Accomplishing something, no matter how small the task, makes us feel better about ourselves. That’s why to-do lists are so popular.
-timestamp -> Tuesday, August 30, 2022 7:29:08 AM
-location -> 10
-locationPrefix -> Page No. 
----------
-quote -> When you savor the small victories, you get to feel good about yourself every day, because you no longer feel compelled to compare the distance between here and there.
-timestamp -> Tuesday, August 30, 2022 7:37:14 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> Success—lasting, fulfilling, meaningful success—never is.
-timestamp -> Tuesday, August 30, 2022 7:38:14 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way. Yet there are plenty of ways to make the process
-timestamp -> Tuesday, August 30, 2022 7:38:43 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way.
-timestamp -> Tuesday, August 30, 2022 7:38:48 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> To accomplish anything worthwhile, and especially to achieve a goal others say is impossible, you have to work your ass off. There are no shortcuts. The only way is the hard way.
-timestamp -> Tuesday, August 30, 2022 7:38:55 AM
-location -> 11
-locationPrefix -> Page No. 
----------
-quote -> what you do have—however little it may seem—is more than enough.
-timestamp -> Tuesday, August 30, 2022 7:40:09 AM
-location -> 12
-locationPrefix -> Page No. 
----------
-quote -> motivation is a result. Motivation is the pride you take in work you have already done—which fuels your willingness to do even more.
-timestamp -> Tuesday, August 30, 2022 7:41:37 AM
-location -> 13
-locationPrefix -> Page No. 
----------
-quote -> Real motivation comes after you start. Motivation isn’t the result of hearing a speech or watching a movie or crisping your soles. Motivation isn’t passive; motivation is active.
-timestamp -> Tuesday, August 30, 2022 7:42:57 AM
-location -> 14
-locationPrefix -> Page No. 
----------
-quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that rush I know I’ll feel when I’m actually doing what I planned to do.” The key is to enjoy the feeling of success that comes from
-timestamp -> Tuesday, August 30, 2022 7:46:47 AM
-location -> 15
-locationPrefix -> Page No. 
----------
-quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that
-timestamp -> Tuesday, August 30, 2022 7:46:51 AM
-location -> 15
-locationPrefix -> Page No. 
----------
-quote -> Instead of thinking, “Ugh. This is going to be hard,” I’ve taught myself to think, “I can’t wait for that little high I’ll feel when I move from inactivity to activity. I can’t wait to feel that rush I know I’ll feel when I’m actually doing what I planned to do.”
-timestamp -> Tuesday, August 30, 2022 7:46:58 AM
-location -> 15
-locationPrefix -> Page No. 
----------
-quote -> You don’t need motivation to break a sweat. Break a sweat and you’ll feel motivated.
-timestamp -> Tuesday, August 30, 2022 7:48:14 AM
-location -> 16
-locationPrefix -> Page No. 
----------
-quote -> Starting is hard because “motivation” doesn’t make it easy to start. Starting provides the motivation to finish. Fire walks don’t provide lasting motivation.
-timestamp -> Tuesday, August 30, 2022 7:48:50 AM
-location -> 16
-locationPrefix -> Page No. 
----------
-quote -> Starting is hard because “motivation” doesn’t
-timestamp -> Tuesday, August 30, 2022 7:48:54 AM
-location -> 16
-locationPrefix -> Page No. 
----------
-quote -> Starting is hard because “motivation” doesn’t make it easy to start. Starting provides the motivation to finish.
-timestamp -> Tuesday, August 30, 2022 7:49:05 AM
-location -> 16
-locationPrefix -> Page No. 
----------
-quote -> When you accept your weak points, when you accept your flaws, when you accept your imperfections . . . that’s when you can motivate yourself to make changes and improve.
-timestamp -> Tuesday, August 30, 2022 7:49:18 AM
-location -> 17
-locationPrefix -> Page No. 
----------
-quote -> Where feeling confident and self-assured is concerned, on
-timestamp -> Wednesday, August 31, 2022 3:51:29 PM
-location -> 18
-locationPrefix -> Page No. 
----------
-quote -> Confidence comes from preparation.
-timestamp -> Wednesday, August 31, 2022 3:51:37 PM
-location -> 19
-locationPrefix -> Page No. 
----------
-quote -> Hesitation, anxiety, fear . . . Those feelings don’t come from some deep, dark, irrational place inside you. The anxiety you feel—the lack of confidence you feel—comes from feeling unprepared.
-timestamp -> Wednesday, August 31, 2022 3:51:47 PM
-location -> 19
-locationPrefix -> Page No. 
----------
-quote -> Feeling overprepared lets me feel confident and natural.”
-timestamp -> Wednesday, August 31, 2022 3:53:32 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Confidence is a feeling, but ultimately confidence is the result of knowing that you’re not only willing to do the work, but that you actually will do the work.
-timestamp -> Wednesday, August 31, 2022 3:53:50 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Hacking is great when you need to perform a simple task. Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
-timestamp -> Wednesday, August 31, 2022 3:53:58 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Hacking is great when you need to perform a simple task. Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
-timestamp -> Wednesday, August 31, 2022 3:54:00 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Hacking is great when you need to perform a simple task.
-timestamp -> Wednesday, August 31, 2022 3:54:10 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Hacking is worthless when you need to acquire a complex skill or accomplish a huge goal.
-timestamp -> Wednesday, August 31, 2022 3:54:13 PM
-location -> 20
-locationPrefix -> Page No. 
----------
-quote -> Process gets a bad rap. Hard work, consistent effort, long hours . . . That’s what stupid people with no talent do, right? Um, nope.
-timestamp -> Wednesday, August 31, 2022 3:58:49 PM
-location -> 22
-locationPrefix -> Page No. 
----------
-quote -> Have you done that before? I have. Other people can’t motivate us, not really, and definitely not for long.
-timestamp -> Thursday, September 1, 2022 5:41:58 AM
-location -> 26
-locationPrefix -> Page No. 
----------
-quote -> Other people can’t motivate us, not really, and definitely not for long.
-timestamp -> Thursday, September 1, 2022 5:42:02 AM
-location -> 26
-locationPrefix -> Page No. 
----------
-quote -> what really drives success is not “genius” but a combination of passion and long-term perseverance.
-timestamp -> Thursday, September 1, 2022 5:43:34 AM
-location -> 27
-locationPrefix -> Page No. 
----------
-quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to
-timestamp -> Thursday, September 1, 2022 11:07:31 AM
-location -> 27
-locationPrefix -> Page No. 
----------
-quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to do. (Of
-timestamp -> Thursday, September 1, 2022 11:07:34 AM
-location -> 27
-locationPrefix -> Page No. 
----------
-quote -> Successful people are great at withstanding temptation. Successful people are great at overcoming fear in order to do what they need to do.
-timestamp -> Thursday, September 1, 2022 11:07:46 AM
-location -> 27
-locationPrefix -> Page No. 
----------
-quote -> Success is never assured. It looks inevitable only after it is achieved. Sure, other people
-timestamp -> Thursday, September 1, 2022 11:10:35 AM
-location -> 28
-locationPrefix -> Page No. 
----------
-quote -> Success
-timestamp -> Thursday, September 1, 2022 11:10:39 AM
-location -> 28
-locationPrefix -> Page No. 
----------
-quote -> Success
-timestamp -> Thursday, September 1, 2022 11:10:45 AM
-location -> 28
-locationPrefix -> Page No. 
----------
-quote -> Success
-timestamp -> Thursday, September 1, 2022 11:10:50 AM
-location -> 28
-locationPrefix -> Page No. 
----------
-quote -> Success is never assured. It looks inevitable only after it is achieved.
-timestamp -> Thursday, September 1, 2022 11:11:04 AM
-location -> 28
-locationPrefix -> Page No. 
----------
-quote -> Success → Motivation → More Success → More Motivation → More Success = Becoming
-timestamp -> Friday, September 2, 2022 11:56:28 AM
-location -> 30
-locationPrefix -> Page No. 
----------
-quote -> Earned success is the best motivational tool of
-timestamp -> Friday, September 2, 2022 11:57:19 AM
-location -> 30
-locationPrefix -> Page No. 
----------
-quote -> Earned success is the best motivational tool of all.
-timestamp -> Friday, September 2, 2022 11:57:22 AM
-location -> 30
-locationPrefix -> Page No. 
----------
-quote -> Choices present a huge obstacle to meeting our objectives. They deplete our willpower to pick long-term gratification over
-timestamp -> Saturday, September 3, 2022 4:16:47 AM
-location -> 32
-locationPrefix -> Page No. 
----------
-quote -> Choices
-timestamp -> Saturday, September 3, 2022 4:16:52 AM
-location -> 32
-locationPrefix -> Page No. 
----------
-quote -> Choices present a huge obstacle to meeting our objectives.
-timestamp -> Saturday, September 3, 2022 4:17:03 AM
-location -> 32
-locationPrefix -> Page No. 
----------
-quote -> * Choices are a problem, because choices force you to decide what you want to do.
-timestamp -> Saturday, September 3, 2022 4:17:53 AM
-location -> 32
-locationPrefix -> Page No. 
----------
-quote -> Punctuality is nonnegotiable. Getting to work on time is not a goal; it’s a task.
-timestamp -> Saturday, September 3, 2022 4:20:09 AM
-location -> 33
-locationPrefix -> Page No. 
----------
-quote -> The distance between your dream and the stark reality of your present is incredibly demoralizing—no wonder you give up on that goal.
-timestamp -> Saturday, September 3, 2022 4:22:49 AM
-location -> 34
-locationPrefix -> Page No. 
----------
-quote -> The key is to set a goal, use it as a target that helps you create a plan for achieving it . . . and then do your best to forget all about that goal.
-timestamp -> Saturday, September 3, 2022 4:24:11 AM
-location -> 35
-locationPrefix -> Page No. 
----------
-quote -> Everyone has goals. The people who actually achieve their goals create routines. They build systems.
-timestamp -> Saturday, September 3, 2022 4:24:55 AM
-location -> 36
-locationPrefix -> Page No. 
----------
-quote -> No goal can be made meaningful. A goal either has meaning or it doesn’t.
-timestamp -> Saturday, September 3, 2022 5:55:06 AM
-location -> 36
-locationPrefix -> Page No. 
----------
-quote -> The more you work to find or contrive or manufacture some sense of meaning, the less likely you are to achieve the goal.
-timestamp -> Saturday, September 3, 2022 5:55:12 AM
-location -> 36
-locationPrefix -> Page No. 
----------
-quote -> Make this your mantra where goals are concerned: “I will set it . . . and then I will forget it.”
-timestamp -> Saturday, September 3, 2022 5:57:59 AM
-location -> 38
-locationPrefix -> Page No. 
----------
-quote -> Dream big. Set a huge goal. Commit to your huge goal. Create a process that ensures you can reach your goal. Then forget about your huge goal and work your process instead.
-timestamp -> Saturday, September 3, 2022 5:58:02 AM
-location -> 38
-locationPrefix -> Page No. 
----------
-quote -> for now you must forget them, because you will never be able to give yourself positive feedback when you constantly compare yourself with your end goal. You will always be your worst critic because
-timestamp -> Saturday, September 3, 2022 6:01:12 AM
-location -> 40
-locationPrefix -> Page No. 
----------
-quote -> for now you must forget them, because you will never be able to give yourself positive feedback when you constantly compare yourself with your end goal.
-timestamp -> Saturday, September 3, 2022 6:01:16 AM
-location -> 40
-locationPrefix -> Page No. 
----------
-quote -> Waiting accomplishes nothing.
-timestamp -> Saturday, September 3, 2022 7:50:09 AM
-location -> 48
-locationPrefix -> Page No. 
----------
-quote -> get a large wall calendar, one that shows the entire year. You hang it in a place you can’t miss it. And every day, once you’ve accomplished your task—remember, your task isn’t to become a great comedian, your task is to write new material—you put a red X over that date. “After a few days,” Seinfeld told Brad Isaac, “you’ll have a chain. Just keep at it and the chain will grow longer every day. You’ll like seeing that chain, especially when you get a few weeks under your belt. Your only job is to not break the chain.”* Your only job is to not break the chain.
-timestamp -> Saturday, September 3, 2022 7:50:51 AM
-location -> 48
-locationPrefix -> Page No. 
----------
-quote -> Your Goal Must Always Choose Your Process
-timestamp -> Saturday, September 3, 2022 7:54:28 AM
-location -> 49
-locationPrefix -> Page No. 
----------
-quote -> we are not what we think or wish or dream—we are what we do.
-timestamp -> Sunday, October 16, 2022 10:38:22 PM
-location -> 70
-locationPrefix -> Page No. 
----------
-quote -> you don’t need to be world-class. Get to the 90 or 95 percent level in any pursuit and you will be extremely successful and will feel incredibly good about yourself.
-timestamp -> Monday, October 17, 2022 5:56:37 PM
-location -> 72
-locationPrefix -> Page No. 
----------
-quote -> us—we’re too good to specialize.
-timestamp -> Monday, October 17, 2022 6:02:48 PM
-location -> 76
-locationPrefix -> Page No. 
----------
-quote -> professional “specialization” indicates accomplishment and success, when in fact the opposite is true.
-timestamp -> Monday, October 17, 2022 6:02:55 PM
-location -> 76
-locationPrefix -> Page No. 
----------
-quote -> None of us should be just one thing. We all possess, or can possess, a variety of skills—including skills we aren’t using.
-timestamp -> Monday, October 17, 2022 6:03:07 PM
-location -> 76
-locationPrefix -> Page No. 
----------
-quote -> want—and you don’t need to wait for someone else to help you.
-timestamp -> Monday, October 17, 2022 6:08:09 PM
-location -> 78
-locationPrefix -> Page No. 
----------
-quote -> want—and you don’t need to wait for someone else to help you.
-timestamp -> Monday, October 17, 2022 6:08:12 PM
-location -> 78
-locationPrefix -> Page No. 
----------
-quote -> you don’t need to wait for someone else to help you.
-timestamp -> Monday, October 17, 2022 6:08:21 PM
-location -> 78
-locationPrefix -> Page No. 
----------
-quote -> The only thing holding you back is you—and your willingness to try.
-timestamp -> Monday, October 17, 2022 6:25:25 PM
-location -> 78
-locationPrefix -> Page No. 
----------
-quote -> some of the worst words you can say are “If I had only . . .” Think about something you dreamed of doing five or ten years ago
-timestamp -> Monday, October 17, 2022 6:27:09 PM
-location -> 79
-locationPrefix -> Page No. 
----------
-quote -> some of the worst words you can say are “If I had only . . .”
-timestamp -> Monday, October 17, 2022 6:27:14 PM
-location -> 79
-locationPrefix -> Page No. 
----------
-quote -> When you’re sitting in that rocking chair, you’ll think about the things you wanted to become.
-timestamp -> Monday, October 17, 2022 6:28:13 PM
-location -> 80
-locationPrefix -> Page No. 
----------
-quote -> developers—the skills you gain will stay in your tool kit. While over time you will naturally lose some degree of proficiency, you will always retain the core skill and
-timestamp -> Monday, October 17, 2022 6:29:28 PM
-location -> 81
-locationPrefix -> Page No. 
----------
-quote -> developers—the skills you gain will stay in your tool kit. While over time you will naturally lose some degree of proficiency, you will always retain the core skill and will be able to quickly tune yourself up again if necessary.
-timestamp -> Monday, October 17, 2022 6:29:32 PM
-location -> 81
-locationPrefix -> Page No. 
----------
-quote -> Strength is hard to build the first time, but regaining strength lost is much easier.
-timestamp -> Monday, October 17, 2022 6:30:52 PM
-location -> 81
-locationPrefix -> Page No. 
----------
-quote -> putting more focus on one area automatically reduces the focus on another.
-timestamp -> Tuesday, October 18, 2022 10:34:57 AM
-location -> 82
-locationPrefix -> Page No. 
----------
-quote -> The more money you want to make, the less happy you may need to be. The happier you want to be, the less money you may be able to make.
-timestamp -> Tuesday, October 18, 2022 10:35:10 AM
-location -> 82
-locationPrefix -> Page No. 
----------
-quote -> You can’t have it all . . . but you can have
-timestamp -> Tuesday, October 18, 2022 10:35:39 AM
-location -> 83
-locationPrefix -> Page No. 
----------
-quote -> You
-timestamp -> Tuesday, October 18, 2022 10:35:42 AM
-location -> 83
-locationPrefix -> Page No. 
----------
-quote -> You can’t have it all . . . but you can have a lot.
-timestamp -> Tuesday, October 18, 2022 10:35:46 AM
-location -> 83
-locationPrefix -> Page No. 
----------
-quote -> If you’re not happy, rethink your definition of success. The one you have is not working for you.
-timestamp -> Tuesday, October 18, 2022 10:37:18 AM
-location -> 84
-locationPrefix -> Page No. 
----------
-quote -> you can have a lot more than you currently do, whether what you
-timestamp -> Tuesday, October 18, 2022 10:37:36 AM
-location -> 84
-locationPrefix -> Page No. 
----------
-quote -> Goals everyone else thinks are crazy—pursuits no one else but you may see as worthwhile—are great.
-timestamp -> Tuesday, October 18, 2022 10:39:05 AM
-location -> 85
-locationPrefix -> Page No. 
----------
-quote -> We are all different, and so are our goals.
-timestamp -> Tuesday, October 18, 2022 10:39:13 AM
-location -> 85
-locationPrefix -> Page No. 
----------
-quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow because the “trophy” on the mantel came at too high a cost. Happiness requires evenly balancing
-timestamp -> Tuesday, October 18, 2022 10:41:43 AM
-location -> 86
-locationPrefix -> Page No. 
----------
-quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow
-timestamp -> Tuesday, October 18, 2022 10:41:46 AM
-location -> 86
-locationPrefix -> Page No. 
----------
-quote -> Just ask anyone who ignored the basics in his life (it’s almost always men) to pursue a goal . . . only to feel empty and hollow because the “trophy” on the mantel came at too high a cost.
-timestamp -> Tuesday, October 18, 2022 10:41:50 AM
-location -> 86
-locationPrefix -> Page No. 
----------
-quote -> Happiness requires evenly balancing your multiple nonnegotiable goals, blending in a negotiable goal where appropriate . . . and never, ever forgetting to self-evaluate along the way to ensure the balance never gets out of whack.
-timestamp -> Tuesday, October 18, 2022 10:42:03 AM
-location -> 86
-locationPrefix -> Page No. 
----------
-quote -> If you’re constantly worried about or thinking about money, your first goal must be to generate more income, because money clearly matters a lot to you.
-timestamp -> Tuesday, October 18, 2022 10:43:01 AM
-location -> 87
-locationPrefix -> Page No. 
----------
-quote -> Every goal should support multiple aspects of your life.
-timestamp -> Tuesday, October 18, 2022 10:45:00 AM
-location -> 88
-locationPrefix -> Page No. 
----------
-quote -> Your goal must be unquestionably measurable.
-timestamp -> Tuesday, October 18, 2022 10:50:30 AM
-location -> 90
-locationPrefix -> Page No. 
----------
-quote -> The best goals are binary:
-timestamp -> Tuesday, October 18, 2022 10:50:53 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> They’re so specific you can’t help but know whether you have achieved them or not. They’re
-timestamp -> Tuesday, October 18, 2022 10:50:57 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> They’re so specific you can’t help but know whether you have achieved them or not.
-timestamp -> Tuesday, October 18, 2022 10:51:02 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> Fuzzy goals are meaningless.
-timestamp -> Tuesday, October 18, 2022 10:51:20 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> Fuzzy goals are meaningless. The best goals are goals you can see and taste and visualize in great detail, because they’re based on a real accomplishment and not a vague statement of intent.
-timestamp -> Tuesday, October 18, 2022 10:51:32 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> your goal must help you overcome that challenge.
-timestamp -> Tuesday, October 18, 2022 10:52:53 AM
-location -> 91
-locationPrefix -> Page No. 
----------
-quote -> “idea” should really be a verb, because an idea does not actually exist until you turn your inspiration into action.
-timestamp -> Tuesday, October 18, 2022 10:54:16 AM
-location -> 92
-locationPrefix -> Page No. 
----------
-quote -> Instead of acting, though, I let “idea” stay a noun. I didn’t make “idea” a verb.
-timestamp -> Tuesday, October 18, 2022 10:56:18 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> ideas without action aren’t ideas.
-timestamp -> Tuesday, October 18, 2022 10:56:30 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> ideas without action aren’t ideas. They’re regrets.
-timestamp -> Tuesday, October 18, 2022 10:56:34 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> Quote
-timestamp -> Tuesday, October 18, 2022 10:56:59 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> you absolutely must trust your analysis, your judgment, and even your instincts—and act on that trust.
-timestamp -> Tuesday, October 18, 2022 10:57:52 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> You certainly won’t get it right all the time, but if you let “idea” stay a noun, you will always get it wrong.
-timestamp -> Tuesday, October 18, 2022 10:57:58 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> If your goal is to become extremely wealthy, get started on your entrepreneurial journey.
-timestamp -> Tuesday, October 18, 2022 10:58:44 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> If your goal is to advance your career, determine what matters most to your organization
-timestamp -> Tuesday, October 18, 2022 10:58:48 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> If your goal is to advance your career, determine what matters most to your organization and start finding ways to make a quantitative difference in that aspect of the business.
-timestamp -> Tuesday, October 18, 2022 10:58:53 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> You will never achieve your goals if your approach is to wait.
-timestamp -> Tuesday, October 18, 2022 10:59:00 AM
-location -> 93
-locationPrefix -> Page No. 
----------
-quote -> Set a goal. Then look at what is required to achieve that goal.
-timestamp -> Tuesday, October 18, 2022 10:59:11 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> Be “unrealistic” when you set a goal, and then be realistic about how you will achieve that goal.
-timestamp -> Tuesday, October 18, 2022 10:59:24 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> To Gain Incredible Willpower . . . Need Less Willpower
-timestamp -> Tuesday, October 18, 2022 10:59:36 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> Success → Motivation → More Success → More Motivation creates
-timestamp -> Tuesday, October 18, 2022 10:59:45 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> Success → Motivation → More Success → More Motivation
-timestamp -> Tuesday, October 18, 2022 10:59:49 AM
-location -> 94
-locationPrefix -> Page No. 
----------
-quote -> Step 1: Let everyone know you won’t be available.
-timestamp -> Tuesday, October 18, 2022 11:01:12 AM
-location -> 95
-locationPrefix -> Page No. 
----------
-quote -> Interruptions are productivity killers, so letting people know you’re doing something special and will be out of reach for a day is an absolute must.
-timestamp -> Tuesday, October 18, 2022 11:01:17 AM
-location -> 95
-locationPrefix -> Page No. 
----------
-quote -> PEER PRESSURE DOESN’T HAVE TO BE PRESSURE
-timestamp -> Tuesday, October 18, 2022 11:01:59 AM
-location -> 96
-locationPrefix -> Page No. 
----------
-quote -> When you know you’re in for a long haul, your mind automatically adapts.
-timestamp -> Tuesday, October 18, 2022 11:03:40 AM
-location -> 97
-locationPrefix -> Page No. 
----------
-quote -> The opposite happens when a deadline seems too aggressive:
-timestamp -> Tuesday, October 18, 2022 11:04:00 AM
-location -> 97
-locationPrefix -> Page No. 
----------
-quote -> Don’t just set a deadline. Totally commit to hitting that deadline.
-timestamp -> Tuesday, October 18, 2022 11:04:14 AM
-location -> 97
-locationPrefix -> Page No. 
----------
-quote -> feel free to play any mental games that help. Make a bet with someone else, or make a bet with yourself (where “losing” means you have to do something you really don’t want to do).
-timestamp -> Tuesday, October 18, 2022 11:04:25 AM
-location -> 97
-locationPrefix -> Page No. 
----------
-quote -> Start your EPD at an unusual time.
-timestamp -> Tuesday, October 18, 2022 11:04:32 AM
-location -> 97
-locationPrefix -> Page No. 
----------
-quote -> An EPD is not a normal day. Set the stage for atypical by breaking free of your usual routine.
-timestamp -> Tuesday, October 18, 2022 11:04:53 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> EPD Estimated Productive Day
-timestamp -> Tuesday, October 18, 2022 11:05:15 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Have you ever taken a long car trip and left at 3:00 or 4:00 a.m.? The first few hours always fly by, because you stepped outside your norm.
-timestamp -> Tuesday, October 18, 2022 11:05:23 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Delay and space out your rewards.
-timestamp -> Tuesday, October 18, 2022 11:05:35 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Say you like to listen to music when you work. On an EPD, keep the music turned off for the first few hours.
-timestamp -> Tuesday, October 18, 2022 11:05:38 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> That way, when your motivation starts to flag, a little music will provide a great boost to your morale.
-timestamp -> Tuesday, October 18, 2022 11:05:52 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Whatever ways you typically tend to “treat” yourself, think of those treats as personal productivity bullets.
-timestamp -> Tuesday, October 18, 2022 11:05:58 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> If you use all your ammunition too early, you’ll have nothing left when you really need it.
-timestamp -> Tuesday, October 18, 2022 11:06:02 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Delayed gratification is always better gratification—and better motivation.
-timestamp -> Tuesday, October 18, 2022 11:06:06 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Refuel before you think you need to refuel.
-timestamp -> Tuesday, October 18, 2022 11:06:10 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Plan to eat or snack a little earlier than normal.
-timestamp -> Tuesday, October 18, 2022 11:06:18 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> plan meals wisely. Don’t take an hour-long lunch break.
-timestamp -> Tuesday, October 18, 2022 11:06:41 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> key is to refuel, recharge . . . and keep rolling.
-timestamp -> Tuesday, October 18, 2022 11:06:46 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> A productive body in motion tends to stay in productive motion.
-timestamp -> Tuesday, October 18, 2022 11:06:52 AM
-location -> 98
-locationPrefix -> Page No. 
----------
-quote -> Take productive breaks, not relaxation breaks.
-timestamp -> Tuesday, October 18, 2022 11:06:57 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Momentum is everything on an EPD (and
-timestamp -> Tuesday, October 18, 2022 11:07:00 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Momentum is everything on an EPD
-timestamp -> Tuesday, October 18, 2022 11:07:04 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Momentum is everything on an EPD (and on every other day). Don’t take a walk
-timestamp -> Tuesday, October 18, 2022 11:07:19 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> breaks should reinforce your sense of activity and accomplishment.
-timestamp -> Tuesday, October 18, 2022 11:07:26 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Pick a few productive tasks you like to perform—and gain a sense of accomplishment from—and use those for your breaks.
-timestamp -> Tuesday, October 18, 2022 11:07:30 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Spending even a few minutes in the land of inactivity weakens your resolve.
-timestamp -> Tuesday, October 18, 2022 11:07:35 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Take your breaks at a counterintuitive moment.
-timestamp -> Tuesday, October 18, 2022 11:07:49 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> When you take a break, don’t stop when you complete a particular task. Stop in the middle.
-timestamp -> Tuesday, October 18, 2022 11:07:53 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Stopping in the middle of doing something awesome—or stopping right before you’ll start doing something awesome—ensures you’ll avoid the temptation of procrastination.
-timestamp -> Tuesday, October 18, 2022 11:08:12 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> Stopping short allows you to instantly focus and concentrate when you resume whatever you were doing.
-timestamp -> Tuesday, October 18, 2022 11:08:26 AM
-location -> 99
-locationPrefix -> Page No. 
----------
-quote -> If you stop after you’ve just finished something significant or major—if you stop when you feel you’ve crossed a finish line and are nearly spent—it can feel extremely difficult to move on to whatever is next,
-timestamp -> Tuesday, October 18, 2022 11:09:40 AM
-location -> 100
-locationPrefix -> Page No. 
----------
-quote -> Quitting is a habit.
-timestamp -> Tuesday, October 18, 2022 11:10:02 AM
-location -> 100
-locationPrefix -> Page No. 
----------
-quote -> Don’t stop until you’re done—even if finishing takes longer than expected.
-timestamp -> Tuesday, October 18, 2022 11:10:06 AM
-location -> 100
-locationPrefix -> Page No. 
----------
-quote -> Stopping short is an easy habit to form.
-timestamp -> Tuesday, October 18, 2022 11:10:10 AM
-location -> 100
-locationPrefix -> Page No. 
----------
-quote -> “Winning is a mind-set. Refusing to give up is a mind-set.
-timestamp -> Tuesday, October 18, 2022 11:11:16 AM
-location -> 101
-locationPrefix -> Page No. 
----------
-quote -> Success is a mental game.
-timestamp -> Tuesday, October 18, 2022 11:11:31 AM
-location -> 101
-locationPrefix -> Page No. 
----------
-quote -> Step 1: Every Sunday, map out your
-timestamp -> Tuesday, October 18, 2022 11:12:18 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> Step 1: Every Sunday, map out your week.
-timestamp -> Tuesday, October 18, 2022 11:12:20 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
-timestamp -> Tuesday, October 18, 2022 11:12:36 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> and if you aren’t careful, the important can easily be pushed aside by the urgent.
-timestamp -> Tuesday, October 18, 2022 11:12:40 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
-timestamp -> Tuesday, October 18, 2022 11:12:50 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> While long-range goals may not be urgent, they are important, and if you aren’t careful, the important can easily be pushed aside by the urgent.
-timestamp -> Tuesday, October 18, 2022 11:12:54 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> if you aren’t careful, the important can easily be pushed aside by the urgent.
-timestamp -> Tuesday, October 18, 2022 11:12:56 AM
-location -> 102
-locationPrefix -> Page No. 
----------
-quote -> You already schedule meetings and appointments. Go a step further and block out time to complete specific tasks.
-timestamp -> Thursday, October 20, 2022 3:20:11 PM
-location -> 103
-locationPrefix -> Page No. 
----------
-quote -> Success is based on getting important things done.
-timestamp -> Thursday, October 20, 2022 3:20:38 PM
-location -> 103
-locationPrefix -> Page No. 
----------
-quote -> success isn’t based on getting things done. Success is based on getting important things done.
-timestamp -> Thursday, October 20, 2022 3:20:42 PM
+quote -> 
+
+timestamp -> Thursday, October 20, 2022 3:22:31 PM
 location -> 103
 locationPrefix -> Page No. 
 ---------
 quote -> sometimes subtraction is the best addition.
+
 timestamp -> Thursday, October 20, 2022 3:22:49 PM
 location -> 106
+locationPrefix -> Page No. 
+---------
+quote -> 
+
+timestamp -> Thursday, October 20, 2022 3:23:24 PM
+location -> 112
 locationPrefix -> Page No. 
 ---------
 ------------------------------------------------------------------------------------------------------------------

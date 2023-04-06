@@ -4,71 +4,43 @@ Title  : Classroom of the Elite: Volume 08
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> once you enter society, you must never forget to be considerate of the feelings of others.
+
 timestamp -> Friday, October 14, 2022 8:14:45 PM
 location -> 81
 locationPrefix -> Page No. 
 ---------
 quote -> “Guidance that goes too far may be interpreted as bullying.
+
 timestamp -> Saturday, October 15, 2022 6:49:09 AM
 location -> 114
 locationPrefix -> Page No. 
 ---------
 quote -> Since the scoring system is mostly based on giving out demerits, I’ll first make sure to get a perfect score.
+
 timestamp -> Tuesday, October 18, 2022 12:11:59 PM
 location -> 206
 locationPrefix -> Page No. 
 ---------
 quote -> I’ve already concluded that there’s no reason to hold back in Zazen and so I decided that I’ll definitely be getting a perfect score here.
+
 timestamp -> Tuesday, October 18, 2022 12:12:04 PM
 location -> 206
 locationPrefix -> Page No. 
 ---------
 quote -> The one who falls in love loses. I don’t know who said it, but I think
+
 timestamp -> Tuesday, October 18, 2022 12:43:08 PM
 location -> 234
 locationPrefix -> Page No. 
 ---------
 quote -> though. The
+
 timestamp -> Tuesday, October 18, 2022 12:43:11 PM
 location -> 234
 locationPrefix -> Page No. 
 ---------
 quote -> The one who falls in love loses.
-timestamp -> Tuesday, October 18, 2022 12:43:16 PM
-location -> 234
-locationPrefix -> Page No. 
----------
-quote -> once you enter society, you must never forget to be considerate of the feelings of others.
-timestamp -> Friday, October 14, 2022 8:14:45 PM
-location -> 81
-locationPrefix -> Page No. 
----------
-quote -> “Guidance that goes too far may be interpreted as bullying.
-timestamp -> Saturday, October 15, 2022 6:49:09 AM
-location -> 114
-locationPrefix -> Page No. 
----------
-quote -> Since the scoring system is mostly based on giving out demerits, I’ll first make sure to get a perfect score.
-timestamp -> Tuesday, October 18, 2022 12:11:59 PM
-location -> 206
-locationPrefix -> Page No. 
----------
-quote -> I’ve already concluded that there’s no reason to hold back in Zazen and so I decided that I’ll definitely be getting a perfect score here.
-timestamp -> Tuesday, October 18, 2022 12:12:04 PM
-location -> 206
-locationPrefix -> Page No. 
----------
-quote -> The one who falls in love loses. I don’t know who said it, but I think
-timestamp -> Tuesday, October 18, 2022 12:43:08 PM
-location -> 234
-locationPrefix -> Page No. 
----------
-quote -> though. The
-timestamp -> Tuesday, October 18, 2022 12:43:11 PM
-location -> 234
-locationPrefix -> Page No. 
----------
-quote -> The one who falls in love loses.
+
 timestamp -> Tuesday, October 18, 2022 12:43:16 PM
 location -> 234
 locationPrefix -> Page No. 

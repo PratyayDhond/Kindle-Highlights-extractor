@@ -4,61 +4,37 @@ Title  : Chanakya in You
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> 1
+
 timestamp -> Tuesday, August 16, 2022 11:34:44 AM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> My grandpa was a master storyteller; he had so much to tell us.
+
 timestamp -> Tuesday, August 16, 2022 11:34:44 AM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> from his own life, most of them were from the lives of others. He would lead us
+
 timestamp -> Tuesday, August 16, 2022 11:34:50 AM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> At the time, my cousins and I were not really interested in the
+
 timestamp -> Tuesday, August 16, 2022 11:34:53 AM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> W
+
 timestamp -> Tuesday, August 16, 2022 11:34:58 AM
 location -> 8
 locationPrefix -> Page No. 
 ---------
 quote -> of books he had: from science to world literature, and poems to paintings, he had books spanning a wide range of interests. But I was far more interested in listening
-timestamp -> Tuesday, August 16, 2022 11:35:05 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> 1
-timestamp -> Tuesday, August 16, 2022 11:34:44 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> My grandpa was a master storyteller; he had so much to tell us.
-timestamp -> Tuesday, August 16, 2022 11:34:44 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> from his own life, most of them were from the lives of others. He would lead us
-timestamp -> Tuesday, August 16, 2022 11:34:50 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> At the time, my cousins and I were not really interested in the
-timestamp -> Tuesday, August 16, 2022 11:34:53 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> W
-timestamp -> Tuesday, August 16, 2022 11:34:58 AM
-location -> 8
-locationPrefix -> Page No. 
----------
-quote -> of books he had: from science to world literature, and poems to paintings, he had books spanning a wide range of interests. But I was far more interested in listening
+
 timestamp -> Tuesday, August 16, 2022 11:35:05 AM
 location -> 8
 locationPrefix -> Page No. 

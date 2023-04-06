@@ -4,11 +4,7 @@ Title  : A Brief History of Time
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> done by Carl Sagan. Instead, I wrote a short piece titled “Acknowledgments
-timestamp -> Monday, November 7, 2022 12:24:33 PM
-location -> 46-47
-locationPrefix -> loc 
----------
-quote -> done by Carl Sagan. Instead, I wrote a short piece titled “Acknowledgments
+
 timestamp -> Monday, November 7, 2022 12:24:33 PM
 location -> 46-47
 locationPrefix -> loc 

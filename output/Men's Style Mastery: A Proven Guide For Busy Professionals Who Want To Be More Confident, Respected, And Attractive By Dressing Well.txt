@@ -4,171 +4,103 @@ Title  : Men's Style Mastery: A Proven Guide For Busy Professionals Who Want To 
 
 ------------------------------------------------------------------------------------------------------------------
 quote -> There’s a common misconception that ‘style’ and ‘fashion’ are interchangeable terms.
+
 timestamp -> Saturday, November 5, 2022 7:55:06 AM
 location -> 150-151
 locationPrefix -> loc 
 ---------
 quote -> there’s nothing genuine about fashion since many people who take this approach are driven by the need for acceptance from others
+
 timestamp -> Saturday, November 5, 2022 7:55:35 AM
 location -> 156-157
 locationPrefix -> loc 
 ---------
 quote -> Style is a reflection of who you are as
+
 timestamp -> Saturday, November 5, 2022 7:55:41 AM
 location -> 158-158
 locationPrefix -> loc 
 ---------
 quote -> Style is a reflection of who you are as an individual
+
 timestamp -> Saturday, November 5, 2022 7:55:52 AM
 location -> 158-159
 locationPrefix -> loc 
 ---------
 quote -> about first impressions for a second. Men’s style and first impressions go hand-in-hand
+
 timestamp -> Saturday, November 5, 2022 7:56:43 AM
 location -> 165-166
 locationPrefix -> loc 
 ---------
 quote -> style and first impressions go hand-in-hand
+
 timestamp -> Saturday, November 5, 2022 7:56:46 AM
 location -> 165-166
 locationPrefix -> loc 
 ---------
 quote -> style directly influences the way people perceive you.
+
 timestamp -> Saturday, November 5, 2022 7:56:51 AM
 location -> 166-166
 locationPrefix -> loc 
 ---------
 quote -> knowing how to dress well is actually an empowering skill
+
 timestamp -> Saturday, November 5, 2022 7:57:09 AM
 location -> 167-167
 locationPrefix -> loc 
 ---------
 quote -> we all make snap judgements based on reference points we’ve collected throughout our lives.
+
 timestamp -> Saturday, November 5, 2022 7:58:06 AM
 location -> 179-180
 locationPrefix -> loc 
 ---------
 quote -> Style is the fastest and easiest way to make a good first impression.
+
 timestamp -> Saturday, November 5, 2022 7:58:25 AM
 location -> 185-185
 locationPrefix -> loc 
 ---------
 quote -> most people do judge others based on their appearance
+
 timestamp -> Saturday, November 5, 2022 8:07:59 AM
 location -> 210-210
 locationPrefix -> loc 
 ---------
 quote -> What you get by achieving your goals is not as important as what you become by achieving your
+
 timestamp -> Saturday, November 5, 2022 8:08:24 AM
 location -> 219-220
 locationPrefix -> loc 
 ---------
 quote -> What you get by achieving your goals is not as important as what you become by achieving your goals.”
+
 timestamp -> Saturday, November 5, 2022 8:08:27 AM
 location -> 219-220
 locationPrefix -> loc 
 ---------
 quote -> our society heavily relies on a man’s image to define his status and influence.
+
 timestamp -> Saturday, November 5, 2022 8:08:43 AM
 location -> 223-224
 locationPrefix -> loc 
 ---------
 quote -> Nothing screams insecurity or trying too hard more than dressing in a way that isn’t a genuine reflection of who you are.
+
 timestamp -> Saturday, November 5, 2022 8:15:09 AM
 location -> 251-252
 locationPrefix -> loc 
 ---------
 quote -> you’re going to sort through all of your clothing and decide whether or not you’re going to keep something based on what you defined earlier in this chapter.
+
 timestamp -> Tuesday, November 8, 2022 4:10:28 PM
 location -> 363-365
 locationPrefix -> loc 
 ---------
 quote -> The items that reflect your vision are worth keeping.
-timestamp -> Tuesday, November 8, 2022 4:10:47 PM
-location -> 365-365
-locationPrefix -> loc 
----------
-quote -> There’s a common misconception that ‘style’ and ‘fashion’ are interchangeable terms.
-timestamp -> Saturday, November 5, 2022 7:55:06 AM
-location -> 150-151
-locationPrefix -> loc 
----------
-quote -> there’s nothing genuine about fashion since many people who take this approach are driven by the need for acceptance from others
-timestamp -> Saturday, November 5, 2022 7:55:35 AM
-location -> 156-157
-locationPrefix -> loc 
----------
-quote -> Style is a reflection of who you are as
-timestamp -> Saturday, November 5, 2022 7:55:41 AM
-location -> 158-158
-locationPrefix -> loc 
----------
-quote -> Style is a reflection of who you are as an individual
-timestamp -> Saturday, November 5, 2022 7:55:52 AM
-location -> 158-159
-locationPrefix -> loc 
----------
-quote -> about first impressions for a second. Men’s style and first impressions go hand-in-hand
-timestamp -> Saturday, November 5, 2022 7:56:43 AM
-location -> 165-166
-locationPrefix -> loc 
----------
-quote -> style and first impressions go hand-in-hand
-timestamp -> Saturday, November 5, 2022 7:56:46 AM
-location -> 165-166
-locationPrefix -> loc 
----------
-quote -> style directly influences the way people perceive you.
-timestamp -> Saturday, November 5, 2022 7:56:51 AM
-location -> 166-166
-locationPrefix -> loc 
----------
-quote -> knowing how to dress well is actually an empowering skill
-timestamp -> Saturday, November 5, 2022 7:57:09 AM
-location -> 167-167
-locationPrefix -> loc 
----------
-quote -> we all make snap judgements based on reference points we’ve collected throughout our lives.
-timestamp -> Saturday, November 5, 2022 7:58:06 AM
-location -> 179-180
-locationPrefix -> loc 
----------
-quote -> Style is the fastest and easiest way to make a good first impression.
-timestamp -> Saturday, November 5, 2022 7:58:25 AM
-location -> 185-185
-locationPrefix -> loc 
----------
-quote -> most people do judge others based on their appearance
-timestamp -> Saturday, November 5, 2022 8:07:59 AM
-location -> 210-210
-locationPrefix -> loc 
----------
-quote -> What you get by achieving your goals is not as important as what you become by achieving your
-timestamp -> Saturday, November 5, 2022 8:08:24 AM
-location -> 219-220
-locationPrefix -> loc 
----------
-quote -> What you get by achieving your goals is not as important as what you become by achieving your goals.”
-timestamp -> Saturday, November 5, 2022 8:08:27 AM
-location -> 219-220
-locationPrefix -> loc 
----------
-quote -> our society heavily relies on a man’s image to define his status and influence.
-timestamp -> Saturday, November 5, 2022 8:08:43 AM
-location -> 223-224
-locationPrefix -> loc 
----------
-quote -> Nothing screams insecurity or trying too hard more than dressing in a way that isn’t a genuine reflection of who you are.
-timestamp -> Saturday, November 5, 2022 8:15:09 AM
-location -> 251-252
-locationPrefix -> loc 
----------
-quote -> you’re going to sort through all of your clothing and decide whether or not you’re going to keep something based on what you defined earlier in this chapter.
-timestamp -> Tuesday, November 8, 2022 4:10:28 PM
-location -> 363-365
-locationPrefix -> loc 
----------
-quote -> The items that reflect your vision are worth keeping.
+
 timestamp -> Tuesday, November 8, 2022 4:10:47 PM
 location -> 365-365
 locationPrefix -> loc 
