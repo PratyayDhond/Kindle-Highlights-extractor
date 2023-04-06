@@ -438,4 +438,439 @@ timestamp -> Wednesday, October 19, 2022 5:07:22 AM
 location -> 68
 locationPrefix -> Page No. 
 ---------
+quote -> Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
+timestamp -> Wednesday, October 19, 2022 4:17:53 AM
+location -> 1
+locationPrefix -> Page No. 
+---------
+quote -> When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+timestamp -> Wednesday, October 19, 2022 4:18:23 AM
+location -> 1
+locationPrefix -> Page No. 
+---------
+quote -> Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
+timestamp -> Wednesday, October 19, 2022 4:19:33 AM
+location -> 3
+locationPrefix -> Page No. 
+---------
+quote -> Markdown is portable.
+timestamp -> Wednesday, October 19, 2022 4:19:47 AM
+location -> 3
+locationPrefix -> Page No. 
+---------
+quote -> Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application.
+timestamp -> Wednesday, October 19, 2022 4:20:11 AM
+location -> 3
+locationPrefix -> Page No. 
+---------
+quote -> When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension.
+timestamp -> Wednesday, October 19, 2022 4:21:00 AM
+location -> 5
+locationPrefix -> Page No. 
+---------
+quote -> Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format.
+timestamp -> Wednesday, October 19, 2022 4:21:26 AM
+location -> 5
+locationPrefix -> Page No. 
+---------
+quote -> Joplin is a note taking application that respects your privacy. It’s available for every platform.
+timestamp -> Wednesday, October 19, 2022 4:25:30 AM
+location -> 12
+locationPrefix -> Page No. 
+---------
+quote -> Markdown is the ideal syntax for taking notes.
+timestamp -> Wednesday, October 19, 2022 4:25:38 AM
+location -> 11
+locationPrefix -> Page No. 
+---------
+quote -> Leanpub, a service that takes your Markdown-formatted files and turns them into an electronic book.
+timestamp -> Wednesday, October 19, 2022 4:26:05 AM
+location -> 12
+locationPrefix -> Page No. 
+---------
+quote -> To create a heading, add number signs (#) in front of a word or phrase.
+timestamp -> Wednesday, October 19, 2022 4:28:33 AM
+location -> 17
+locationPrefix -> Page No. 
+---------
+quote -> number of number signs you use should correspond to the heading level.
+timestamp -> Wednesday, October 19, 2022 4:28:44 AM
+location -> 17
+locationPrefix -> Page No. 
+---------
+quote -> on the line below the text, add any number of == characters for heading level
+timestamp -> Wednesday, October 19, 2022 4:29:36 AM
+location -> 17
+locationPrefix -> Page No. 
+---------
+quote -> on the line below the text, add any number of == characters for heading level 1 or -- characters for heading level 2.
+timestamp -> Wednesday, October 19, 2022 4:29:41 AM
+location -> 17
+locationPrefix -> Page No. 
+---------
+quote -> always put a space between the number signs and the heading name.
+timestamp -> Wednesday, October 19, 2022 4:29:57 AM
+location -> 18
+locationPrefix -> Page No. 
+---------
+quote -> Markdown applications don’t agree on how to handle a missing space between the number signs (#)
+timestamp -> Wednesday, October 19, 2022 4:30:01 AM
+location -> 18
+locationPrefix -> Page No. 
+---------
+quote -> create paragraphs, use a blank line to separate one or more lines of text.
+timestamp -> Wednesday, October 19, 2022 4:30:37 AM
+location -> 18
+locationPrefix -> Page No. 
+---------
+quote -> create paragraphs, use a blank line to separate one or more lines of text.
+timestamp -> Wednesday, October 19, 2022 4:30:39 AM
+location -> 18
+locationPrefix -> Page No. 
+---------
+quote -> create a line break (<br>), end a line with two or more spaces, and then type return.
+timestamp -> Wednesday, October 19, 2022 4:31:13 AM
+location -> 19
+locationPrefix -> Page No. 
+---------
+quote -> “trailing whitespace”)
+timestamp -> Wednesday, October 19, 2022 4:31:37 AM
+location -> 20
+locationPrefix -> Page No. 
+---------
+quote -> add emphasis by making text bold or italic.
+timestamp -> Wednesday, October 19, 2022 4:32:34 AM
+location -> 21
+locationPrefix -> Page No. 
+---------
+quote -> two asterisks or underscores before and after a word or phrase.
+timestamp -> Wednesday, October 19, 2022 4:32:59 AM
+location -> 21
+locationPrefix -> Page No. 
+---------
+quote -> Markdown applications don’t agree on how to handle underscores in the middle of a word.
+timestamp -> Wednesday, October 19, 2022 4:33:22 AM
+location -> 22
+locationPrefix -> Page No. 
+---------
+quote -> For compatibility, use asterisks to italicize the middle of a word for emphasis.
+timestamp -> Wednesday, October 19, 2022 4:33:30 AM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> For compatibility, use asterisks to bold the middle of a word for emphasis.
+timestamp -> Wednesday, October 19, 2022 4:33:39 AM
+location -> 22
+locationPrefix -> Page No. 
+---------
+quote -> one asterisk or underscore before and after a word or phrase.
+timestamp -> Wednesday, October 19, 2022 4:33:42 AM
+location -> 22
+locationPrefix -> Page No. 
+---------
+quote -> emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase.
+timestamp -> Wednesday, October 19, 2022 4:33:58 AM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> For compatibility, use asterisks to bold and italicize the middle of a word for emphasis.
+timestamp -> Wednesday, October 19, 2022 4:34:23 AM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> create a blockquote, add a > in front of a paragraph.
+timestamp -> Wednesday, October 19, 2022 4:34:32 AM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paragraphs.
+timestamp -> Wednesday, October 19, 2022 4:34:50 AM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> Blockquotes can be nested. Add a >> in front of the paragraph you want to nest.
+timestamp -> Wednesday, October 19, 2022 4:35:05 AM
+location -> 25
+locationPrefix -> Page No. 
+---------
+quote -> Blockquotes can contain other Markdown formatted elements.
+timestamp -> Wednesday, October 19, 2022 4:35:41 AM
+location -> 26
+locationPrefix -> Page No. 
+---------
+quote -> put blank lines before and after blockquotes.
+timestamp -> Wednesday, October 19, 2022 4:35:49 AM
+location -> 27
+locationPrefix -> Page No. 
+---------
+quote -> organize items into ordered and unordered lists.
+timestamp -> Wednesday, October 19, 2022 4:36:01 AM
+location -> 28
+locationPrefix -> Page No. 
+---------
+quote -> To create an ordered list, add line items with numbers followed by periods.
+timestamp -> Wednesday, October 19, 2022 4:36:07 AM
+location -> 28
+locationPrefix -> Page No. 
+---------
+quote -> To nest line items in an ordered list, indent the items four spaces or one tab.
+timestamp -> Wednesday, October 19, 2022 4:36:39 AM
+location -> 29
+locationPrefix -> Page No. 
+---------
+quote -> To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
+timestamp -> Wednesday, October 19, 2022 4:37:13 AM
+location -> 31
+locationPrefix -> Page No. 
+---------
+quote -> If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.
+timestamp -> Wednesday, October 19, 2022 4:38:06 AM
+location -> 33
+locationPrefix -> Page No. 
+---------
+quote -> Markdown applications don’t agree on how to handle different delimiters in the same list. For compatibility, don’t mix and match delimiters in the
+timestamp -> Wednesday, October 19, 2022 4:38:27 AM
+location -> 33
+locationPrefix -> Page No. 
+---------
+quote -> Markdown applications don’t agree on how to handle different delimiters in the same list. For compatibility, don’t mix and match delimiters in the same list
+timestamp -> Wednesday, October 19, 2022 4:38:31 AM
+location -> 33
+locationPrefix -> Page No. 
+---------
+quote -> Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
+timestamp -> Wednesday, October 19, 2022 4:39:18 AM
+location -> 36
+locationPrefix -> Page No. 
+---------
+quote -> denote a word or phrase as code, enclose it in backticks (`).
+timestamp -> Wednesday, October 19, 2022 4:40:31 AM
+location -> 39
+locationPrefix -> Page No. 
+---------
+quote -> If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks.
+timestamp -> Wednesday, October 19, 2022 4:40:59 AM
+location -> 40
+locationPrefix -> Page No. 
+---------
+quote -> To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+timestamp -> Wednesday, October 19, 2022 4:42:01 AM
+location -> 41
+locationPrefix -> Page No. 
+---------
+quote -> For compatibility, put blank lines before and after horizontal rules.
+timestamp -> Wednesday, October 19, 2022 4:42:11 AM
+location -> 42
+locationPrefix -> Page No. 
+---------
+quote -> To create a link, enclose the link text in brackets
+timestamp -> Wednesday, October 19, 2022 4:42:20 AM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> then follow it immediately with the URL in parentheses (e.g.,
+timestamp -> Wednesday, October 19, 2022 4:42:25 AM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> then follow it immediately with the URL in parentheses
+timestamp -> Wednesday, October 19, 2022 4:42:28 AM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> To quickly turn a URL or email address into a link, enclose it in angle brackets.
+timestamp -> Wednesday, October 19, 2022 4:43:48 AM
+location -> 44
+locationPrefix -> Page No. 
+---------
+quote -> To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
+timestamp -> Wednesday, October 19, 2022 4:44:17 AM
+location -> 44
+locationPrefix -> Page No. 
+---------
+quote -> Reference-style links are a special kind of link that make URLs easier to display and read in Markdown.
+timestamp -> Wednesday, October 19, 2022 4:47:50 AM
+location -> 45
+locationPrefix -> Page No. 
+---------
+quote -> The first part of a reference-style link is formatted with two sets of brackets. The first set of brackets surrounds the text that should appear linked. The second set of brackets displays a label used to point to the link you’re storing elsewhere in your document.
+timestamp -> Wednesday, October 19, 2022 4:48:17 AM
+location -> 45
+locationPrefix -> Page No. 
+---------
+quote -> The second part of a reference-style link is formatted with the following attributes:
+timestamp -> Wednesday, October 19, 2022 4:48:21 AM
+location -> 46
+locationPrefix -> Page No. 
+---------
+quote -> For compatibility, try to URL encode any spaces with %20.
+timestamp -> Wednesday, October 19, 2022 4:49:38 AM
+location -> 48
+locationPrefix -> Page No. 
+---------
+quote -> To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses.
+timestamp -> Wednesday, October 19, 2022 4:49:57 AM
+location -> 49
+locationPrefix -> Page No. 
+---------
+quote -> To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
+timestamp -> Wednesday, October 19, 2022 4:50:30 AM
+location -> 50
+locationPrefix -> Page No. 
+---------
+quote -> display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.
+timestamp -> Wednesday, October 19, 2022 4:50:54 AM
+location -> 51
+locationPrefix -> Page No. 
+---------
+quote -> You can use a backslash to escape the following characters.
+timestamp -> Wednesday, October 19, 2022 4:51:10 AM
+location -> 51
+locationPrefix -> Page No. 
+---------
+quote -> You can’t use Markdown syntax inside block-level HTML tags.
+timestamp -> Wednesday, October 19, 2022 4:52:25 AM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column.
+timestamp -> Wednesday, October 19, 2022 4:53:55 AM
+location -> 54
+locationPrefix -> Page No. 
+---------
+quote -> Creating tables with hyphens and pipes can be tedious.
+timestamp -> Wednesday, October 19, 2022 4:54:17 AM
+location -> 56
+locationPrefix -> Page No. 
+---------
+quote -> You can align text in the columns to the left, right, or center by adding a colon (:) to
+timestamp -> Wednesday, October 19, 2022 4:54:28 AM
+location -> 56
+locationPrefix -> Page No. 
+---------
+quote -> You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
+timestamp -> Wednesday, October 19, 2022 4:54:32 AM
+location -> 56
+locationPrefix -> Page No. 
+---------
+quote -> You can display a pipe (|) character in a table by using its HTML character code (&#124;).
+timestamp -> Wednesday, October 19, 2022 4:55:38 AM
+location -> 58
+locationPrefix -> Page No. 
+---------
+quote -> Depending on your Markdown processor or editor, you’ll use three backticks (```) or three tildes (~~~) on the lines before and after the code block. The best part? You don’t have to indent any lines!
+timestamp -> Wednesday, October 19, 2022 4:56:01 AM
+location -> 58
+locationPrefix -> Page No. 
+---------
+quote -> Depending on your Markdown processor or editor, you’ll use three backticks (```) or three tildes (~~~) on the lines before and after the code block.
+timestamp -> Wednesday, October 19, 2022 4:56:06 AM
+location -> 58
+locationPrefix -> Page No. 
+---------
+quote -> To add syntax highlighting, specify a language next to the backticks before the fenced code block.
+timestamp -> Wednesday, October 19, 2022 4:57:18 AM
+location -> 59
+locationPrefix -> Page No. 
+---------
+quote -> Footnotes allow you to add notes and references without cluttering the body of the document.
+timestamp -> Wednesday, October 19, 2022 4:57:35 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> To create a footnote reference, add a caret and an identifier inside brackets ([^1]).
+timestamp -> Wednesday, October 19, 2022 4:58:01 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> Identifiers only correlate the footnote reference with the footnote itself — in the output, footnotes are numbered sequentially.
+timestamp -> Wednesday, October 19, 2022 4:58:11 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> Identifiers can be numbers or words,
+timestamp -> Wednesday, October 19, 2022 4:58:15 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> Identifiers can be numbers or words,
+timestamp -> Wednesday, October 19, 2022 4:58:21 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> Identifiers can be numbers or words, but they can’t contain spaces or tabs.
+timestamp -> Wednesday, October 19, 2022 4:58:44 AM
+location -> 60
+locationPrefix -> Page No. 
+---------
+quote -> Add the footnote using another caret and number inside brackets with a colon and text ([^1]: My footnote.).
+timestamp -> Wednesday, October 19, 2022 4:58:53 AM
+location -> 61
+locationPrefix -> Page No. 
+---------
+quote -> — some Markdown processors automatically add them.
+timestamp -> Wednesday, October 19, 2022 5:02:31 AM
+location -> 62
+locationPrefix -> Page No. 
+---------
+quote -> To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading.
+timestamp -> Wednesday, October 19, 2022 5:02:42 AM
+location -> 62
+locationPrefix -> Page No. 
+---------
+quote -> You can link to headings with custom IDs in the file by creating a standard link with a number sign
+timestamp -> Wednesday, October 19, 2022 5:03:27 AM
+location -> 62
+locationPrefix -> Page No. 
+---------
+quote -> You can link to headings with custom IDs in the file by creating a standard link with a number sign (#) followed by the custom heading ID.
+timestamp -> Wednesday, October 19, 2022 5:03:32 AM
+location -> 62
+locationPrefix -> Page No. 
+---------
+quote -> definition lists of terms and their corresponding definitions. To create a definition list, type the term on the first line. On the next line, type a colon followed by a space and the definition.
+timestamp -> Wednesday, October 19, 2022 5:04:13 AM
+location -> 63
+locationPrefix -> Page No. 
+---------
+quote -> “strikethrough” words by putting a horizontal line through the center of them. This feature allows you to indicate that certain words are a mistake not meant for inclusion in the document.
+timestamp -> Wednesday, October 19, 2022 5:04:25 AM
+location -> 64
+locationPrefix -> Page No. 
+---------
+quote -> use two tilde symbols (~~) before and after the words.
+timestamp -> Wednesday, October 19, 2022 5:04:33 AM
+location -> 64
+locationPrefix -> Page No. 
+---------
+quote -> Task lists allow you to create a list of items with checkboxes. In Markdown applications that support task lists, checkboxes will be displayed next to the content. To create a task list, add dashes (-) and brackets with a space ([ ]) in front of task list items.
+timestamp -> Wednesday, October 19, 2022 5:05:31 AM
+location -> 65
+locationPrefix -> Page No. 
+---------
+quote -> To select a checkbox, add an x in between the brackets ([x]).
+timestamp -> Wednesday, October 19, 2022 5:05:41 AM
+location -> 65
+locationPrefix -> Page No. 
+---------
+quote -> There are two ways to add emoji to Markdown files: copy and paste the emoji into your Markdown-formatted text, or type emoji shortcodes.
+timestamp -> Wednesday, October 19, 2022 5:05:54 AM
+location -> 66
+locationPrefix -> Page No. 
+---------
+quote -> If you’re using a static site generator, make sure you encode HTML pages as UTF-8
+timestamp -> Wednesday, October 19, 2022 5:06:10 AM
+location -> 66
+locationPrefix -> Page No. 
+---------
+quote -> emoji shortcodes. These begin and end with a colon and include the name of an emoji.
+timestamp -> Wednesday, October 19, 2022 5:06:37 AM
+location -> 66
+locationPrefix -> Page No. 
+---------
+quote -> If you don’t want a URL to be automatically linked, you can remove the link by denoting the URL as code with backticks.
+timestamp -> Wednesday, October 19, 2022 5:07:22 AM
+location -> 68
+locationPrefix -> Page No. 
+---------
 ------------------------------------------------------------------------------------------------------------------

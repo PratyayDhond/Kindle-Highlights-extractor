@@ -18,4 +18,19 @@ timestamp -> Monday, December 5, 2022 6:50:21 AM
 location -> 9-9
 locationPrefix -> Page No. 
 ---------
+quote -> predicate is an expression of one or more variables defined on some specific domain
+timestamp -> Monday, December 5, 2022 6:10:06 AM
+location -> 2-2
+locationPrefix -> Page No. 
+---------
+quote -> A predicate with variables can be made a proposition by either assigning a value to the variable or by quantifying the variable.
+timestamp -> Monday, December 5, 2022 6:10:40 AM
+location -> 2-2
+locationPrefix -> Page No. 
+---------
+quote -> The uniqueness quantifier can be expressed by standard operations. !x P(x) is equivalent to
+timestamp -> Monday, December 5, 2022 6:50:21 AM
+location -> 9-9
+locationPrefix -> Page No. 
+---------
 ------------------------------------------------------------------------------------------------------------------

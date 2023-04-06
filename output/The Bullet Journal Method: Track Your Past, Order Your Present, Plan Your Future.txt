@@ -13,4 +13,14 @@ timestamp -> Thursday, September 22, 2022 6:46:21 AM
 location -> 14
 locationPrefix -> Page No. 
 ---------
+quote -> The Bullet Journal method will help you accomplish more by working on less. It helps you identify and focus on what is meaningful by stripping away what is meaningless.
+timestamp -> Thursday, September 22, 2022 6:44:12 AM
+location -> 14
+locationPrefix -> Page No. 
+---------
+quote -> information overload is worse for our focus than exhaustion or smoking marijuana.
+timestamp -> Thursday, September 22, 2022 6:46:21 AM
+location -> 14
+locationPrefix -> Page No. 
+---------
 ------------------------------------------------------------------------------------------------------------------

@@ -38,4 +38,39 @@ timestamp -> Friday, December 2, 2022 6:36:11 PM
 location -> 60-60
 locationPrefix -> Page No. 
 ---------
+quote -> Some propositions P contain only T in the last column of their truth tables or, in other words, they
+timestamp -> Friday, December 2, 2022 6:29:35 PM
+location -> 52-52
+locationPrefix -> Page No. 
+---------
+quote -> Tautologies and Contradictions • Some propositions P contain only T in the last column of their truth tables or, in other words, they are true for any truth values of their variables. Such propositions are called tautologies. A tautology is a statement that is always true. Examples: • R(R)  (PQ) (P)(Q) • If
+timestamp -> Friday, December 2, 2022 6:31:48 PM
+location -> 52-52
+locationPrefix -> Page No. 
+---------
+quote -> If ST is a tautology, we write ST. • If ST is a tautology, we write S
+timestamp -> Friday, December 2, 2022 6:31:55 PM
+location -> 52-52
+locationPrefix -> Page No. 
+---------
+quote -> Tautologies and Contradictions • Some propositions P contain only T in the last column of their truth tables or, in other words, they are true for any truth values of their variables. Such propositions are called tautologies. A tautology is a statement that is always true. Examples: • R(R)  (PQ) (P)(Q) • If
+timestamp -> Friday, December 2, 2022 6:31:58 PM
+location -> 52-52
+locationPrefix -> Page No. 
+---------
+quote -> we write ST. • If ST is a tautology, we write ST
+timestamp -> Friday, December 2, 2022 6:32:08 PM
+location -> 52-52
+locationPrefix -> Page No. 
+---------
+quote -> But isnt that equvivalent symbol
+timestamp -> Friday, December 2, 2022 6:32:20 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> Without Truth Table Using Substitution ( by formulas)
+timestamp -> Friday, December 2, 2022 6:36:11 PM
+location -> 60-60
+locationPrefix -> Page No. 
+---------
 ------------------------------------------------------------------------------------------------------------------

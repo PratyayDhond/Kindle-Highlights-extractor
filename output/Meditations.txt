@@ -13,4 +13,14 @@ timestamp -> Tuesday, February 7, 2023 10:00:44 PM
 location -> 1126-1127
 locationPrefix -> loc 
 ---------
+quote -> education is something on which one should spend freely.
+timestamp -> Sunday, February 5, 2023 10:52:27 PM
+location -> 778-778
+locationPrefix -> loc 
+---------
+quote -> At the start of the day2 tell yourself: I shall meet people who are officious, ungrateful, abusive, treacherous, malicious, and selfish
+timestamp -> Tuesday, February 7, 2023 10:00:44 PM
+location -> 1126-1127
+locationPrefix -> loc 
+---------
 ------------------------------------------------------------------------------------------------------------------

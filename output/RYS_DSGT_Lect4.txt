@@ -38,4 +38,39 @@ timestamp -> Wednesday, December 7, 2022 5:04:17 PM
 location -> 4-4
 locationPrefix -> Page No. 
 ---------
+quote -> is an example of such a language. Prolog programs include a set of declarations consisting of two types of statements, Prolog facts and Prolog rules
+timestamp -> Wednesday, December 7, 2022 5:01:51 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog programs include a set of declarations consisting of two types of statements, Prolog facts and Prolog
+timestamp -> Wednesday, December 7, 2022 5:01:54 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog programs include a set of declarations consisting of two types of
+timestamp -> Wednesday, December 7, 2022 5:01:57 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog programs include a set of declarations consisting of two types of
+timestamp -> Wednesday, December 7, 2022 5:02:03 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog programs include a set of declarations consisting of two types of statements, Prolog facts and Prolog rules.
+timestamp -> Wednesday, December 7, 2022 5:02:14 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog facts define predicates by specifying the elements that satisfy these predicates.
+timestamp -> Wednesday, December 7, 2022 5:04:06 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
+quote -> Prolog rules are used to define new predicates using those already defined by
+timestamp -> Wednesday, December 7, 2022 5:04:17 PM
+location -> 4-4
+locationPrefix -> Page No. 
+---------
 ------------------------------------------------------------------------------------------------------------------
