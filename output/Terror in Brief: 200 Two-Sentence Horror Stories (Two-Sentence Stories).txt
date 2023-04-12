@@ -1,0 +1,41 @@
+Author : Adams, D. T.
+Title  : Terror in Brief: 200 Two-Sentence Horror Stories (Two-Sentence Stories)
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> Reneging on a Promise He tied her up and promised he would untie her if she used the safe word. When she used it, he ignored her and carried on.
+timestamp -> Wednesday, October 26, 2022 10:16:26 PM
+location -> 6
+locationPrefix -> Page No. 
+---------
+quote -> Reneging on a Promise He tied her up and promised he would untie her if she used the safe word. When she used it, he ignored her and carried
+timestamp -> Wednesday, October 26, 2022 10:16:29 PM
+location -> 6
+locationPrefix -> Page No. 
+---------
+quote -> Reneging on a Promise He tied her up and promised he would untie her if she used the safe word. When she used it, he ignored her and carried on.
+timestamp -> Wednesday, October 26, 2022 10:16:31 PM
+location -> 6
+locationPrefix -> Page No. 
+---------
+quote -> If he could not have her, no one could. If she would not stay with him, that was what the handcuffs were for.
+timestamp -> Wednesday, October 26, 2022 10:19:31 PM
+location -> 7
+locationPrefix -> Page No. 
+---------
+quote -> He let her choose how she would die. She chose the syringe, but he ignored her and picked up the axe.
+timestamp -> Wednesday, October 26, 2022 10:22:53 PM
+location -> 9
+locationPrefix -> Page No. 
+---------
+quote -> The Monster Created by Man To the human,
+timestamp -> Wednesday, October 26, 2022 10:27:58 PM
+location -> 26
+locationPrefix -> Page No. 
+---------
+quote -> To the human, the robot was incredibly lifelike. To the robot, the human was wholly unnecessary.
+timestamp -> Wednesday, October 26, 2022 10:28:04 PM
+location -> 26
+locationPrefix -> Page No. 
+---------
+------------------------------------------------------------------------------------------------------------------

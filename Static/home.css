@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(239, 243, 234);
+}
+
+h1{
+    color: rgb(73, 50, 23);
+    text-align: center;
+}
+
+.home{
+    /* background-color: black     ; */
+}
+
+.homeImage{
+    background-color: yellow;
+}
+
+.img-fluid{
+    width: fit-content;
+}
+
+.formDiv{
+    background-color: red;
+}
+
+@media only screen and (max-width: 1000px) {
+    .homeImage{
+        width: fit-content;
+        align-items: center;
+        width: 95vw;
+        float: none;
+    }
+    
+    .img-fluid{
+        width: 90vw;
+    }
+
+    .formDiv{
+        align-items: center;
+        align-content: center;
+        width: 95vw;
+        float: none;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .homeImage{
+        width: 55vw;
+        float: left;
+        height:50vw;
+    }
+
+    .img-fluid{
+        width: 59vw;
+    }
+
+    .formDiv{
+        width: 43vw;
+        height:50vw;
+        float: left;
+    }
+}

@@ -1,20 +1,21 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_file
 from scraper import *
 from werkzeug.utils import secure_filename
 import os
 import platform
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="Static/")
+app.config['SECRET_KEY'] = "asfasfagas"
 
-@app.route('/')
+@app.route('/', methods=['GET','POST'])
 def home():
     return render_template('home.html', name='Pratyay')
 
-@app.route('/fileSubmitted', methods=['GET','POST'])
-def fileSubmitted():
+@app.route('/download', methods=['GET','POST'])
+def download():
     f = request.files['file']
     secure_filename(f.filename)
-
+    print("5% done")
     if os.path.exists('Uploads') == False:
         os.system('mkdir Uploads')
     f.save('Uploads/MyClippings.txt')
@@ -31,6 +32,7 @@ def fileSubmitted():
                 pass
             else:
                 md.write(f"<p style='text-align:end;'> \- by _{book.getAuthor()}_<p>\n")
+            print(title)
             md.write("____\n")
             md.write("<br>\n")
             for quote in book.getQuotes():
@@ -40,8 +42,21 @@ def fileSubmitted():
            os.system('mkdir highlights')
         os.system(f'md2pdf --o highlights/"{title}.pdf" tempFile.md')
 
-    if platform.platform() == 'Windows':
-        os.system(f'zip Highlights.zip highlights')
-    else:
-        os.system(f'tar -cf Highlights.tar highlights')    
-    return render_template('fileSubmitted.html',file=f.filename)
+    # if platform.platform() == 'Windows':
+        # os.system(f'zip Highlights.zip highlights')
+    # else:
+        # os.system(f'tar -cf Highlights.tar highlights')    
+    os.system(f'zip "Highlights.zip" highlights/*')
+    print('Removing Uploads...')
+    os.system('rm -r Uploads')
+    print('Uploads Removed successfully...')
+    print('Removing highlights...')
+    os.system('rm -r highlights')
+    print('Highlights Removed successfully...')
+    print('Removing Output...')
+    os.system('rm -r output')
+    print('Removed Output successfully...')
+    os.system(f'mv Highlights.zip "Static/"')
+    return send_file('Static/Highlights.zip', as_attachment=True)
+    # return send_from_directory(directory= 'Static' ,path='Static/Highlights.zip',filename='Highlights.zip')
+    # return render_template('fileSubmitted.html',file=f.filename)

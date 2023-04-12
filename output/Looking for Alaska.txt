@@ -1,0 +1,161 @@
+Author : John Green
+Title  : Looking for Alaska
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> The only thing worse than having a party that no one attends is having a party attended only by two vastly, deeply uninteresting people.
+timestamp -> Wednesday, September 14, 2022 8:22:38 PM
+location -> 25-26
+locationPrefix -> loc 
+---------
+quote -> 'I go to seek a Great Perhaps.' That's why I'm going. So I don't have to wait until I die to start seeking a Great Perhaps.
+timestamp -> Wednesday, September 14, 2022 8:24:23 PM
+location -> 40-41
+locationPrefix -> loc 
+---------
+quote -> She had the kind of eyes that predisposed you to supporting her every endeavor
+timestamp -> Thursday, September 15, 2022 9:10:28 PM
+location -> 240-240
+locationPrefix -> loc 
+---------
+quote -> I'm a bad boyfriend. She's a bad girlfriend. We deserve each other.”
+timestamp -> Friday, September 16, 2022 1:12:58 AM
+location -> 522-523
+locationPrefix -> loc 
+---------
+quote -> “Y'all smoke to enjoy it. I smoke to die.” one hundred nine days before Dinner IN the cafeteria the next night was meat loaf, one of the rare dishes that didn't arrive deep-fried, and, perhaps as a result, meat loaf was Maureen's greatest failure—a stringy, gravy-soaked concoction that did not much resemble a loaf and did not much taste like meat.
+timestamp -> Friday, September 16, 2022 1:23:14 AM
+location -> 619-626
+locationPrefix -> loc 
+---------
+quote -> “Y'all smoke to enjoy it. I smoke to die.” one hundred nine days before Dinner IN the cafeteria the next night was meat loaf, one of the rare dishes that didn't arrive deep-fried, and, perhaps as a result, meat loaf was Maureen's greatest failure—a stringy, gravy-soaked concoction that did not much resemble a loaf and did not much taste like meat.
+timestamp -> Friday, September 16, 2022 1:23:16 AM
+location -> 619-626
+locationPrefix -> loc 
+---------
+quote -> “Y'all smoke to enjoy it. I smoke to die.
+timestamp -> Friday, September 16, 2022 1:23:20 AM
+location -> 619-620
+locationPrefix -> loc 
+---------
+quote -> Not the brightest gem in the jewelry shop, but you've got to admire his single-minded dedication to drug abuse.
+timestamp -> Friday, September 16, 2022 1:26:56 AM
+location -> 648-649
+locationPrefix -> loc 
+---------
+quote -> imagining that future keeps you going, but you never do it. You just use the future to escape the present.
+timestamp -> Friday, September 16, 2022 2:03:32 AM
+location -> 778-779
+locationPrefix -> loc 
+---------
+quote -> “Sometimes I don't get you,” I said. She didn't even glance at me. She just smiled toward the television and said, “You never get me. That's the whole point.”
+timestamp -> Friday, September 16, 2022 2:04:20 AM
+location -> 784-785
+locationPrefix -> loc 
+---------
+quote -> the glittering ambiguity of a girl's smile, which seems to promise an answer to the question but never gives it.
+timestamp -> Friday, September 16, 2022 7:08:38 AM
+location -> 945-945
+locationPrefix -> loc 
+---------
+quote -> if people were rain, I was drizzle and she was a hurricane.
+timestamp -> Friday, September 16, 2022 8:05:05 AM
+location -> 1311-1311
+locationPrefix -> loc 
+---------
+quote -> People, I thought, wanted security. They couldn't bear the idea of death being a big black nothing, couldn't bear the thought of their loved ones not existing, and couldn't even imagine themselves not existing
+timestamp -> Friday, September 16, 2022 8:24:16 AM
+location -> 1497-1499
+locationPrefix -> loc 
+---------
+quote -> People, I thought, wanted security. They couldn't bear the idea of death being a big black nothing, couldn't bear the thought of their loved ones not existing, and couldn't even imagine themselves not existing. I
+timestamp -> Friday, September 16, 2022 8:24:22 AM
+location -> 1497-1499
+locationPrefix -> loc 
+---------
+quote -> People, I thought, wanted security. They couldn't bear the idea of death being a big black nothing, couldn't bear the thought of their loved ones
+timestamp -> Friday, September 16, 2022 8:24:26 AM
+location -> 1497-1498
+locationPrefix -> loc 
+---------
+quote -> People, I thought, wanted security. They couldn't bear the idea of death being a big black nothing, couldn't bear the thought of their loved ones not existing, and couldn't even imagine themselves not existing
+timestamp -> Friday, September 16, 2022 8:24:34 AM
+location -> 1497-1499
+locationPrefix -> loc 
+---------
+quote -> people believed in an afterlife because they couldn't bear not
+timestamp -> Friday, September 16, 2022 8:24:39 AM
+location -> 1499-1499
+locationPrefix -> loc 
+---------
+quote -> people believed in an afterlife because they couldn't bear not to.
+timestamp -> Friday, September 16, 2022 8:24:42 AM
+location -> 1499-1499
+locationPrefix -> loc 
+---------
+quote -> got to see us,” just before slamming his Porsche into another car. I know so many last words. But I will never know hers
+timestamp -> Friday, September 16, 2022 12:41:40 PM
+location -> 2066-2067
+locationPrefix -> loc 
+---------
+quote -> I know so many last words. But I will never know hers
+timestamp -> Friday, September 16, 2022 12:41:43 PM
+location -> 2066-2067
+locationPrefix -> loc 
+---------
+quote -> What the hell is instant? Nothing is instant.
+timestamp -> Friday, September 16, 2022 12:46:47 PM
+location -> 2122-2122
+locationPrefix -> loc 
+---------
+quote -> Instant rice takes five minutes, instant pudding an hour. I doubt that an instant of blinding pain feels particularly instantaneous.
+timestamp -> Friday, September 16, 2022 12:46:56 PM
+location -> 2122-2123
+locationPrefix -> loc 
+---------
+quote -> but with each slow breath, the smell faded as I became accustomed to it, and soon she was gone again.
+timestamp -> Friday, September 16, 2022 3:51:37 PM
+location -> 2240-2240
+locationPrefix -> loc 
+---------
+quote -> I'd rather wonder than get answers I couldn't live with.
+timestamp -> Friday, September 16, 2022 4:24:53 PM
+location -> 2341-2341
+locationPrefix -> loc 
+---------
+quote -> she had proved to me that it was worth it to leave behind my minor life for grander maybes
+timestamp -> Friday, September 16, 2022 6:06:13 PM
+location -> 2518-2518
+locationPrefix -> loc 
+---------
+quote -> A woman so strong she burns heaven and drenches
+timestamp -> Friday, September 16, 2022 6:14:44 PM
+location -> 2546-2546
+locationPrefix -> loc 
+---------
+quote -> A woman so strong she burns heaven and drenches hell.
+timestamp -> Friday, September 16, 2022 6:14:47 PM
+location -> 2546-2546
+locationPrefix -> loc 
+---------
+quote -> 'Everything that comes together falls apart,'
+timestamp -> Friday, September 16, 2022 6:50:04 PM
+location -> 2886-2887
+locationPrefix -> loc 
+---------
+quote -> she had haunted me, haunted my dreams, but even now, just weeks later, she was slipping away, falling apart in my memory and everyone else's, dying again.
+timestamp -> Friday, September 16, 2022 6:51:17 PM
+location -> 2894-2895
+locationPrefix -> loc 
+---------
+quote -> God we must look so lame, but it doesn't much matter when you have just now realized, all the time later, that you are still alive.
+timestamp -> Friday, September 16, 2022 7:31:07 PM
+location -> 3166-3167
+locationPrefix -> loc 
+---------
+quote -> It was genuinely hot out again, warm like she was
+timestamp -> Friday, September 16, 2022 7:34:20 PM
+location -> 3216-3216
+locationPrefix -> loc 
+---------
+------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+Author : Syougo Kinsuga
+Title  : Classroom of the Elite Vol. 6
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> To bring this school into the future, I intend to thoroughly destroy the past.”
+timestamp -> Thursday, August 25, 2022 4:05:09 PM
+location -> 6
+locationPrefix -> Page No. 
+---------
+quote -> People tend to fundamentally resent those who excel.
+timestamp -> Thursday, August 25, 2022 4:06:41 PM
+location -> 7
+locationPrefix -> Page No. 
+---------
+quote -> their test scores, the school would undoubtedly respond with draconian
+timestamp -> Thursday, August 25, 2022 4:23:52 PM
+location -> 18
+locationPrefix -> Page No. 
+---------
+quote -> The power of love really was a terrifying thing.
+timestamp -> Thursday, August 25, 2022 4:27:58 PM
+location -> 20
+locationPrefix -> Page No. 
+---------
+quote -> someone with no authority shouldn’t be talking.
+timestamp -> Thursday, August 25, 2022 4:37:33 PM
+location -> 50
+locationPrefix -> Page No. 
+---------
+quote -> “Violence is the most powerful force in the world. I will not yield to authority. Even if the school tries to expel me, I’ll kill the traitor before they kick me out.
+timestamp -> Thursday, August 25, 2022 4:47:53 PM
+location -> 59
+locationPrefix -> Page No. 
+---------
+quote -> “Violence is the most powerful force in the world.
+timestamp -> Thursday, August 25, 2022 4:48:11 PM
+location -> 59
+locationPrefix -> Page No. 
+---------
+quote -> “Violence is the most powerful force in the world.
+timestamp -> Thursday, August 25, 2022 4:48:17 PM
+location -> 59
+locationPrefix -> Page No. 
+---------
+quote -> human beings are born physiologically premature. He argued that, from a zoological point of view, humans are born about a year early in comparison to other mammals’ developmental states.
+timestamp -> Thursday, August 25, 2022 8:18:24 PM
+location -> 63
+locationPrefix -> Page No. 
+---------
+------------------------------------------------------------------------------------------------------------------

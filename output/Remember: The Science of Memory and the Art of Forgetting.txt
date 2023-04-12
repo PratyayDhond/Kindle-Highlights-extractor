@@ -1,0 +1,746 @@
+Author : Lisa Genova
+Title  : Remember: The Science of Memory and the Art of Forgetting
+
+
+------------------------------------------------------------------------------------------------------------------
+quote -> Creating a memory takes place in four basic steps: Encoding. Your brain captures the sights, sounds, information, emotion, and meaning of what you perceived and paid attention to and translates all this into neurological language. Consolidation. Your brain links the previously unrelated collection of neural activity into a single pattern of associated connections. Storage. This pattern of activity is maintained over time through persistent structural and chemical changes in those neurons. Retrieval. You can now, through the activation of these associated connections, revisit, recall, know, and recognize what you learned and experienced.
+timestamp -> Friday, September 9, 2022 5:27:37 PM
+location -> 12
+locationPrefix -> Page No. 
+---------
+quote -> So your hippocampus is necessary for the formation of any new memories that you can later consciously retrieve.
+timestamp -> Friday, September 9, 2022 5:29:26 PM
+location -> 13
+locationPrefix -> Page No. 
+---------
+quote -> any new information from today that you perceive and attend to, that you find interesting, special, surprising, useful, meaningful, or, well, memorable, will be processed by your hippocampus for consolidation into memory.
+timestamp -> Friday, September 9, 2022 5:32:23 PM
+location -> 15
+locationPrefix -> Page No. 
+---------
+quote -> Retrieval of a memory happens when one part of the memory is stimulated, triggering activation of the linked memory circuit.
+timestamp -> Friday, September 9, 2022 5:33:15 PM
+location -> 17
+locationPrefix -> Page No. 
+---------
+quote -> If we want to remember something, above all else, we need to notice what is going on.
+timestamp -> Friday, September 9, 2022 5:34:31 PM
+location -> 19
+locationPrefix -> Page No. 
+---------
+quote -> Noticing requires two things: perception (seeing, hearing, smelling, feeling) and attention.
+timestamp -> Friday, September 9, 2022 5:34:36 PM
+location -> 19
+locationPrefix -> Page No. 
+---------
+quote -> hippocampus can’t consolidate any sensory information into a lasting memory without the neural input of attention. So because I wasn’t paying attention to the bridge, the experience of driving over it slipped out of my brain within seconds,
+timestamp -> Friday, September 9, 2022 5:38:15 PM
+location -> 20
+locationPrefix -> Page No. 
+---------
+quote -> hippocampus can’t consolidate any sensory information into a lasting memory without the neural input of attention.
+timestamp -> Friday, September 9, 2022 5:38:18 PM
+location -> 20
+locationPrefix -> Page No. 
+---------
+quote -> remember—what we find interesting, meaningful, new, surprising, significant, emotional, and consequential. Our brains capture those details. We ignore, and therefore forget, the rest.
+timestamp -> Friday, September 9, 2022 5:39:21 PM
+location -> 21
+locationPrefix -> Page No. 
+---------
+quote -> Repeated exposure alone simply isn’t enough to guarantee that we will remember something.
+timestamp -> Friday, September 9, 2022 5:42:10 PM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> Repeated exposure alone simply isn’t enough to guarantee that we will remember something. We need to add attention. Now let’s consider
+timestamp -> Friday, September 9, 2022 5:42:14 PM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> Repeated exposure alone simply isn’t enough to guarantee
+timestamp -> Friday, September 9, 2022 5:42:19 PM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> Repeated exposure alone simply isn’t enough to guarantee that we will remember something. We need to add attention.
+timestamp -> Friday, September 9, 2022 5:42:27 PM
+location -> 23
+locationPrefix -> Page No. 
+---------
+quote -> Paying attention requires conscious effort. Your default brain activity is not attentive.
+timestamp -> Friday, September 9, 2022 5:43:50 PM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> If you want to remember something, you have to turn your brain on, wake up, become consciously aware, and pay attention.
+timestamp -> Friday, September 9, 2022 5:47:35 PM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> Your smartphone, Facebook, Twitter, Instagram, text alerts, e-mails, incessantly racing thoughts—all of these are attention thieves and, by extension, memory thieves.
+timestamp -> Saturday, September 10, 2022 6:31:34 PM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> Getting enough sleep, meditating, and a little caffeine (not too much and none twelve hours before bed) are powerful distraction fighters and can enhance your ability to pay attention and therefore to establish long-term memories.
+timestamp -> Saturday, September 10, 2022 6:34:10 PM
+location -> 24
+locationPrefix -> Page No. 
+---------
+quote -> This is your memory for the present moment. It’s a limited and short-lived holding space in your prefrontal cortex for the sights, sounds, smells, tastes, emotions, and language of right now.
+timestamp -> Saturday, September 10, 2022 6:36:24 PM
+location -> 26
+locationPrefix -> Page No. 
+---------
+quote -> While attention is necessary for the creation of a new memory, it isn’t sufficient.
+timestamp -> Wednesday, September 14, 2022 7:30:06 PM
+location -> 25
+locationPrefix -> Page No. 
+---------
+quote -> Working memory for what you hear is called your phonological loop,
+timestamp -> Wednesday, September 14, 2022 7:32:26 PM
+location -> 27
+locationPrefix -> Page No. 
+---------
+quote -> you can fit more information in your working memory if you can chunk the items to be remembered.
+timestamp -> Wednesday, September 14, 2022 7:35:27 PM
+location -> 29
+locationPrefix -> Page No. 
+---------
+quote -> While visual cues and associations have a profound effect on consolidation and retrieval of long-term memories, they don’t come into play in working memory.
+timestamp -> Wednesday, September 14, 2022 7:36:49 PM
+location -> 31
+locationPrefix -> Page No. 
+---------
+quote -> Muscle memory is unconscious, remembered below your awareness.
+timestamp -> Wednesday, September 14, 2022 7:42:21 PM
+location -> 35
+locationPrefix -> Page No. 
+---------
+quote -> consolidation of muscle memories requires repeated activation through lots of focused practice. Once the pattern of neural activation for a skill is consolidated,
+timestamp -> Wednesday, September 14, 2022 7:44:39 PM
+location -> 37
+locationPrefix -> Page No. 
+---------
+quote -> consolidation of muscle memories requires repeated activation through lots of focused practice.
+timestamp -> Wednesday, September 14, 2022 7:44:43 PM
+location -> 37
+locationPrefix -> Page No. 
+---------
+quote -> As you progress from novice to master, brain scan studies show that the parts of your motor cortex activated by that skill become enlarged.
+timestamp -> Wednesday, September 14, 2022 7:45:48 PM
+location -> 38
+locationPrefix -> Page No. 
+---------
+quote -> Becoming an expert in any physical skill is a result of more neural connections, more brain matter devoted to that muscle memory. Whatever you do over
+timestamp -> Wednesday, September 14, 2022 7:46:03 PM
+location -> 38
+locationPrefix -> Page No. 
+---------
+quote -> Becoming an expert in any physical skill is a result of more neural connections, more brain matter devoted to that muscle memory. Whatever you do over
+timestamp -> Wednesday, September 14, 2022 7:46:04 PM
+location -> 38
+locationPrefix -> Page No. 
+---------
+quote -> Becoming an expert in any physical skill is a result of more neural connections, more brain matter devoted to that muscle memory.
+timestamp -> Wednesday, September 14, 2022 7:46:10 PM
+location -> 38
+locationPrefix -> Page No. 
+---------
+quote -> Repetition is the key to muscle memory mastery. Creating a muscle memory is different from how declarative
+timestamp -> Wednesday, September 14, 2022 7:47:56 PM
+location -> 39
+locationPrefix -> Page No. 
+---------
+quote -> Repetition is the key to muscle memory mastery.
+timestamp -> Wednesday, September 14, 2022 7:48:00 PM
+location -> 39
+locationPrefix -> Page No. 
+---------
+quote -> Information that is paid attention to, salvaged from the doomed fate of working memory for its perceived significance, and consolidated by the hippocampus can become stored long-term memories.
+timestamp -> Wednesday, September 14, 2022 7:51:11 PM
+location -> 41
+locationPrefix -> Page No. 
+---------
+quote -> Episodic is personal and always about the past. Semantic memory is about information and is timeless.
+timestamp -> Wednesday, September 14, 2022 7:52:25 PM
+location -> 41
+locationPrefix -> Page No. 
+---------
+quote -> Memorization requires repetition and effort.
+timestamp -> Wednesday, September 14, 2022 7:55:29 PM
+location -> 42
+locationPrefix -> Page No. 
+---------
+quote -> If the total number of study hours is equal, distributed practice beats out cramming.
+timestamp -> Wednesday, September 14, 2022 8:08:32 PM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> the spacing effect, rehearsing the information to be remembered spaced out over time gives your hippocampus more time to fully consolidate what you’re learning.
+timestamp -> Wednesday, September 14, 2022 8:08:49 PM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> repeated exposure to information helps you retain it.
+timestamp -> Wednesday, September 14, 2022 8:09:15 PM
+location -> 43
+locationPrefix -> Page No. 
+---------
+quote -> If you only reread what you’re trying to know, you’re passively seeing and perceiving the information again and again, but you’re never retrieving
+timestamp -> Wednesday, September 14, 2022 8:09:59 PM
+location -> 44
+locationPrefix -> Page No. 
+---------
+quote -> If you only reread what you’re trying to know, you’re passively seeing and perceiving the information again and again, but you’re never retrieving
+timestamp -> Wednesday, September 14, 2022 8:10:02 PM
+location -> 44
+locationPrefix -> Page No. 
+---------
+quote -> Repeated testing beats repeated studying.
+timestamp -> Wednesday, September 14, 2022 8:10:09 PM
+location -> 44
+locationPrefix -> Page No. 
+---------
+quote -> Your brain isn’t interested in knowing what’s boring or unimportant. If you want to know more stuff, make the information meaningful to you.
+timestamp -> Wednesday, September 14, 2022 8:13:10 PM
+location -> 46
+locationPrefix -> Page No. 
+---------
+quote -> your brain has evolved to be able to picture and remember where things are.
+timestamp -> Wednesday, September 14, 2022 8:16:12 PM
+location -> 48
+locationPrefix -> Page No. 
+---------
+quote -> encoded way, and as a result, they’ll be more difficult to recall. The
+timestamp -> Wednesday, September 14, 2022 8:18:07 PM
+location -> 49
+locationPrefix -> Page No. 
+---------
+quote -> Regular use of these tools—repetition, spaced learning, self-testing, meaning, and visual and spatial imagery—will no doubt strengthen your semantic memory.
+timestamp -> Wednesday, September 14, 2022 8:18:21 PM
+location -> 49
+locationPrefix -> Page No. 
+---------
+quote -> While our brains are terrible at remembering what is boring and familiar, they’re phenomenal at remembering what is meaningful, what is emotional, and what surprises
+timestamp -> Thursday, September 15, 2022 1:31:59 PM
+location -> 51
+locationPrefix -> Page No. 
+---------
+quote -> While our brains are terrible at remembering what is boring and familiar, they’re phenomenal at remembering what is meaningful, what is emotional, and what surprises us.
+timestamp -> Thursday, September 15, 2022 1:32:02 PM
+location -> 51
+locationPrefix -> Page No. 
+---------
+quote -> habituation—we learn to ignore what is familiar and of no consequence.
+timestamp -> Thursday, September 15, 2022 1:33:41 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> teeth this morning has to do with habituation—we learn to ignore what is familiar and of no consequence.
+timestamp -> Thursday, September 15, 2022 1:33:44 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> habituation—we learn to ignore what is familiar and of no consequence.
+timestamp -> Thursday, September 15, 2022 1:33:51 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> habituation—we learn to ignore what is familiar and of no consequence.
+timestamp -> Thursday, September 15, 2022 1:34:04 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> regularly, it is likely to be forgotten. Part of the reason I won’t remember the experience of brushing my teeth
+timestamp -> Thursday, September 15, 2022 1:34:25 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> habituation—we learn to ignore what is familiar and of no consequence.
+timestamp -> Thursday, September 15, 2022 1:34:28 PM
+location -> 52
+locationPrefix -> Page No. 
+---------
+quote -> If you experience something highly unexpected and exceptionally emotional,
+timestamp -> Thursday, September 15, 2022 1:37:51 PM
+location -> 53
+locationPrefix -> Page No. 
+---------
+quote -> If you experience something highly unexpected and exceptionally emotional, you might create what is known as a flashbulb memory.
+timestamp -> Thursday, September 15, 2022 1:37:55 PM
+location -> 53
+locationPrefix -> Page No. 
+---------
+quote -> Flashbulbs are episodic memories for experiences that were shocking and highly significant to you and evoked big emotions—fear, rage, grief, joy, love.
+timestamp -> Thursday, September 15, 2022 1:38:32 PM
+location -> 54
+locationPrefix -> Page No. 
+---------
+quote -> your most meaningful episodic memories create your life story and are collectively called your autobiographical memory.
+timestamp -> Thursday, September 15, 2022 1:40:37 PM
+location -> 55
+locationPrefix -> Page No. 
+---------
+quote -> Emotional experiences are better remembered than neutral ones. If you want a stronger memory for the stuff that happens, get in touch with your feelings.
+timestamp -> Thursday, September 15, 2022 1:57:41 PM
+location -> 61
+locationPrefix -> Page No. 
+---------
+quote -> Our opinions and emotional state today color what we remember from what happened last year. And so, in revisiting episodic memories, we often reshape them.
+timestamp -> Friday, September 16, 2022 10:29:02 PM
+location -> 64
+locationPrefix -> Page No. 
+---------
+quote -> our brains can be duped into believing they remember something we never even experienced in the first place.
+timestamp -> Saturday, September 17, 2022 6:10:01 AM
+location -> 65
+locationPrefix -> Page No. 
+---------
+quote -> Since it’s quite easy to manipulate episodic memory with
+timestamp -> Saturday, September 17, 2022 6:12:25 AM
+location -> 68
+locationPrefix -> Page No. 
+---------
+quote -> Writing something down allows you to rehearse and therefore strengthen the memory for the details you choose to write about, but this action can also unwittingly prevent you from rehearsing, and therefore later remembering, any details you didn’t include.
+timestamp -> Saturday, September 17, 2022 6:14:02 AM
+location -> 69
+locationPrefix -> Page No. 
+---------
+quote -> Putting any sensory experience into words distorts and narrows the original memory of the experience.
+timestamp -> Saturday, September 17, 2022 6:14:08 AM
+location -> 69
+locationPrefix -> Page No. 
+---------
+quote -> This common kind of memory error is called a confabulation.
+timestamp -> Saturday, September 17, 2022 6:16:20 AM
+location -> 70
+locationPrefix -> Page No. 
+---------
+quote -> with every recall, our memories for what happened can shrink, expand, and morph in all kinds of interesting and often inaccurate ways, deviating significantly from the original unspoken memory first created in our brains.
+timestamp -> Saturday, September 17, 2022 6:16:38 AM
+location -> 70
+locationPrefix -> Page No. 
+---------
+quote -> One of the most common experiences of memory failure is known as blocking or tip of the tongue
+timestamp -> Saturday, September 17, 2022 11:02:16 AM
+location -> 76
+locationPrefix -> Page No. 
+---------
+quote -> TOTs are a normal glitch in memory retrieval, a by-product of how our brains are organized.
+timestamp -> Saturday, September 17, 2022 11:08:56 AM
+location -> 80
+locationPrefix -> Page No. 
+---------
+quote -> This phenomenon is known as the Baker/baker paradox. Even if you don’t know anyone who is a baker, baking as a profession is probably connected to many associations, synapses, and neural circuits in your brain. When you are told that the guy in the photograph is a baker,
+timestamp -> Sunday, September 18, 2022 1:31:48 PM
+location -> 81
+locationPrefix -> Page No. 
+---------
+quote -> This phenomenon is known as the Baker/baker paradox. Even if you don’t know anyone who is a baker, baking as a profession is probably connected to many associations, synapses, and neural circuits in your brain. When you are told that the guy in the photograph is a baker, you might visualize him wearing a white hat and an apron.
+timestamp -> Sunday, September 18, 2022 1:31:52 PM
+location -> 81
+locationPrefix -> Page No. 
+---------
+quote -> Neurologically, recognition is always easier than recall.
+timestamp -> Sunday, September 18, 2022 1:35:46 PM
+location -> 84
+locationPrefix -> Page No. 
+---------
+quote -> Prospective memory is your memory for what you need to do later.
+timestamp -> Sunday, September 18, 2022 1:36:36 PM
+location -> 85
+locationPrefix -> Page No. 
+---------
+quote -> Without the right cue or cues in place at the right time, and without your attention available to notice those cues, you will forget what you’re supposed to remember. Prospective memory
+timestamp -> Sunday, September 18, 2022 6:17:23 PM
+location -> 89
+locationPrefix -> Page No. 
+---------
+quote -> Without the right cue or cues in place at the right time, and without your attention available to notice those
+timestamp -> Sunday, September 18, 2022 6:17:26 PM
+location -> 89
+locationPrefix -> Page No. 
+---------
+quote -> Without the right cue or cues in place at the right time, and without your attention available to notice those cues, you will forget what you’re supposed to remember.
+timestamp -> Sunday, September 18, 2022 6:17:36 PM
+location -> 89
+locationPrefix -> Page No. 
+---------
+quote -> The number one archenemy of the memories you’ve created and stored is time.
+timestamp -> Sunday, September 25, 2022 10:35:21 PM
+location -> 93
+locationPrefix -> Page No. 
+---------
+quote -> If you don’t revisit the memory, if it just sits on your brain’s cortical shelf like an old trophy collecting dust, that memory will erode with the passage of time.
+timestamp -> Sunday, September 25, 2022 10:38:01 PM
+location -> 93
+locationPrefix -> Page No. 
+---------
+quote -> conclusion—memory is transient. It eventually fades.
+timestamp -> Sunday, September 25, 2022 10:38:55 PM
+location -> 94
+locationPrefix -> Page No. 
+---------
+quote -> His big conclusion—memory is transient. It eventually fades.
+timestamp -> Sunday, September 25, 2022 10:39:12 PM
+location -> 94
+locationPrefix -> Page No. 
+---------
+quote -> If dormant for too long, neurons will literally retract their anatomical, electrochemical connections with other neurons. The connections, and consequently the memory
+timestamp -> Friday, September 30, 2022 9:42:49 PM
+location -> 95
+locationPrefix -> Page No. 
+---------
+quote -> If dormant for too long, neurons will literally retract their anatomical, electrochemical connections with other neurons. The connections, and consequently the
+timestamp -> Friday, September 30, 2022 9:42:52 PM
+location -> 95
+locationPrefix -> Page No. 
+---------
+quote -> If dormant for too long, neurons will literally retract their anatomical, electrochemical connections with other neurons. The connections, and consequently the memory contained in those connections, will no longer exist.
+timestamp -> Friday, September 30, 2022 9:43:01 PM
+location -> 95
+locationPrefix -> Page No. 
+---------
+quote -> Whether a memory ultimately fades, either to some degree or entirely, is influenced by what you do with the information once it is housed in your brain. There are two main ways to resist the effects of time on memory:
+timestamp -> Saturday, October 1, 2022 3:24:37 PM
+location -> 96
+locationPrefix -> Page No. 
+---------
+quote -> Whether a memory ultimately fades, either to some degree or entirely, is influenced by what you do with the information once it is housed in your brain.
+timestamp -> Saturday, October 1, 2022 3:24:41 PM
+location -> 96
+locationPrefix -> Page No. 
+---------
+quote -> There are two main ways to resist the effects of time on memory: repetition and meaning.
+timestamp -> Saturday, October 1, 2022 3:24:46 PM
+location -> 96
+locationPrefix -> Page No. 
+---------
+quote -> If you can find the discipline to leave those memories alone, they will eventually fade.
+timestamp -> Saturday, October 1, 2022 3:25:41 PM
+location -> 97
+locationPrefix -> Page No. 
+---------
+quote -> Forgetting at any age is a normal part of human memory. We forget because we didn’t pay attention, because we don’t have the right cues or context, because what happened was routine or inconsequential, because we never practiced, because we didn’t get enough sleep or are too stressed out, or because too much time has passed.
+timestamp -> Saturday, October 1, 2022 10:41:25 PM
+location -> 105
+locationPrefix -> Page No. 
+---------
+quote -> If you eat a daily diet of doughnuts, only go for a run if someone is chasing you, regularly sacrifice sleep by binge-watching entire seasons of the latest show on Netflix until 3 A.M., and are chronically stressed, you’ll most definitely accelerate the aging of your memory. Alternatively,
+timestamp -> Wednesday, October 5, 2022 4:56:59 PM
+location -> 109
+locationPrefix -> Page No. 
+---------
+quote -> If you eat a daily diet of doughnuts, only go for a run if someone is chasing you, regularly sacrifice sleep by binge-watching entire seasons of the latest show on Netflix until 3 A.M., and are chronically stressed, you’ll most definitely accelerate the aging of your memory.
+timestamp -> Wednesday, October 5, 2022 4:57:02 PM
+location -> 109
+locationPrefix -> Page No. 
+---------
+quote -> Although aging happens and is an unavoidable part of being human if you’re alive, and many of memory’s functions naturally diminish with age, your overall experience doesn’t have to be one of memory decline.
+timestamp -> Wednesday, October 5, 2022 4:58:59 PM
+location -> 110
+locationPrefix -> Page No. 
+---------
+quote -> Using the strategies and insights you’ve read about in this book—paying attention, decreasing distractors, rehearsing, self-testing, creating meaning, using visual and spatial imagery,
+timestamp -> Wednesday, October 5, 2022 4:59:08 PM
+location -> 111
+locationPrefix -> Page No. 
+---------
+quote -> Using the strategies and insights you’ve read about in this book—paying attention, decreasing distractors, rehearsing, self-testing, creating meaning, using visual and spatial imagery, keeping a diary—will improve memory at any
+timestamp -> Wednesday, October 5, 2022 4:59:12 PM
+location -> 111
+locationPrefix -> Page No. 
+---------
+quote -> Using the strategies and insights you’ve read about in this book—paying attention, decreasing distractors, rehearsing, self-testing, creating meaning, using visual and spatial imagery, keeping a diary—will improve memory at any age.
+timestamp -> Wednesday, October 5, 2022 4:59:18 PM
+location -> 111
+locationPrefix -> Page No. 
+---------
+quote -> Recall was significantly better when the test conditions matched the learning conditions.
+timestamp -> Wednesday, October 5, 2022 5:27:11 PM
+location -> 121
+locationPrefix -> Page No. 
+---------
+quote -> We’re all more likely to accurately remember something if learning and recall happen under the same conditions.
+timestamp -> Wednesday, October 5, 2022 5:27:16 PM
+location -> 120
+locationPrefix -> Page No. 
+---------
+quote -> the conditions you were in when you learned the information improves recall. Mismatched conditions impair recall.
+timestamp -> Wednesday, October 5, 2022 5:27:32 PM
+location -> 121
+locationPrefix -> Page No. 
+---------
+quote -> the same state as you were when you learned it. Similarly,
+timestamp -> Friday, October 7, 2022 2:19:05 PM
+location -> 122
+locationPrefix -> Page No. 
+---------
+quote -> if you learn something when you’re caffeinated, then your memory for what you learned will
+timestamp -> Friday, October 7, 2022 2:19:11 PM
+location -> 122
+locationPrefix -> Page No. 
+---------
+quote -> if you learn something when you’re caffeinated, then your memory for what you learned will be best if you’re caffeinated when trying to recall it. Why would this
+timestamp -> Friday, October 7, 2022 2:19:15 PM
+location -> 122
+locationPrefix -> Page No. 
+---------
+quote -> if you learn something when you’re caffeinated, then your memory for what you learned will be best if you’re caffeinated when trying to recall it.
+timestamp -> Friday, October 7, 2022 2:19:25 PM
+location -> 122
+locationPrefix -> Page No. 
+---------
+quote -> The context—both external and internal—becomes part of the memory, and activation of any part of the memory can serve to trigger retrieval of the other parts.
+timestamp -> Friday, October 7, 2022 2:26:54 PM
+location -> 122
+locationPrefix -> Page No. 
+---------
+quote -> Plenty of scientific evidence demonstrates that relentless, unmanaged
+timestamp -> Friday, October 7, 2022 7:28:05 PM
+location -> 124
+locationPrefix -> Page No. 
+---------
+quote -> Plenty of scientific evidence demonstrates that relentless, unmanaged
+timestamp -> Friday, October 7, 2022 7:28:08 PM
+location -> 124
+locationPrefix -> Page No. 
+---------
+quote -> relentless, unmanaged stress is toxic for your body and brain.
+timestamp -> Friday, October 7, 2022 7:28:11 PM
+location -> 124
+locationPrefix -> Page No. 
+---------
+quote -> Adrenaline is a fast-acting, short-lived emergency alarm, mobilizing your brain and body to act right now.
+timestamp -> Friday, October 7, 2022 7:30:24 PM
+location -> 125
+locationPrefix -> Page No. 
+---------
+quote -> The two workhorse stress hormones released by your adrenal glands are adrenaline and cortisol.
+timestamp -> Friday, October 7, 2022 7:30:30 PM
+location -> 125
+locationPrefix -> Page No. 
+---------
+quote -> stress doesn’t enhance the formation of memories unrelated to the stressor.
+timestamp -> Friday, October 7, 2022 7:34:43 PM
+location -> 127
+locationPrefix -> Page No. 
+---------
+quote -> acute stress will help you consolidate the information you’re trying to learn.
+timestamp -> Friday, October 7, 2022 7:34:59 PM
+location -> 127
+locationPrefix -> Page No. 
+---------
+quote -> Too little stress about the physics exam, and you won’t have enough activation of your amygdala to enhance memory consolidation in your hippocampus.
+timestamp -> Friday, October 7, 2022 7:35:17 PM
+location -> 127
+locationPrefix -> Page No. 
+---------
+quote -> Too much stress, and you’re in an overwhelmed state, unable to pay attention to, or process, much of anything.
+timestamp -> Friday, October 7, 2022 7:35:20 PM
+location -> 127
+locationPrefix -> Page No. 
+---------
+quote -> temporary, moderate stress improves memory formation, though it can impair
+timestamp -> Friday, October 7, 2022 7:36:26 PM
+location -> 128
+locationPrefix -> Page No. 
+---------
+quote -> temporary, moderate stress improves memory formation, though it can impair recall.
+timestamp -> Friday, October 7, 2022 7:36:29 PM
+location -> 128
+locationPrefix -> Page No. 
+---------
+quote -> unrelenting stress is disastrous for your memory.
+timestamp -> Friday, October 7, 2022 7:36:41 PM
+location -> 128
+locationPrefix -> Page No. 
+---------
+quote -> chronic stress ever good for your memory? No. In fact, unrelenting stress is disastrous for your memory.
+timestamp -> Friday, October 7, 2022 7:36:44 PM
+location -> 128
+locationPrefix -> Page No. 
+---------
+quote -> Neurogenesis (the growth of new neurons) occurs throughout life in many parts of your brain and most notably in your hippocampus…unless your hippocampus is constantly soaking in a cortisol bath.
+timestamp -> Friday, October 7, 2022 7:38:22 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> Chronic stress inhibits neurogenesis in the hippocampus. So if you’re experiencing unrelenting, unmanaged stress, you’ll have a smaller hippocampus, which means fewer neurons available to consolidate memories, which means your ability to create new memories will be impaired.
+timestamp -> Friday, October 7, 2022 7:38:42 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> So if you’re experiencing unrelenting, unmanaged stress, you’ll have a smaller hippocampus, which means fewer neurons available to consolidate memories, which means your ability to create new memories will be impaired.
+timestamp -> Friday, October 7, 2022 7:38:47 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> stressed out? While we can’t necessarily free ourselves from the stress in our lives, we can dramatically influence our brain’s and body’s response to each stressful situation we find ourselves in.
+timestamp -> Friday, October 7, 2022 7:40:33 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> While we can’t necessarily free ourselves from the stress in our lives, we can dramatically influence our brain’s and body’s response to each stressful situation we find ourselves in.
+timestamp -> Friday, October 7, 2022 7:40:36 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> Through yoga, meditation, a healthy diet, exercise, and practices in mindfulness, gratitude, and compassion, we can train ourselves to become less reactive, to put the brakes on the runaway stress response, to stay healthy in the face of toxic anxiety.
+timestamp -> Friday, October 7, 2022 7:40:43 PM
+location -> 129
+locationPrefix -> Page No. 
+---------
+quote -> Forgetting happens. If you stress about it, it will happen even more.
+timestamp -> Friday, October 7, 2022 7:41:59 PM
+location -> 130
+locationPrefix -> Page No. 
+---------
+quote -> Sleep is not an optional state of doing nothing. It’s not a passive, blank slate state of unconsciousness, a pathetic period of rest for the unmotivated,
+timestamp -> Friday, October 7, 2022 7:43:03 PM
+location -> 131
+locationPrefix -> Page No. 
+---------
+quote -> Sleep is not an optional state of doing nothing. It’s not a passive, blank slate state of unconsciousness, a pathetic period of rest for the unmotivated, an unfortunate waste of time, or even simply the absence of wakefulness.
+timestamp -> Friday, October 7, 2022 7:43:09 PM
+location -> 131
+locationPrefix -> Page No. 
+---------
+quote -> Sleep is a biologically busy state that is vital to your health, your survival, and your optimal functioning.
+timestamp -> Friday, October 7, 2022 7:43:15 PM
+location -> 131
+locationPrefix -> Page No. 
+---------
+quote -> you need sleep to pay attention.
+timestamp -> Friday, October 7, 2022 7:43:30 PM
+location -> 131
+locationPrefix -> Page No. 
+---------
+quote -> attention-boosting is probably the least impressive of sleep’s powerful effects on memory. Sleeping also hits the SAVE button on these newly encoded memories.
+timestamp -> Saturday, October 8, 2022 7:29:17 AM
+location -> 132
+locationPrefix -> Page No. 
+---------
+quote -> Deep sleep is like a power cleanse for your brain.
+timestamp -> Saturday, October 8, 2022 7:35:52 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> A single night of sleep deprivation can lead to an increase in amyloid and tau (another predictive biomarker for Alzheimer’s) in cerebral spinal fluid. If
+timestamp -> Saturday, October 8, 2022 7:37:11 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> A single night of sleep deprivation can lead to an increase in amyloid and tau (another predictive
+timestamp -> Saturday, October 8, 2022 7:37:15 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> A single night of sleep deprivation can lead to an increase in amyloid and tau (another predictive biomarker for Alzheimer’s) in cerebral spinal fluid.
+timestamp -> Saturday, October 8, 2022 7:37:20 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> point—closer and closer to a diagnosis of Alzheimer’s. And amyloid accumulation has been shown to disrupt sleep, which will in turn cause more
+timestamp -> Saturday, October 8, 2022 7:37:35 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> amyloid accumulation has been shown to disrupt sleep, which will in turn cause more amyloid to accumulate, and now you’re stuck in a dizzying feedback loop that accelerates plaque formation.
+timestamp -> Saturday, October 8, 2022 7:37:42 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> Insufficient sleep is likely to be a significant risk factor in the development of Alzheimer’s.
+timestamp -> Saturday, October 8, 2022 7:37:51 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> Sleeping less than seven to nine hours a night poses a real risk to your health, both the next day and over a lifetime.
+timestamp -> Saturday, October 8, 2022 7:38:29 AM
+location -> 135
+locationPrefix -> Page No. 
+---------
+quote -> if you don’t get seven to nine hours of sleep tonight, Your frontal cortex neurons will be sluggish tomorrow, hampering your ability to pay attention and therefore to encode important new memories; You won’t as clearly and completely remember what you learned and experienced yesterday; You’ll see no improvement in your golf swing, despite yesterday’s lesson and eighteen holes; You might prematurely max out on what you can learn today; and You might be increasing your risk of developing Alzheimer’s.
+timestamp -> Saturday, October 8, 2022 7:39:30 AM
+location -> 136
+locationPrefix -> Page No. 
+---------
+quote -> drinking alcohol of any kind is likely to increase your risk of Alzheimer’s by interfering with the quality and quantity of your sleep.
+timestamp -> Saturday, October 8, 2022 7:42:03 AM
+location -> 138
+locationPrefix -> Page No. 
+---------
+quote -> we need more studies to further our understanding, but as of now, you can add coffee to your Alzheimer’s prevention kit.
+timestamp -> Saturday, October 8, 2022 7:43:19 AM
+location -> 139
+locationPrefix -> Page No. 
+---------
+quote -> Chronic sleep deprivation is a significant risk factor for Alzheimer’s.
+timestamp -> Saturday, October 8, 2022 7:44:48 AM
+location -> 140
+locationPrefix -> Page No. 
+---------
+quote -> and encouraging—because I can do something about it now. If you don’t yet have Alzheimer’s, that means that your amyloid plaque levels haven’t reached the tipping point. However sleep-deprived you’ve already been in your life is water under the bridge.
+timestamp -> Saturday, October 8, 2022 7:45:09 AM
+location -> 140
+locationPrefix -> Page No. 
+---------
+quote -> The more you sit, the smaller your hippocampus. Smaller brains tend not to remember as well as bigger brains do.
+timestamp -> Saturday, October 8, 2022 7:46:30 AM
+location -> 141
+locationPrefix -> Page No. 
+---------
+quote -> People who have more years of formal education, who have greater literacy, and who engage regularly in socially and mentally stimulating activities have more cognitive reserve.
+timestamp -> Saturday, October 8, 2022 7:47:51 AM
+location -> 141
+locationPrefix -> Page No. 
+---------
+quote -> Building an Alzheimer’s-resistant brain through cognitive stimulation means learning to play piano, meeting new friends, traveling to a new city, or reading this book. You’re welcome. And if, despite all this, you are someday diagnosed with
+timestamp -> Saturday, October 8, 2022 7:49:55 AM
+location -> 142
+locationPrefix -> Page No. 
+---------
+quote -> Building an Alzheimer’s-resistant brain through cognitive stimulation means learning to play piano, meeting new friends, traveling to a new city, or reading this book. You’re welcome.
+timestamp -> Saturday, October 8, 2022 7:50:00 AM
+location -> 142
+locationPrefix -> Page No. 
+---------
+quote -> memory is an astounding superpower. But remember, memory can also be that flaky friend who never shows up for your coffee date or that wide-eyed preschooler at Disney World willing to believe anything.
+timestamp -> Saturday, October 8, 2022 7:50:57 AM
+location -> 143
+locationPrefix -> Page No. 
+---------
+quote -> Memory is everything and nothing. If that statement feels too extreme, try on this gentler version: Memory is a really big deal, and it’s not such a big deal. Maybe we can take it seriously but hold it lightly.
+timestamp -> Saturday, October 8, 2022 7:51:49 AM
+location -> 143
+locationPrefix -> Page No. 
+---------
+quote -> To help make a memory unforgettable, use creative visual imagery. Visualize, but go beyond the obvious. Attach bizarre, surprising, disgusting, sexy, vivid, funny, physically impossible, interactive elements to what you’re trying to remember, and it will stick.
+timestamp -> Saturday, October 8, 2022 8:28:23 AM
+location -> 147
+locationPrefix -> Page No. 
+---------
+quote -> strengthens the formation and retrieval of memories. When it comes to memory, whenever possible, make it about you.
+timestamp -> Sunday, October 9, 2022 7:16:19 AM
+location -> 150
+locationPrefix -> Page No. 
+---------
+quote -> When it comes to memory, whenever possible, make it about you.
+timestamp -> Sunday, October 9, 2022 7:16:22 AM
+location -> 150
+locationPrefix -> Page No. 
+---------
+quote -> Like people, your memory will function better if it has high self-esteem.
+timestamp -> Sunday, October 9, 2022 7:20:45 AM
+location -> 152
+locationPrefix -> Page No. 
+---------
+quote -> You need seven to nine hours of nightly slumber to optimally consolidate the new memories you created today.
+timestamp -> Sunday, October 9, 2022 7:25:29 AM
+location -> 154
+locationPrefix -> Page No. 
+---------
+------------------------------------------------------------------------------------------------------------------
