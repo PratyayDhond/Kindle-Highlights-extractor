@@ -49,8 +49,6 @@ def download():
     os.system(f'zip "Highlights.zip" highlights/*')
     os.system(f'mv Highlights.zip "Static/"')
 
-    yield send_file('Static/Highlights.zip', as_attachment=True)
-    
     print('Removing Uploads...')
     os.system('rm -r Uploads')
     print('Uploads Removed successfully...')
@@ -67,6 +65,8 @@ def download():
     os.system('rm tempFile.md')
     print('Removed MD File successfully...')
 
-    return
+
+    return send_file('Static/Highlights.zip', as_attachment=True)
+    
     # return send_from_directory(directory= 'Static' ,path='Static/Highlights.zip',filename='Highlights.zip')
     # return render_template('fileSubmitted.html',file=f.filename)
