@@ -24,6 +24,9 @@ class Book:
             'location': location,
             'locationPrefix': locationPrefix
         }
+        for a in self.quotes:
+            if(a['quote'] == quote['quote']):
+                return
         self.quotes.append(quote)
         return
 # Stores the quotes for all the books
@@ -124,6 +127,7 @@ def scrapeData(inputFile):
         else:
             book.addQuote(quote,timestamp,location,locationPrefix)
     # outputToTxt()
+
     return books    
 
 def readData(rawFile):

@@ -12,9 +12,7 @@ app.config['SECRET_KEY'] = "asfasfagas"
 def home():
     return render_template('home.html', name='Pratyay')
 
-def cleanFiles(ms):
-    sleep(ms)
-    
+def cleanFiles():
     print('Removing highlights...')
     os.system('rm -r highlights')
     print('Highlights Removed successfully...')
@@ -29,7 +27,9 @@ def cleanFiles(ms):
     print('Removed Output successfully...')
 
     print('Removing MD file...')
+    os.system('mv README.md readme.md1')
     os.system('rm *.md')
+    os.system('mv readme.md1 README.md')
     print('Removed MD File successfully...') 
 
 @app.route('/download', methods=['GET','POST'])
@@ -71,6 +71,6 @@ def download():
     os.system(f'zip "Highlights.zip" highlights/*')
     os.system(f'mv Highlights.zip "Static/"')
 
-    cleanFiles(0)
+    cleanFiles()
     return send_file('Static/Highlights.zip', as_attachment=True)
     
