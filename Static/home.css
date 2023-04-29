@@ -12,10 +12,6 @@ h1{
     text-align: center;
 }
 
-.home{
-    /* background-color: black     ; */
-}
-
 .homeImage{
     /* background-color: yellow; */
     background-color: transparent;
@@ -24,9 +20,6 @@ h1{
 
 .img-fluid{
     width: fit-content;
-}
-
-.formDiv{
 }
 
 .formBox{
@@ -73,7 +66,7 @@ h1{
 
     .formBorder{
         padding-top: 10vh;
-        padding-bottom: 10vh;
+        padding-bottom: 5vh;
     }
 
 }
@@ -103,7 +96,7 @@ h1{
 
     .formBorder{
         padding-top: 10vh;
-        padding-bottom: 10vh;
+        padding-bottom: 5vh;
     }
 
     body{
