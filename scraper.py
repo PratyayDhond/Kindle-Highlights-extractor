@@ -29,9 +29,14 @@ class Book:
                 return
         self.quotes.append(quote)
         return
+    
+    def display(self):
+        print(f'{self.bookName}', end=' ')
+        print(f'{self.author}')
+        print(f'{self.quotes}', end=' ')
 # Stores the quotes for all the books
 books = []
-
+recentBook = [];
 def bookExist(book):
     for a in books:
         if book.rstrip() == a.getTitle().rstrip():
@@ -64,6 +69,7 @@ def scrapeData(inputFile):
     timestamp=''
     location=''
     i = 0
+    
     while i < len(rawData):
         quote = ''
         author = ''
@@ -127,6 +133,7 @@ def scrapeData(inputFile):
         else:
             book.addQuote(quote,timestamp,location,locationPrefix)
     # outputToTxt()
+    
 
     return books    
 
