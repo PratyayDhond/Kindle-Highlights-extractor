@@ -11,5 +11,5 @@ Pre-requisites
 
 
 New Issue ideas:
--[] Add edge cases checking for incorrect input file submitted
--[] Add dark theme to the UI
+- [ ] Add edge cases checking for incorrect input file submitted
+- [ ] Add dark theme to the UI
