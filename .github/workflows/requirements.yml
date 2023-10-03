@@ -1,0 +1,26 @@
+name: Generate requirements.txt
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+jobs:
+  generate-requirements:
+    name: Generate requirements.txt
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git User
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Prepare Pipenv
+        run: pip install pipenv
+      - name: Generate requirements.txt
+        run: pipenv requirements > requirements.txt
+      - name: Commit requirements.txt
+        run: |
+          git add .
+          git commit -m "Generated requirements.txt"
+          git push
