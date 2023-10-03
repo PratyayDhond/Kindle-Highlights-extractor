@@ -5,7 +5,7 @@ jobs:
     name: Python Black
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Python Black
         uses: cytopia/docker-black@0.8
         with:
