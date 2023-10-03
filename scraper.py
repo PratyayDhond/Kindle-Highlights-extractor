@@ -1,42 +1,49 @@
 import os
 
-endOfHighlight = '=========='
+endOfHighlight = "=========="
+
 
 class Book:
-    def __init__(self,author,bookName):
+    def __init__(self, author, bookName):
         self.author = author
         self.bookName = bookName
-        self.quotes = [] # A list of Dictionaries -> Quote, Quote Time, Quote Location, location prefix
-    
+        self.quotes = (
+            []
+        )  # A list of Dictionaries -> Quote, Quote Time, Quote Location, location prefix
+
     def getAuthor(self):
         return self.author
-    
+
     def getTitle(self):
         return self.bookName
-    
+
     def getQuotes(self):
         return self.quotes
-    
-    def addQuote(self,quote,timestamp,location, locationPrefix):
+
+    def addQuote(self, quote, timestamp, location, locationPrefix):
         quote = {
-            'quote': quote,
-            'timestamp': timestamp,
-            'location': location,
-            'locationPrefix': locationPrefix
+            "quote": quote,
+            "timestamp": timestamp,
+            "location": location,
+            "locationPrefix": locationPrefix,
         }
         for a in self.quotes:
-            if(a['quote'] == quote['quote']):
+            if a["quote"] == quote["quote"]:
                 return
         self.quotes.append(quote)
         return
-    
+
     def display(self):
-        print(f'{self.bookName}', end=' ')
-        print(f'{self.author}')
-        print(f'{self.quotes}', end=' ')
+        print(f"{self.bookName}", end=" ")
+        print(f"{self.author}")
+        print(f"{self.quotes}", end=" ")
+
+
 # Stores the quotes for all the books
 books = []
-recentBook = [];
+recentBook = []
+
+
 def bookExist(book):
     for a in books:
         if book.rstrip() == a.getTitle().rstrip():
@@ -44,104 +51,114 @@ def bookExist(book):
     else:
         return -1
 
-# Testing Feature, used to create files for different books    
+
+# Testing Feature, used to create files for different books
 def outputToTxt():
-    if os.path.exists('output') == False:
-        os.system('mkdir output')
+    if os.path.exists("output") == False:
+        os.system("mkdir output")
     for a in books:
-        with open(f'output/{a.getTitle()}.txt','w') as highlights:
-            #print(a.getTitle()) 
-            highlights.write(f'Author : {a.getAuthor()}\n')
-            highlights.write(f'Title  : {a.getTitle()}\n')
-            highlights.write('\n\n')
-            highlights.write('------------------------------------------------------------------------------------------------------------------\n');
+        with open(f"output/{a.getTitle()}.txt", "w") as highlights:
+            # print(a.getTitle())
+            highlights.write(f"Author : {a.getAuthor()}\n")
+            highlights.write(f"Title  : {a.getTitle()}\n")
+            highlights.write("\n\n")
+            highlights.write(
+                "------------------------------------------------------------------------------------------------------------------\n"
+            )
             for q in a.getQuotes():
                 for k in q.keys():
-                    highlights.write(k + ' -> ' + q[k] + '\n')
-                highlights.write('---------\n');  
-            highlights.write('------------------------------------------------------------------------------------------------------------------');
+                    highlights.write(k + " -> " + q[k] + "\n")
+                highlights.write("---------\n")
+            highlights.write(
+                "------------------------------------------------------------------------------------------------------------------"
+            )
+
 
 def scrapeData(inputFile):
     rawData = readData(inputFile)
-    author=''
-    bookName=''
-    quote=''
-    timestamp=''
-    location=''
+    author = ""
+    bookName = ""
+    quote = ""
+    timestamp = ""
+    location = ""
     i = 0
-    
+
     while i < len(rawData):
-        quote = ''
-        author = ''
-        if(i == len(rawData) -1 ):
+        quote = ""
+        author = ""
+        if i == len(rawData) - 1:
             break
 
-        while i < len(rawData) and rawData[i].rstrip() == '' or rawData[i].rstrip() == endOfHighlight:
-           if i < len(rawData) == False:
+        while (
+            i < len(rawData)
+            and rawData[i].rstrip() == ""
+            or rawData[i].rstrip() == endOfHighlight
+        ):
+            if i < len(rawData) == False:
                 break
-           else:
-                i+=1
-     
+            else:
+                i += 1
+
         # Working on accessing the bookname and author name
         BookNameAndAuthor = rawData[i]
         strLen = len(BookNameAndAuthor)
         j = strLen - 1
         # Checking if the book has author information or not | If there is author it would be specified with '* ( _Author Name_) '
-        if BookNameAndAuthor[-2] == ')':
-            while BookNameAndAuthor[j] != '(':
-                j-=1
-            endIndex = len(BookNameAndAuthor)-2
-            author = BookNameAndAuthor[j+1:endIndex].rstrip()
+        if BookNameAndAuthor[-2] == ")":
+            while BookNameAndAuthor[j] != "(":
+                j -= 1
+            endIndex = len(BookNameAndAuthor) - 2
+            author = BookNameAndAuthor[j + 1 : endIndex].rstrip()
         bookName = BookNameAndAuthor[:j].rstrip()
 
-        i+=1
+        i += 1
 
         ## Getting timestamp and location of quote from data
-        contains = rawData[i].find('page')
-        locationPrefix = ''
+        contains = rawData[i].find("page")
+        locationPrefix = ""
         if contains == -1:
-            locationPrefix = 'loc '
+            locationPrefix = "loc "
         else:
-            locationPrefix = 'Page No. '
-        locationEndIndex = rawData[i].find('|') - 1
+            locationPrefix = "Page No. "
+        locationEndIndex = rawData[i].find("|") - 1
 
-        locationStartIndex = locationEndIndex-1
+        locationStartIndex = locationEndIndex - 1
         try:
-            while i < len(rawData) and rawData[i][locationStartIndex] != ' ':
+            while i < len(rawData) and rawData[i][locationStartIndex] != " ":
                 locationStartIndex -= 1
-            locationStartIndex+=1
+            locationStartIndex += 1
         except:
             pass
-        timestampStartIndex = rawData[i].find   ('| Added on') + 9
+        timestampStartIndex = rawData[i].find("| Added on") + 9
 
         location = rawData[i][locationStartIndex:locationEndIndex].rstrip()
-        timestamp = rawData[i][timestampStartIndex+2:].rstrip()
+        timestamp = rawData[i][timestampStartIndex + 2 :].rstrip()
 
-        i+=2
+        i += 2
         ## Getting Quote from the data
         while i < len(rawData) and rawData[i].rstrip() != endOfHighlight:
-            quote += rawData[i].rstrip() + '\n' 
-            i+=1
+            quote += rawData[i].rstrip() + "\n"
+            i += 1
         quote = quote.rstrip()
-        if quote == '': 
+        if quote == "":
             continue
-        book = bookExist(bookName)        
+        book = bookExist(bookName)
         if book == -1:
-            tempBook = Book(author,bookName)
-            tempBook.addQuote(quote,timestamp,location,locationPrefix)
+            tempBook = Book(author, bookName)
+            tempBook.addQuote(quote, timestamp, location, locationPrefix)
             books.append(tempBook)
         else:
-            book.addQuote(quote,timestamp,location,locationPrefix)
+            book.addQuote(quote, timestamp, location, locationPrefix)
     # outputToTxt()
-    
 
-    return books    
+    return books
+
 
 def readData(rawFile):
-    with open(rawFile,'r') as input:
+    with open(rawFile, "r") as input:
         inputList = input.readlines()
         return inputList
 
 
-op = scrapeData('My Clippings.txt')
+op = scrapeData("My Clippings.txt")
 outputToTxt()
