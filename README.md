@@ -16,8 +16,9 @@ Before you get started, ensure you have the following:
 ## Getting Started
 
 1. Create a virtual environment using `pipenv`:
-2. Start the server: ```flask run```
-3. Open your browser and go to `http://localhost:5000` to begin using the extractor! 🌐
+2. Install all requirements ```pip install -r requirements.txt```
+3. Start the server: ```flask run```
+4. Open your browser and go to `http://localhost:5000` to begin using the extractor! 🌐
 
 ## New Issue Ideas
 
