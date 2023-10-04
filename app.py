@@ -177,7 +177,12 @@ def download():
                 recentTime = compareTimings(recentTime, time)
                 if recentTime == time:
                     recentBook = book
-                md.write(f"“{quote['quote']}”\n<br>")
+                if quote['type'] == 'Note':
+                    md.write(f"Note: “{quote['quote']}”\n<br>")
+                elif quote['type'] == 'Highlight':
+                    md.write(f"Highlight: “{quote['quote']}”\n<br>")
+                else:
+                    md.write(f"“{quote['quote']}”\n<br>")
                 md.write(
                     f"<span style='font-size:12px'>{quote['locationPrefix']} _{quote['location']}_ | {quote['timestamp']} </span><br><br>"
                 )
@@ -204,7 +209,12 @@ def download():
         md.write("____\n")
         md.write("<br>\n")
         for quote in recentBook.getQuotes():
-            md.write(f"“{quote['quote']}”\n<br>")
+            if quote['type'] == 'Note':
+                md.write(f"Note: “{quote['quote']}”\n<br>")
+            elif quote['type'] == 'Highlight':
+                md.write(f"Highlight: “{quote['quote']}”\n<br>")
+            else:
+                md.write(f"“{quote['quote']}”\n<br>")
             md.write(
                 f"<span style='font-size:12px'>{quote['locationPrefix']} _{quote['location']}_ | {quote['timestamp']} </span><br><br>"
             )
