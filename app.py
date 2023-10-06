@@ -24,24 +24,22 @@ def remove_path(path: str):
     if os.path.exists(path):
         print(f"Removing {path}...")
         os.remove(path)
-        print(f'{path} removed successfully...')
+        print(f"{path} removed successfully...")
 
 
 def clean_files():
-    remove_path('highlights')
-    remove_path('Uploads')
-    remove_path('output')
-    shutil.move('README.md', 'README.md1')
-    remove_path('*.md')
-    shutil.move('README.md1', 'README.md')
+    remove_path("highlights")
+    remove_path("Uploads")
+    remove_path("output")
+    shutil.move("README.md", "README.md1")
+    remove_path("*.md")
+    shutil.move("README.md1", "README.md")
 
 
 class Time:
     def __init__(self, timestamp):
-        self.__datetime = datetime.strptime(
-            timestamp, "%A, %B %d, %Y %I:%M:%S %p"
-        )
-        self.display()
+        self.__datetime = datetime.strptime(timestamp, "%A, %B %d, %Y %I:%M:%S %p")
+        # self.display()
 
     @property
     def date(self):
@@ -72,7 +70,7 @@ class Time:
         return self.__datetime.strftime("%p")
 
     def display(self):
-        print(self.__datetime.strftime('%d %m %Y %H:%M:%s %p'))
+        print(self.__datetime.strftime("%d %m %Y %H:%M:%s %p"))
 
     @property
     def timestamp(self) -> float:
@@ -87,20 +85,18 @@ def build_book(book, latest_book, recent_time: Time):
     title = book.getTitle()
     content = f"<div style='font-size:36px; text-align:center;'><b>{title}</b></div>\n"
     if book.getAuthor().rstrip() != "":
-        content += (
-            f"<p style='text-align:end;'> \- by _{book.getAuthor()}_<p>\n"
-        )
+        content += f"<p style='text-align:end;'> \- by _{book.getAuthor()}_<p>\n"
     content += "____\n<br>\n"
     for quote in book.getQuotes():
         time = Time(quote["timestamp"])
         recent_time = get_most_recent_quote(recent_time, time)
         if recent_time == time:
             latest_book = book
-        if quote['type'] == 'Note':
+        if quote["type"] == "Note":
             content += f'__Note__: {quote["quote"]}\n<br>'
-        elif quote['type'] == 'Highlight':
+        elif quote["type"] == "Highlight":
             content += f'__Highlight__: \n\n> {quote["quote"]}\n\n<br>'
-        elif quote['type'] == 'Bookmark':
+        elif quote["type"] == "Bookmark":
             content += f'__Bookmark__: {quote["quote"]}\n<br>'
         else:
             content += f'"{quote["quote"]}"\n<br>'
@@ -153,8 +149,8 @@ def download():
     # Copy latest book as the _latest.pdf
     if latest_book:
         shutil.copy(
-            f'highlights/{latest_book.getTitle()}.pdf',
-            'highlights/_latest.pdf',
+            f"highlights/{latest_book.getTitle()}.pdf",
+            "highlights/_latest.pdf",
         )
 
     with zipfile.ZipFile("Highlights.zip", "w") as zip:
