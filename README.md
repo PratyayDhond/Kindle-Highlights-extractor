@@ -17,8 +17,10 @@ Before you get started, ensure you have the following:
 
 1. Create a virtual environment using `pipenv`:
 2. Install all requirements ```pip install -r requirements.txt```
-3. Start the server: ```flask run```
-4. Open your browser and go to `http://localhost:5000` to begin using the extractor! 🌐
+3. Install [Pandoc](https://pandoc.org/installing.html).
+4. Install PDF engine for pandoc, [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html).
+5. Start the server: ```flask run```
+6. Open your browser and go to `http://localhost:5000` to begin using the extractor! 🌐
 
 ## New Issue Ideas
 
