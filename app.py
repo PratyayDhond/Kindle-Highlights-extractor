@@ -178,9 +178,9 @@ def download():
                 if recentTime == time:
                     recentBook = book
                 if quote['type'] == 'Note':
-                    md.write(f"Note: “{quote['quote']}”\n<br>")
+                    md.write(f"___Note___: “{quote['quote']}”\n<br>")
                 elif quote['type'] == 'Highlight':
-                    md.write(f"Highlight: “{quote['quote']}”\n<br>")
+                    md.write(f"___Highlight___:\n\n> “{quote['quote']}”\n\n<br>")
                 else:
                     md.write(f"“{quote['quote']}”\n<br>")
                 md.write(
@@ -188,7 +188,7 @@ def download():
                 )
         if os.path.exists("highlights") == False:
             os.system("mkdir highlights")
-        str = f'md2pdf --o "highlights/{title}.pdf" "{title}.md" '
+        str = f'pandoc --pdf-engine=wkhtmltopdf "{title}.md" -o "highlights/{title}.pdf"'
         t = threading.Thread(target=os.system, args=(str,))
         threads.append(t)
         t.start()
@@ -210,9 +210,9 @@ def download():
         md.write("<br>\n")
         for quote in recentBook.getQuotes():
             if quote['type'] == 'Note':
-                md.write(f"Note: “{quote['quote']}”\n<br>")
+                md.write(f"___Note___: “{quote['quote']}”\n<br>")
             elif quote['type'] == 'Highlight':
-                md.write(f"Highlight: “{quote['quote']}”\n<br>")
+                md.write(f"___Highlight___:\n\n> “{quote['quote']}”\n\n<br>")
             else:
                 md.write(f"“{quote['quote']}”\n<br>")
             md.write(
@@ -220,7 +220,7 @@ def download():
             )
     if os.path.exists("highlights") == False:
         os.system("mkdir highlights")
-    str = f'md2pdf --o "highlights/_latest.pdf" "{title}.md" '
+    str = f'pandoc --pdf-engine=wkhtmltopdf "{title}.md" -o "highlights/{title}.pdf"'
     t = threading.Thread(target=os.system, args=(str,))
     threads.append(t)
     t.start()
