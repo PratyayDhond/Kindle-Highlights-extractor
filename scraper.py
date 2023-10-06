@@ -168,5 +168,5 @@ def readData(rawFile):
         return inputList
 
 
-op = scrapeData("My Clippings.txt")
-outputToTxt()
+# op = scrapeData("My Clippings.txt")
+# outputToTxt()
