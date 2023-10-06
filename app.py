@@ -1,9 +1,15 @@
-from flask import Flask, render_template, request, send_file
-from scraper import *
-from werkzeug.utils import secure_filename
 import os
+import shutil
 import threading
+import zipfile
+from datetime import datetime
 from time import sleep
+from typing import List
+
+from flask import Flask, render_template, request, send_file
+from werkzeug.utils import secure_filename
+
+from scraper import scrapeData
 
 app = Flask(__name__, static_folder="Static/")
 app.config["SECRET_KEY"] = "asfasfagas"
@@ -14,133 +20,100 @@ def home():
     return render_template("home.html", name="Pratyay")
 
 
-def cleanFiles():
-    print("Removing highlights...")
-    os.system("rm -r highlights")
-    print("Highlights Removed successfully...")
+def remove_path(path: str):
+    if os.path.exists(path):
+        print(f"Removing {path}...")
+        os.remove(path)
+        print(f"{path} removed successfully...")
 
-    print("Removing Uploads...")
-    os.system("rm -r Uploads")
-    print("Uploads Removed successfully...")
 
-    print("Removing Output...")
-    os.system("rm -r output")
-    print("Removed Output successfully...")
-
-    print("Removing MD file...")
-    os.system("mv README.md readme.md1")
-    os.system("rm *.md")
-    os.system("mv readme.md1 README.md")
-    print("Removed MD File successfully...")
+def clean_files():
+    remove_path("highlights")
+    remove_path("Uploads")
+    remove_path("output")
+    shutil.move("README.md", "README.md1")
+    remove_path("*.md")
+    shutil.move("README.md1", "README.md")
 
 
 class Time:
     def __init__(self, timestamp):
-        timestampParts = timestamp.split(" ")
-        temp = timestampParts[0].split(",")
-        timestampParts[0] = temp[0]
-        temp = timestampParts[2].split(",")
-        timestampParts[2] = temp[0]
-        # print(timestampParts)
-        temp = timestampParts[4].split(":")
-        # timestampParts[7] = timestampParts[5]
-        timestampParts[4] = temp[0]
-        timestampParts.append(temp[2])
-        timestampParts.append(temp[1])
-        temp = timestampParts[5]
-        timestampParts[5] = timestampParts[7]
-        timestampParts[7] = temp
-        # print(timestampParts)
-        self.year = int(timestampParts[3])
-        self.month = self.getMonth(timestampParts[1])
-        self.date = int(timestampParts[2])
-        self.hour = int(timestampParts[4])
-        self.minute = int(timestampParts[5])
-        self.second = int(timestampParts[6])
-        if timestampParts[7] == "AM":
-            self.postfix = 0
-        else:
-            self.postfix = 1
+        self.__datetime = datetime.strptime(timestamp, "%A, %B %d, %Y %I:%M:%S %p")
         # self.display()
 
-    def getMonth(self, month):
-        if month == "January":
-            return 1
-        if month == "February":
-            return 2
-        if month == "March":
-            return 3
-        if month == "April":
-            return 4
-        if month == "May":
-            return 5
-        if month == "June":
-            return 6
-        if month == "July":
-            return 7
-        if month == "August":
-            return 8
-        if month == "September":
-            return 9
-        if month == "October":
-            return 10
-        if month == "November":
-            return 11
-        if month == "December":
-            return 12
+    @property
+    def date(self):
+        return self.__datetime.day
+
+    @property
+    def month(self):
+        return self.__datetime.month
+
+    @property
+    def year(self):
+        return self.__datetime.year
+
+    @property
+    def hour(self):
+        return self.__datetime.hour
+
+    @property
+    def minute(self):
+        return self.__datetime.minute
+
+    @property
+    def second(self):
+        return self.__datetime.second
+
+    @property
+    def postfix(self):
+        return self.__datetime.strftime("%p")
 
     def display(self):
-        print(f"{self.date}", end=" ")
-        print(f"{self.month}", end=" ")
-        print(f"{self.year}", end=" ")
-        print(f"{self.hour}:{self.minute}:{self.second}", end=" ")
-        print(f"{self.postfix}", end=" ")
+        print(self.__datetime.strftime("%d %m %Y %H:%M:%s %p"))
+
+    @property
+    def timestamp(self) -> float:
+        return self.__datetime.timestamp()
 
 
-def compareTimings(recentQuote, newQuote):
-    # year is different
-    if recentQuote.year > newQuote.year:
-        return recentQuote
-    if recentQuote.year < newQuote.year:
-        return newQuote
+def get_most_recent_quote(last_quote: Time, new_quote: Time):
+    return max(last_quote.timestamp, new_quote.timestamp)
 
-    # year is same
-    if recentQuote.month > newQuote.month:
-        return recentQuote
-    if recentQuote.month < newQuote.month:
-        return newQuote
 
-    # month is same
-    if recentQuote.date > newQuote.date:
-        return recentQuote
-    if recentQuote.date < newQuote.date:
-        return newQuote
+def build_book(book, latest_book, recent_time: Time):
+    title = book.getTitle()
+    content = f"<div style='font-size:36px; text-align:center;'><b>{title}</b></div>\n"
+    if book.getAuthor().rstrip() != "":
+        content += f"<p style='text-align:end;'> \- by _{book.getAuthor()}_<p>\n"
+    content += "____\n<br>\n"
+    for quote in book.getQuotes():
+        time = Time(quote["timestamp"])
+        recent_time = get_most_recent_quote(recent_time, time)
+        if recent_time == time:
+            latest_book = book
+        if quote["type"] == "Note":
+            content += f'__Note__: {quote["quote"]}\n<br>'
+        elif quote["type"] == "Highlight":
+            content += f'__Highlight__: \n\n> {quote["quote"]}\n\n<br>'
+        elif quote["type"] == "Bookmark":
+            content += f'__Bookmark__: {quote["quote"]}\n<br>'
+        else:
+            content += f'"{quote["quote"]}"\n<br>'
+        content += f"<span style='font-size:12px'>{quote['locationPrefix']} _{quote['location']}_ | {quote['timestamp']} </span><br><br>"
+    return content, latest_book
 
-    # date is same
-    if recentQuote.postfix > newQuote.postfix:
-        return recentQuote
-    if recentQuote.postfix < newQuote.postfix:
-        return newQuote
 
-    # postfix is same
-    if recentQuote.hour > newQuote.hour:
-        return recentQuote
-    if recentQuote.hour < newQuote.hour:
-        return newQuote
+def save_book(title: str, content: str) -> str:
+    with open(f"{title}.md", "w") as md:
+        md.write(content)
+        return f"{title}.md"
 
-    # minute is same
-    if recentQuote.minute > newQuote.minute:
-        return recentQuote
-    if recentQuote.minute < newQuote.minute:
-        return newQuote
 
-    # second is same
-    if recentQuote.second > newQuote.second:
-        return recentQuote
-    if recentQuote.second < newQuote.second:
-        return newQuote
-
-    return recentQuote
+def prepare_pdf(title, md_path: str) -> str:
+    if not os.path.exists("highlights"):
+        os.mkdir("highlights")
+    return f'pandoc --pdf-engine=wkhtmltopdf "{md_path}" -o "`highlights/{title}.pdf`"'
 
 
 @app.route("/download", methods=["GET", "POST"])
@@ -149,86 +122,41 @@ def download():
     secure_filename(f.filename)
     print("5% done")
     if os.path.exists("Uploads") == False:
-        os.system("mkdir Uploads")
+        os.mkdir("Uploads")
     f.save("Uploads/MyClippings.txt")
-    recentBook = []
-
-    bookData = []
     threads = []
-    bookData = scrapeData("Uploads/MyClippings.txt")
-    recentTime = Time(bookData[0].quotes[0]["timestamp"])
-    recentBook = bookData[0]
+    book_data = scrapeData("Uploads/MyClippings.txt")
+    latest_time = Time(book_data[0].quotes[0]["timestamp"])
+    latest_book = book_data[0]
+    commands = []
     # recentTime.display()
-    for book in bookData:
+    for book in book_data:
         title = book.getTitle()
-        with open(f"{title}.md", "w") as md:
-            md.write(
-                f"<div style='font-size:36px; text-align:center;'><b>{title}</b></div>\n"
-            )
-            if book.getAuthor().rstrip() == "":
-                pass
-            else:
-                md.write(f"<p style='text-align:end;'> \- by _{book.getAuthor()}_<p>\n")
-            print(title)
-            md.write("____\n")
-            md.write("<br>\n")
-            for quote in book.getQuotes():
-                time = Time(quote["timestamp"])
-                recentTime = compareTimings(recentTime, time)
-                if recentTime == time:
-                    recentBook = book
-                if quote['type'] == 'Note':
-                    md.write(f"___Note___: “{quote['quote']}”\n<br>")
-                elif quote['type'] == 'Highlight':
-                    md.write(f"___Highlight___:\n\n> “{quote['quote']}”\n\n<br>")
-                else:
-                    md.write(f"“{quote['quote']}”\n<br>")
-                md.write(
-                    f"<span style='font-size:12px'>{quote['locationPrefix']} _{quote['location']}_ | {quote['timestamp']} </span><br><br>"
-                )
-        if os.path.exists("highlights") == False:
-            os.system("mkdir highlights")
-        str = f'pandoc --pdf-engine=wkhtmltopdf "{title}.md" -o "highlights/{title}.pdf"'
-        t = threading.Thread(target=os.system, args=(str,))
+        book_content, latest_book = build_book(book, latest_book, latest_time)
+        path = save_book(title, book_content)
+        pdf_command = prepare_pdf(title, path)
+        commands.append(pdf_command)
+
+    for command in commands:
+        t = threading.Thread(target=os.system, args=(command,))
         threads.append(t)
         t.start()
 
-    # recentBook.display()
-    title = recentBook.getTitle()
-    with open(f"{title}.md", "w") as md:
-        md.write(
-            f"<div style='font-size:36px; text-align:center;'><b>{title}</b></div>\n"
-        )
-        if recentBook.getAuthor().rstrip() == "":
-            pass
-        else:
-            md.write(
-                f"<p style='text-align:end;'> \- by _{recentBook.getAuthor()}_<p>\n"
-            )
-        print(title)
-        md.write("____\n")
-        md.write("<br>\n")
-        for quote in recentBook.getQuotes():
-            if quote['type'] == 'Note':
-                md.write(f"___Note___: “{quote['quote']}”\n<br>")
-            elif quote['type'] == 'Highlight':
-                md.write(f"___Highlight___:\n\n> “{quote['quote']}”\n\n<br>")
-            else:
-                md.write(f"“{quote['quote']}”\n<br>")
-            md.write(
-                f"<span style='font-size:12px'>{quote['locationPrefix']} _{quote['location']}_ | {quote['timestamp']} </span><br><br>"
-            )
-    if os.path.exists("highlights") == False:
-        os.system("mkdir highlights")
-    str = f'pandoc --pdf-engine=wkhtmltopdf "{title}.md" -o "highlights/{title}.pdf"'
-    t = threading.Thread(target=os.system, args=(str,))
-    threads.append(t)
-    t.start()
-
+    # Wait for all threads to finish
     for thread in threads:
         thread.join()
-    os.system(f'zip "Highlights.zip" highlights/*')
-    os.system(f'mv Highlights.zip "Static/"')
 
-    cleanFiles()
+    # Copy latest book as the _latest.pdf
+    if latest_book:
+        shutil.copy(
+            f"highlights/{latest_book.getTitle()}.pdf",
+            "highlights/_latest.pdf",
+        )
+
+    with zipfile.ZipFile("Highlights.zip", "w") as zip:
+        for file in os.listdir("highlights"):
+            zip.write(f"highlights/{file}")
+    shutil.move("Highlights.zip", "Static/")
+
+    clean_files()
     return send_file("Static/Highlights.zip", as_attachment=True)

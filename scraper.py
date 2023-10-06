@@ -20,13 +20,13 @@ class Book:
     def getQuotes(self):
         return self.quotes
 
-    def addQuote(self, quote, timestamp, location, locationPrefix, quote_type = None):
+    def addQuote(self, quote, timestamp, location, locationPrefix, quote_type=None):
         quote = {
             "quote": quote,
             "timestamp": timestamp,
             "location": location,
             "locationPrefix": locationPrefix,
-            'type': quote_type,
+            "type": quote_type,
         }
         for a in self.quotes:
             if a["quote"] == quote["quote"]:
@@ -134,13 +134,15 @@ def scrapeData(inputFile):
 
         location = rawData[i][locationStartIndex:locationEndIndex].rstrip()
         timestamp = rawData[i][timestampStartIndex + 2 :].rstrip()
-        
+
         ## Getting Quote type from the data
         quote_type = None
-        if 'Your Note on' in rawData[i]:
-            quote_type = 'Note'
-        elif 'Your Highlight on' in rawData[i]:
-            quote_type = 'Highlight'
+        if "Your Note on" in rawData[i]:
+            quote_type = "Note"
+        elif "Your Highlight on" in rawData[i]:
+            quote_type = "Highlight"
+        elif "Your Bookmark on" in rawData[i]:
+            quote_type = "Bookmark"
 
         i += 2
         ## Getting Quote from the data
@@ -153,10 +155,10 @@ def scrapeData(inputFile):
         book = bookExist(bookName)
         if book == -1:
             tempBook = Book(author, bookName)
-            tempBook.addQuote(quote,timestamp,location,locationPrefix, quote_type)
+            tempBook.addQuote(quote, timestamp, location, locationPrefix, quote_type)
             books.append(tempBook)
         else:
-            book.addQuote(quote,timestamp,location,locationPrefix, quote_type)
+            book.addQuote(quote, timestamp, location, locationPrefix, quote_type)
     # outputToTxt()
 
     return books
